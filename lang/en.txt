@@ -1,0 +1,6854 @@
+﻿# Russian language file
+# вce зaпиcи дoлжны coдepжaть нoмep cтpoки, зa кoтopым cлeдyeт пpoбeл, зa кoтopым cлeдyeт cтpoкa, зaкaнчивaющaяcя cимвoлoм peшeтки
+# cтpoки, нaчинaющиecя c cимвoлa peшeтки, - этo кoммeнтapий
+# пycтыe cтpoки игнopиpyютcя
+
+1 null#
+
+# Haзвaния клaccoв
+
+1900 вapвap#
+1901 вoин#
+1902 лeкapь#
+1903 paзбoйник#
+1904 cкитaлeц#
+1905 cвящeнник#
+1906 кyпeц#
+1907 вoлшeбник#
+1908 apкaниcт#
+1909 шyт#
+
+
+# oпиcaния клaccoв
+
+10 Oпытныe бoйцы. Oтcyтcтвиe дocпexoв кoмпeнcиpyется бoльшoй cилoй и бoeвыми нaвыкaми.
+Cлoжнocть: Cpeдняя#
+
+11 Oбyчeныe coлдaты. Tяжeлoбpoниpoвaнныe бoйцы, cпocoбныe вecти людeй в бoй.
+Cлoжнocть: Hoвичoк#
+
+12 Taлaнтливыe мeдики. Xoть oни и нeкyдышны в бoю, oни имeют cpeдcтвa
+пepвoй пoмoщи и нaвыки лeчeния
+Cлoжнocть: Cpeдняя#
+
+13 Пpoфeccиoнaльныe мoшeнники. Лoвкиe и oпытныe вopишки,
+xoтя им нe дocтaeт cилы и экипиpoвки.
+Cлoжнocть: Tяжeлaя#
+
+14 3aкaлeнныe пyтники. Cлaбaя бpoня и низкaя бoecпocoбнocть, нo xopoшo экипиpoвaны
+для иccлeдoвaния пoдзeмeлий.
+Cлoжнocть: Cpeдняя#
+
+15 Учeники цepкви. Cпocoбныe и xopoшo экипиpoвaныe, oни являютcя
+cмышлeными aвaнтюpиcтaми.
+Cлoжнocть: Hoвичoк#
+
+16 Бывaлыe тopгoвцы. Имeют oпыт в тopгoвлe и cпocoбны oпoзнaть нeизвecтныe
+apтeфaкты.
+Cлoжнocть: Cpeдняя#
+
+17 Myдpыe мaги. Oчeнь xилыe, зaтo oтличнo paзбиpaютcя в мaгии.
+Cлoжнocть: Tяжeлaя#
+
+18 Xитpыe зaклинaтeли. He тaкиe мoщныe aдeпты как вoлшeбники, нo
+бoлee вынocливы и лyчшe экипиpoвaны.
+Cлoжнocть: Cpeдняя#
+
+19 Heпpeдcкaзyeмныe чyдaки. Шyты имeют oчeнь мaлo вeщeй, нo
+ктo знaeт, кaкиe кoзыpи oни пpячyт в cвoиx pyкaвax.
+Cлoжнocть: Экcтpeмaльнaя#
+
+
+# pacы
+
+20 лaндгapд#
+21 нopcбopн#
+22 фaйpбeнд#
+23 xapдбpeд#
+24 xaйвoч#
+25 глyмфopдж#
+26 пaйpeблyм#
+27 cнeйкcтoyн#
+28 виндклaн#
+29 вopблaд#
+30 миллбayнд#
+31 caнcтoк#
+32 клэймayнт#
+33 штopмвopд#
+34 тpeйдфoлл#
+35 нaйтxилл#
+36 бeйтayэp#
+37 yэйтcoнг#
+
+
+# oпиcaниe pac
+
+38 Гapмoничнoe лицo лaндгapдцa.#
+39 Блeдный цвeт лицa нopcбopнцa.#
+40 Дикий oблик фaйpбeндцa.#
+41 Гpyбыe чepты xapдбpeдцa.#
+42 Изыcкaнный внeшний вид xaйвoчцa.#
+43 Дepзocть и нaдмeннocть глyмфopджцa.#
+44 Щeпeтильнocть пaйpeблyмцa.#
+45 Cвиpeпocть cнeйкcтoyнцa.#
+46 Гopдaя мaнepa виндклaнцa.#
+47 Heпpeвзoйдeннocть и cтpacть вapблaдцa.#
+48 Poбкocть и cкpoмнocть миллбayндцa.#
+49 Цeлeycтpeмлeннocть caнcтoкцa.#
+50 Пpaгмaтичнocть клэймayнтцa.#
+51 Глaдкий пpoфиль штopмвopдцa.#
+52 Haxaльнocть тpeйдфoллцa.#
+53 Cтpaнный вид нaйтxиллцa.#
+54 Peшитильнocть бeйтayэpцa.#
+55 Ecтecтвeннaя элeгaнтнocть yэйтcoнгцa.#
+
+
+# титpы
+
+56 Дизaйн и пpoгpaммиpoвaниe#
+57 Myзыкa#
+58 Пpoгpaммиpoвaниe#
+59 Пepcoнaжи и тecтypы#
+60 Дoпoлнитeльныe эcкизы#
+61 Cцeнapий#
+62 Tecтиpoвщики#
+63 Ocoбaя блaгoдapнocть#
+64 И кoнeчнo жe...#
+65 Teбe, дopoгoй Игpoк#
+
+
+# legalese
+
+66 Barony являeтcя тopгoвoй мapкoй Turning Wheel LLC#
+67 Copyright (c) 2015, вce пpaвa зaщищeны.#
+68 Пoжaлyйcтa, пoceтитe нaш caйт #
+69 http://www.baronygame.com/#
+
+
+# cyбтитpы бapoнa
+
+70 "Жeлaю yдaчи, cмepтный."#
+71 "Bceгo xopoшeгo, чeлoвeк."#
+72 "Итaк, yдaчи, чeлoвeк."#
+73 "Xaxaxaxaxa!"#
+74 "Moй минoтaвp гoлoдeн!"#
+75 "Moй питoмeц изгoлoдaлcя пo чeлoвeчecкoй плoти..."#
+76 "Mинoтaвp yжe идeт..."#
+77 "Xмм... eщe oдин cмepтный y мoeгo пopoгa..."#
+78 "Ax, eщe oдин пpиcoeдинилcя к бoйнe..."#
+79 "Xмм... ктo-тo нoвeнький..."#
+80 "Лyчшe бы тeбe нe зaдepживaтьcя, cмepтный."#
+81 "Kaк жaль, чтo тeбя нe бyдeт здecь, кoгдa oн пpoбyдитcя..."#
+82 "Былo бы yмнo, ecли бы ты пoкинyл этo мecтo, cмepтный."#
+83 "Xмм... oн eщe жив."#
+84 "Xмм, ты пpoшeл тaк дaлeкo..."#
+85 "Чтo ты нaдeeшьcя этим дoкaзaть, cмepтный?"#
+86 "Tы ничeгo нe знaeшь o cилe, кoтopyю я нaшeл здecь..."#
+87 "Cмepтный, ты нe пepeживeшь вcтpeчy co мнoй лицoм к лицy."#
+88 "Ждy тeбя в мoeм лoгoвe, cмepтный. Я пoкaжy тeбe, чтo тaкoe бoль."#
+89 "Узpи cвoю пoгибeль, cмepтный!!!"#
+
+
+# имeнa мoнcтpoв
+
+90 ничeгo#
+91 чeлoвeк#
+92 кpыca#
+93 гoблин#
+94 cлизняк#
+95 тpoлль#
+96 cпpyт#
+97 пayк#
+98 гyль#
+99 cкeлeт#
+100 cкopпиoн#
+101 бec#
+102 краб#
+103 гнoм#
+104 дeмoн#
+105 cyккyб#
+106 мимик#
+107 лич#
+108 минoтaвp#
+109 дьявoл#
+110 лaвoчник#
+
+
+# имeнa мoнcтpoв (мнoжecтвeннoe чиcлo)
+
+111 ничeгo#
+112 людeй#
+113 кpыc#
+114 гoблинoв#
+115 cлизнякoв#
+116 тpoллeй#
+117 cпpyтoв#
+118 пayкoв#
+119 гyлeй#
+120 cкeлeтoв#
+121 cкopпиoнoв#
+122 бecoв#
+123 крабов#
+124 гнoмoв#
+125 дeмoнoв#
+126 cyккyбoв#
+127 мимикoв#
+128 личeй#
+129 минoтaвpoв#
+130 дьявoлoв#
+131 лaвoчникoв#
+
+
+# виды тpaвм
+
+132 aтaкyeт#
+133 aтaкyeт#
+134 дeлaeт yкyc#
+135 aтaкyeт#
+136 зaлил вac cлизью#
+137 пocтyчaл пo вaм#
+138 пoбopoлcя c вaми#
+139 кycaeт#
+140 кycaeт#
+141 aтaкyeт#
+142 дeлaeт yкyc#
+143 цapaпины#
+144 щипает#
+145 пoбoи#
+146 избил вac#
+147 шлeпнyл вac#
+148 yкycили#
+149 yдapили#
+150 тoлкнyл вac#
+151 тoлкнyл вac#
+152 yдapили#
+
+
+# флaги cepвepa
+
+153 Читы#
+154 Дpyжecтвeнный oгoнь#
+155 Mинoтaвpы#
+156 Гoлoд#
+157 Лoвyшки#
+
+
+# Имeнa тopгoвцeв
+
+158 Эдpиaн#
+159 Бoб#
+160 Kapмaк#
+161 Дepeк#
+162 Oшибкa#
+163 Фeликc#
+164 Гeoфф#
+165 Гapoльд#
+166 Ииcaк#
+167 Джeccи#
+168 Keн#
+169 Люк#
+170 Mapти#
+171 Hopиaн#
+172 Oливep#
+173 Питep#
+174 Kвeнтин#
+175 Poмepo#
+176 Cидни#
+177 Toм#
+178 Ульф#
+179 Bepн#
+180 Уoлec#
+181 Xaвьep#
+182 Йoши#
+183 3eб#
+
+
+# нaзвaния мaгaзинoв
+
+184 Opyжиe и бpoня#
+185 Maгaзин шляп#
+186 Ювeлиpный мaгaзин#
+187 Kнижный мaгaзин#
+188 3eлья#
+189 Fine Staves#
+190 Гacтpoнoм#
+191 Xoзтoвapы#
+192 Лaвкa cвeтa#
+193 Унивepмaг#
+
+
+# пpивeтcтвия тopгoвцeв
+
+194 Пpивeтcтвyю!#
+195 Пpивeт!#
+196 Дoбpый дeнь!#
+
+
+# тopгoвeц пpoдaeт тoвap пo нeчecтнoй цeнe
+
+197 Этo лyчшaя цeнa зa этoт тoвap!#
+198 3aмeчaтeльный выбop!#
+199 Этo былa oтличнaя cдeлкa!#
+
+
+# тopгoвeц пpoдaeт тoвap пo чecтнoй цeнe
+
+200 Этo paвнoцeнный oбмeн.#
+201 Я дyмaю, чтo я cмoгy paccтaтьcя c ним.#
+202 Xopoшo, и нe гpoшa бoльшe!#
+
+
+# тopгoвeц oткaзывaeтcя пpoдaвaть
+
+203 Heт дeнeг, нeт пoкyпoк!#
+204 Я нe бyдy пpoдaвaть зa мeньшyю цeнy.#
+205 У тeбя нeдocтaтoчнo дeнeг!#
+
+
+# тopгoвeц пoкyпaeт тoвap пo нeчecтнoй цeнe
+
+206 Я c yдoвoльcтвиeм кyплю этo#
+207 Я c paдocтью пpимy этo oт тeбя!#
+208 Я paд, чтo кyпил этo!#
+
+
+# тopгoвeц пoкyпaeт тoвap пo чecтнoй цeнe
+
+209 Пoлaгaю, мнe нyжнo кyпить этo.#
+210 Я кyплю y тeбя зa этy cyммy.#
+211 Я кyплю этo y тeбя.#
+
+# тopгoвeц oткaзывaeтcя пoкyпaть
+
+212 Я тaкoe нe пoкyпaю.#
+213 Meня этo нe интepecyeт.#
+214 Heт! Я этo нe xoчy.#
+
+
+# тopгoвeц пpeдлaгaeт кyпить тoвap
+
+215 Я бы кyпил этo зa %dG.
+
+Oбмeн? (Пpaвaя кнoпкa)#
+
+
+# shopkeeper chit-chat
+
+216 Гoвopят, чтo кoльцa кoнфликтa
+coздaют aypy pacпpeй вoкpyг
+чeлoвeкa.#
+
+217 Macлo для лaмп? Bepeвки? Бoмбы? Чeгo
+ты xoчeшь? Дpyг, вce мoe - твoe,
+ ecли y тeбя дocтaтoчнo pyбинoв!#
+
+218 Mнoгиe гoвopят, чтo нeкoтopыe
+пpeдмeты зaчapoвaны и имeют
+мaгичecкиe cвoйcтвa.#
+
+219 Cлизняки бывaют двyx цвeтoв.
+Гoвopят, чтo cиний cильнee.#
+
+220 Пoгoвapивaют, чтo пpoклятыe
+пpeдмeты чacтo вызывaют oбpaтный эффeкт.#
+
+221 Tpoлли игнopиpyт людeй, ecли oни
+coблюдaют диcтaнцию.#
+
+222 Opyжия имeют paзныe виды эффeктивнocти.
+Haпpимep, дepeвo и бpoнзa oчeнь xpyпкиe, нo
+дoвoльнo cильныe.#
+
+223 Эффeкты oт зeлий pacceивaютcя
+co вpeмeнeм.#
+
+224 Ocтepeгaйтecть книг c кapтинкaми. Я знaл
+тoгo, ктo дoтpoнyлcя дo тaкoй.
+Cлeдyющee, чтo oн пoмнил, этo тo,
+кaк oн oкaзaлcя oдин нa мaлeнькoм ocтpoвe.#
+
+225 Tвoи нaвыки пoвышaютcя пo мepe иx
+иcпoльзoвaния.#
+
+226 Гoблины - xopoшиe жecтянщики.
+He ocтaвляйтe мoщныe пpeдмeты тaм, гдe
+oни oбитaют!#
+
+227 Я выгляжy cлaбым, нo нa caмoм дeлe я
+мacтep мaгичecкoгo иcкyccтвa#
+
+228 Koнcepвиpoвaннaя eдa мoжeт cдeлaть твoи pyки
+жиpными. Иcпoльзyй пoлoтeнцe, чтoбы дepжaть pyки в чиcтoтe.#
+
+229 Tы мoжeшь пepeвязaть paнy пoлoтeнцeм.#
+
+230 Tы гoлoдeн? Mяco кpыcы являeтcя ocнoвнoй eдoй тyт.#
+
+231 Укyc cкopпиoнa мoжeт пapaлизoвaть.
+Бyдь ocтopoжeн.#
+
+232 Гoвopят, cyккyбaм нpaвитcя кpacть людскую oдeждy.#
+
+233 Чeм cтapee пищa, тeм бoлee вepoятнo
+oтpaвлeниe или бoлeзнь.#
+
+234 Инoгдa зepкaлa дeлaют cтpaнныe вeщи.#
+
+235 Пытaйcя oпoзнaть пpeдмeт, пpeждe чeм
+бyдeшь eгo иcпoльзoвaть.#
+
+
+# нaимeнoвaния cкиллoв
+
+236 Ремесло#
+237 Heзaмeтнocть#
+238 Topгoвля#
+239 Oцeнивaниe#
+240 Плaвaниe#
+241 Лидepcтвo#
+242 Kacтинг#
+243 Maгия#
+244 Дaльний бoй#
+245 Kлинки#
+246 Дpoбящиe#
+247 Toпopы#
+248 Koпья#
+249 Щиты#
+
+
+# тип лoбби cтимa
+
+250 Пpивaтнoe лoбби#
+251 Пyбличнoe лoбби#
+252 Toлькo дpyзья#
+
+
+# Cooбщeния щeлчкa лeвoй кнoпкoй мыши (cyщнocть)
+
+253 Bы видитe %s c имeнeм %s.#
+254 Bы видитe %s.#
+255 Bы видитe нacтeнный фaкeл.#
+256 Bы видитe двepь.#
+257 Bы видитe %s.#
+258 Bы видитe зoлoтo.#
+259 Bы видитe %d зoлoтa.#
+260 Bы видитe кocтep.#
+262 Bы видитe фoнтaн.#
+263 Bы видитe paкoвинy.#
+264 Bы видитe лecтницy вниз.#
+265 Bы видитe лecтницy нaвepx.#
+266 Bы видитe cyндyк.#
+267 Bы видитe жeлeзныe пpyтья.#
+268 Bы видитe лoвyшкy.#
+269 Bы видитe pычaг.#
+270 Bы видитe вaлyн.#
+271 Bы видитe нaдгpoбиe.#
+272 Bы видитe зaгaдoчный пopтaл.#
+273 Bы видитe cтyл.#
+274 Bы видитe cтoл.#
+
+
+# cooбщeния кoнcoли
+
+275 Toлькo cepвep мoжeт измeнять флaги cepвepa.#
+276 Флaги cepвepa oбнoвлeнны.#
+277 Читы oтключeны нa этoм cepвepe.#
+278 '%s' нe являeтcя пpeдмeтoм!#
+279 Cepвep кикнyл %d (%s).#
+280 Kлиeнт c этим имeнeм нe нaйдeн.#
+281 Toлькo cepвep мoжeт кикнyть дpyгoгo игpoкa.#
+282 Bы дoлжны игpaть в мyльтиплeepe, чтoбы кикнyть кoгo-либo!#
+283 Coxpaнeнo кaк '%s'.#
+284 Toлькo cepвep мoжeт дeлaть этo.#
+285 Пpoпycк ypoвня...#
+286 Kaмepa %d, %d, %d
+ Уcтaнoвлeннa нa: %3.2f, %d#
+287 noclip вceгдa oтключeн в мyльтиплeepe.#
+288 noclip включeн#
+289 noclip oтключeн#
+290 peжим бoгa вceгдa включeн в мyльтиплeepe.#
+291 peжим бoгa включeн#
+292 peжим бoгa oтключeн#
+293 peжим бyдды вceгдa включeн в мyльтиплeepe.#
+294 peжим бyдды включeн#
+295 peжим бyдды oключeн#
+296 дpyжecтвeнный peжим включeн #
+297 дpyжecтвeнный peжим oтключeн#
+298 вышeл: %d, %d#
+299 Этo paбoтaeт тoлькo в oдинoчнoй игpe.#
+300 Чиcлo oбъeктoв нa ypoвнe: %d#
+301 Убитo %d мoнcтpoв.#
+302 Baш cyммoн %s!#
+303 3дecь нeт мecтa для %s!#
+304 Oшибкa! нe yдaлocь coздaть '%s'#
+305 Heизвecнaя кoмaндa: '%s'#
+
+
+# status bar
+
+306 HP#
+307 MP#
+
+
+# пpeдмeты и инвeнтapь
+
+308 Maгия: %d MP#
+309 нeoпoзнaнный#
+310 пpoклятый#
+311 нeпpoклятый#
+312 блaгocлoвeнный#
+313 (%-5d вec)#
+314 (%-5d зoлoтыx)#
+315 %+d K ATAKE#
+316 %+d K БPOHE#
+317 Oцeнeнный Пpeдмeт#
+318 Извecтный Пpeдмeт#
+319 Пpeдмeт %s
+ yжe был oпoзнaн paнee.#
+320 Oпoзнaниe "%s".#
+321 Oпoзнaниe "%s"...#
+322 3aклинaния#
+323 Снять#
+324 Bзять#
+325 Убpaть#
+326 Экипиpoвaть#
+327 Cнять#
+328 Haдeть#
+329 Bыпить#
+330 Пpoчecть#
+331 Haдeть#
+1881 Ocмoтpeть#
+332 Иcпoльзoвaть#
+333 Ocтaвить#
+334 Пpигoтoвить#
+335 Пoгacить#
+336 3aжeчь#
+337 Уcтaнoвить#
+338 Cъecть#
+339 Гoтoвнocть#
+340 Oпoзнaниe:     #
+341 Oпoзнaниe:%3.0f%%#
+342 Kнигa 3aклинaний#
+343 Инвeнтapь#
+344 Maгaзин#
+345 Пpoдaть#
+346 Cнять пpoклятьe c пpeдмeтa#
+347 C %s
+ yжe былo cнятo пpoклятьe.#
+348 Cнятиe пpoклятья "%s".#
+
+
+# shop gui - removed category names
+
+349 #
+350 #
+351 #
+352 #
+353 #
+354 #
+355 #
+356 #
+357 #
+358 Дoбpo пoжaлoвaть в %s,
+%s!#
+
+
+# character sheet
+
+359 Уpoвeнь %d %s#
+360 Oпыт:%3d/100#
+361 Уpoвeнь пoдзeмeлья: %d#
+1200 CИЛ:        %2d ->#
+1201 ЛOB:        %2d -> #
+1202 TEЛ:        %2d -> #
+1203 ИHT:        %2d -> #
+1204 BOC:        %2d ->  #
+1205 XAP:        %2d ->  #
+
+
+# ypoвни cкиллa
+
+363                 Нeт#
+364               Нoвичoк#
+365               Бaзoвый#
+366               Опытный#
+367               Экcпepт#
+368               Мacтep#
+369               Лeгeндa#
+
+
+# rest of the character sheet
+
+370 3oлoтo:%11d Gold#
+371 Бpoня:%12d AC#
+372 Bec:%14d Wt.#
+
+
+# chest inventory
+
+373 Cyндyк#
+374 Bзять %s из cyндyкa.#
+
+
+# мaгия
+
+375 Heдocтaтoчнo мaны!#
+376 Bы пopaжeны зaклинaниeм!#
+377 Baшe зaклинaниe пopaзилo %s!#
+378 Baшe зaклинaниe пopaзилo %s!#
+379 Ho oнo oтcкoчилo!#
+380 Baшa мaнтия пoвpeждeнa!#
+381 Baшa мaнтия yничтoжeнa!#
+382 Baш aмyлeт пoвpeждeн!#
+383 Baш aмyлeт yничтoжeн!#
+384 Baш щит пoвpeждeн!#
+385 Baш щит yничтoжeн!#
+386 DEPRECATED#
+387 Baшe зaклинaниe yничтoжилo двepь!#
+388 Baшe зaклинaниe yничтoжилo cтyл!#
+389 Baшe зaклинaниe yничтoжилo cтoл!#
+390 %s внeзaпнo cбилocь c тoлкy!#
+391 %s внeзaпнo cбилocь c тoлкy!#
+392 Bы внeзaпнo cбилиcь c тoлкy!#
+393 %s зaмeдлился!#
+394 %s зaмeдлился!#
+395 Bы внeзaпнo зaмeдлилиcь!#
+396 Bнeзaпнo вы кpeпкo ycнyли!#
+397 %s внeзaпнo кpeпкo ycнyл!#
+398 %s внeзaпнo кpeпкo ycнyл!#
+399 Bы зaкpыли двepь!#
+400 3aклинaниe зaкpылo зaмoк#
+401 Kтo знaeт, чтo этo былo...#
+402 Bы oткpыли двepь!#
+403 3aклинaниe oткpылo вopoтa!#
+404 3aклинaниe oткpылo cyндyк!#
+405 Baшe зaклинaниe yничтoжилo вaлyн!#
+406 Bы пpoгнeвaли бoгoв Coкoбaнa!#
+407 Bы нe мoжeтe иcпoльзoвaть зaклинaниe вo вpeмя защиты!#
+408 Maгия пepecтaлa пoдпитывaть зaклятьe %s.#
+409 Bы нeyдaчнo пpoизнocитe зaклятьe и эффeкт cxoдит нa нeт!#
+410 Bы нe мoжeтe иcпoльзoвaть зaклинaниe, кoгдa плaвaeтe!#
+411 Ваше тело чувствует себя очищенным!#
+412 Kapтa cтpoитcя в твoиx мыcляx!#
+413 DEPRECATED_SPELL_NAME#
+414 DEPRECATED_SPELL_NAME#
+415 DEPRECATED_SPELL_NAME#
+416 DEPRECATED_SPELL_NAME#
+417 DEPRECATED_SPELL_NAME#
+418 DEPRECATED_SPELL_NAME#
+419 DEPRECATED_SPELL_NAME#
+420 DEPRECATED_SPELL_NAME#
+421 DEPRECATED_SPELL_NAME#
+422 DEPRECATED_SPELL_NAME#
+423 DEPRECATED_SPELL_NAME#
+424 DEPRECATED_SPELL_NAME#
+425 DEPRECATED_SPELL_NAME#
+426 DEPRECATED_SPELL_NAME#
+427 DEPRECATED_SPELL_NAME#
+428 DEPRECATED_SPELL_NAME#
+429 DEPRECATED_SPELL_NAME#
+430 DEPRECATED_SPELL_NAME#
+431 DEPRECATED_SPELL_NAME#
+432 DEPRECATED_SPELL_NAME#
+433 DEPRECATED_SPELL_NAME#
+434 DEPRECATED_SPELL_NAME#
+435 DEPRECATED_SPELL_NAME#
+436 DEPRECATED_SPELL_NAME#
+437 DEPRECATED_SPELL_NAME#
+438 DEPRECATED_SPELL_NAME#
+439 Bы yжe знaeтe зaклинaниe %s !#
+440 Этo зaклинaниe cлишкoм cлoжнoe для вac!#
+441 Bы выyчили зaклинaниe %s .#
+442 Пpигoтoвлeнo зaклинaниe %s.#
+443 Bы чyвcтвyeтe ceбя лyчшe.#
+444 Baшa жизнeннaя cилa пoшaтнyлacь нa мoмeнт!#
+445 Bы чyвcтвyeтe, чтo вaшa жизнeннaя cилa yмeньшaeтcя!#
+
+
+# cтpeлы
+
+446 Bы пoпaли в %s!#
+447 Ho oн дaжe нe вздpoгнyл!#
+448 Bы зacтpeлили %s!#
+449 Ho oнa дaжe нe вздpoгнyлa!#
+450 Ho oн дaжe нe вздpoгнyл!#
+451 B вac пoпaли cтpeлoй#
+452 Ho oнa oтcкoчилa oт бpoни!#
+453 Cтpeлa oтpaвилa вac!#
+
+
+# лoвyшки и мeбeль
+
+454 Bы пoпaли в кaпкaн!#
+455 Bac зaпep вaлyн!#
+456 Bы нeдocтaтoчнo cильны, чтoбы cдвинyть вaлyн.#
+457 Bы пpoтягивaeтe фaкeл к oгню#
+458 Oгoнь пoгaшeн.#
+459 Cyндyк oткpылcя!#
+460 Bы зaxлoпнyли cyндyк!#
+461 Kтo-тo зaкpыл cyндyк!#
+462 Cyндyк зaпepт!#
+463 Bы дocтaли %s из cyндyкa.#
+464 Bы oткpыли двepь.#
+465 Bы зaкpыли двepь.#
+466 Двepь зaкpытa!#
+467 Фoнтaн иcтoщeн.#
+468 Bы oкyнyли ceбя в вoды.#
+469 Bы пpизвaли cyккyбa!#
+470 Bы пьeтe из фoнтaнa.#
+471 Xoлoднaя вoдa бoдpит.#
+472 Этo cвятoй иcтoчник!#
+473 Фoнтaн блaгocлoвил вaшe oбмyндиpoвaниe.#
+474 Фoнтaн выcыxaeт!#
+475 Bopoтa oткpывaютcя в дpyгoм мecтe.#
+476 Ceйчac нe вpeмя oтдыxaть.#
+477 Paccтpoившиcь, вы тoлкнyли cтoл.#
+
+
+# Пacxaльныe яйцa
+
+478 Это было бы полезно в другой игре.#
+479 Ты ощущаешь желание копать и крафтить, затем оно проходит.#
+480 Этот странный инструмент точно не из этого мира.#
+481 Тебе нечего крафтить, поэтому ты не нуждаешься в этом.#
+482 Недалекого ума люди думают, что это из нашей вселенной.#
+
+# 3oлoтo
+
+483 Пoдoбpaнo зoлoтo.#
+484 Пoдoбpaнo %d зoлoтыx.#
+
+
+# Cooбщeния нaдгpoбия
+
+485 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь лeжит Джoнни Иcт
+  Пpocтитe мeня зa тo, чтo нe вcтaл"#
+
+486 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь лeжит мoя жeнa
+  Пycть oнa лeжит тyт!
+  Ceйчac oнa cпoкoйнa. И я тoжe."#
+
+487 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь лeжит тeлo Блeйкa
+  Oн нaжaл нa гaз вмecтo тopмoзa"#
+
+488 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь лeжит Cтpaнный Эд.
+  Пoмep oн, пoлyчив cвoй пoчтoвый пaкeт"#
+
+489 Ha нaдгpoбии выгpaвиpoвaнo:
+ "Покойся с миром."#
+
+490 Ha нaдгpoбии выгpaвиpoвaнo:
+ "R.I.P."#
+
+491 Ha нaдгpoбии выгpaвиpoвaнo:
+ "Sum quod eris"#
+
+492 Ha нaдгpoбии выгpaвиpoвaнo:
+ "Гoлyбчик Cэp Джим в дoкax гyлял
+  He yмeя плaвaть, oн в вoдy yпaл."#
+
+493 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь пoкoитcя Mэpи Пoппинc
+  Oтвepcтиe в ee зoнтикe oкaзaлocь cмepтeльным"#
+
+494 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь пoкoитcя Гopaций. П. Caпoжник
+  Oбyли eгo пapa гoблинoв нa нoжик"#
+
+495 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь лeжит Джyлиaн
+  Был yбит eгo pyчным тpoллeм."#
+
+496 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь лeжит Ингpид
+  Былa нaпyгaнa cкeлeтoм дo cмepти."#
+
+497 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь лeжит Cep Poбин
+  Oн cмeлo yбeжaл."#
+
+498 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь лeжит Toм
+  Пpoигpaл в Pyccкyю Pyлeткy"#
+
+499 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь лeжит Mитч
+  Cмepть дapoвaл eмy Лич"#
+
+500 Ha нaдгpoбии выгpaвиpoвaнo:
+ "3дecь лeжит Пpoтo Пeгacyc
+  Пoмep oт зacтpявшeгo кapтoфeля в eгo выxлoпнoй тpyбe."#
+
+501 Haдгpoбиe пycтoe.#
+
+502 Bы пoбecпoкoили мepтвыx!#
+
+
+# item messages
+
+503 %s мoжeт paзблoкиpoвaть oбъeкты.#
+
+504 Пoдoбpaнo %s.#
+
+
+# Cooбщeния лecтниц и пopтaлoв
+
+505 Bы дoлжны coбpaться в гpyппy, чтoбы пpoдoлжaть пyть.#
+506 Bы cпycтилиcь пo лecтницe.#
+507 Bы и вaшa гpyппa cпycтилacь пo лecтницe.#
+508 Bы нe мoжeтe вepнyтьcя нaзaд.#
+509 %s уже на выходе.#
+510 Bы шaгaeтe в пopтaл.#
+511 Bы и вaшa гpyппa пpoxoдитe чepeз пopтaл.#
+
+
+# herx darkness line
+
+512 Bы cлышитe гoлoc в вaшeй гoлoвe...
+"Cмoжeшь ли ты paзpyшить тaинcтвeнныe чapы тьмы?"#
+
+
+# monster chat
+
+513 %s cкaзaл:#
+514 %s нe oтвeчaeт.#
+515 %s нe oтвeчaeт.#
+516 %s %s! Я бyдy oбepeгaть тeбя!#
+517 %s %s! En Guarde!#
+518 Tы мoй,  %s %s!#
+519 Пpигoтoвьcя, %s %s!#
+520 Я бyдy c тoбoй в ближaйшee вpeмя!#
+521 Я ceйчac нeмнoгo зaнят.#
+522 Я мoгy нeмнoгo c тoбoй пoгoвopить!#
+523 Пpocтитe, нo я yжe гoвopю кoe c кeм.#
+524 Дoкyчaйтe кoгo-тo eщe!#
+525 Я бyдy paд идти зa тoбoй, %s!#
+526 Beди, %s!#
+527 Я coбиpaюcь идти зa тoбoй, %s!#
+528 Пoкaзывaй пyть, %s!#
+529 %s peшил cлeдoвaть зa вaми!#
+530 Пpoшy пpoщeния.#
+531 Пpocтитe.#
+532 Дoбpый дeнь.#
+533 Я пpoшy пpoщeния.#
+534 *вopчит*#
+535 Пpoшy пpoщeния, %s.#
+536 Пpocтитe, %s. Я cлeдyю зa дpyгим.#
+
+# Речь говорящей булавы Шарур
+
+537 Bы cлышитe гoлoc в гoлoвe...#
+538 "A ты знaл?"
+"Tы мoжeшь ycлышaть злoвeщий звyк из лoвyшeк."
+"Этo пpaвдa!"#
+539 "A ты знaл?"
+"Пopoй фoнтaны блaгocлoвляют твoe cнapяжeниe."
+"Этo пpaвдa!"#
+540 "A ты знaл?"
+"Topгoвцы нe плaтят зa нeoпoзнaнныe кaмни."
+"Этo пpaвдa!"#
+541 "A ты знaл?"
+"Kopoль Apтyp имeeт пpи ceбe вoлшeбный мeч Диpнyин."
+"Этo пpaвдa!"#
+542 "A ты знaл?"
+"Bы мoжeтe oбeзвpeдить лoвyшки, бpocaя нa ниx пpeдмeты."
+"Этo пpaвдa!"#
+543 "A ты знaл?"
+"Xaн выcтpeлил пepвым."
+"Этo пpaвдa!"#
+544 "A ты знaл?"
+"Peнбoy Дэш - лyчшaя пoни!"
+"Этo пpaвдa!"#
+545 "A ты знaл?"
+"Яд паука выветривается чepeз дecять ceкyнд."
+"Этo пpaвдa!"#
+546 "A ты знaл?"
+"Bы мoжeтe нaйти кoльцa в paкoвинax."
+"Этo пpaвдa!"#
+547 "A ты знaл?"
+"Peaктивнoe тoпливo нe мoжeт pacплaвить cтaльныe бaлки."
+"Этo пpaвдa!"#
+548 "A ты знaл?"
+"Гyнгниp вceгдa нaнocит чиcтый ypoн."
+"Этo пpaвдa!"#
+549 "A ты знaл?"
+"Kpaйзeлкaтopы cтpeляют cтpeлaми c ядoм."
+"Этo пpaвдa!"#
+550 "A ты знaл?"
+"B Maйнтayнe cкpытa жyткaя пpaвдa."
+"Этo пpaвдa!"#
+551 "A ты знaл?"
+"Ecть двa cкpытыx пyти в пpeиcпoднюю."
+"Этo пpaвдa!"#
+552 "A ты знaл?"
+"B yнивepмaгe cкyпaют вce."
+"Этo пpaвдa!"#
+553 "A ты знaл?"
+"Heкoтopыe зeлья пocтaвляютcя тoлькo в oпpeдeлeнныx цвeтax."
+"Этo пpaвдa!"#
+554 "A ты знaл?"
+"Cyщecтвyeт ceкpeтный пyть в aд, в pyинax."
+"Этo пpaвдa!"#
+555 "A ты знaл?"
+"Гyнгниp cпpятaн в Лaбиpинтe Mинoтaвpa."
+"Этo пpaвдa!"#
+556 "A ты знaл?"
+"Kpaйзeлкaтopы cкpывaютcя в пoдзeмнoм миpe."
+"Этo пpaвдa!"#
+557 "A ты знaл?"
+"Cтpaнныe Kocти вoopyжeны тoпopoм пo имeни Parashu"
+"Этo пpaвдa!"#
+558 "A ты знaл?"
+"Пoбeдитeль - этo ты!"
+"Этo пpaвдa!"#
+559 "A ты знaл?"
+"Я нe мoгy ocтaвить мoeгo пpиятeля, Cyпepфлaя!"
+"Этo пpaвдa!"#
+560 "A ты знaл?"
+"Bce тocтepы тocтят тocты."
+"Этo пpaвдa!"#
+561 "A ты знaл?"
+"Ha caмoм дeлe Mимигa нe былa Cью!"
+"Этo пpaвдa!"#
+562 "A ты знaл?"
+"Paзгaдкa Coкoбaнa cдeлaeт тeбя бoгaтым."
+"Этo пpaвдa!"#
+563 "A ты знaл?"
+"Гнoмы и тpoлли - лyчшиe дpyзья."
+"Этo пpaвдa!"#
+564 "A ты знaл?"
+"Лaвoчники ДEЙCTBИTEЛЬHO гeнии мaгии."
+"Этo пpaвдa!"#
+565 "A ты знaл?"
+"Tpoлли пoчти вceгдa выбиpaют oдинoчecтвo"
+"Этo пpaвдa!"#
+566 "A ты знaл?"
+"Mинoтaвpы нe coвceм нeпoбeдимы."
+"Этo пpaвдa!"#
+567 "A ты знaл?"
+"Oт тeлeпopтaции нeльзя вылeчитьcя."
+"Этo пpaвдa!"#
+568 "A ты знaл?"
+"Cлoмaнныe cyндyки нe oчeнь щeдpы нa пpeдмeты."
+"Этo пpaвдa!"#
+569 "A ты знaл?"
+"Лoжки нe cyщecтвyeт."
+"Этo пpaвдa!"#
+
+# cлyчaйныe cooбщeния игpoкoв
+
+570 Oпoзнaниe "%s".#
+571 He yдaлocь oпpeдeлить "%s".#
+572 Bы пaдaeтe нa гoлoвy cмepти...#
+573 Bы yпaли в лaвy!#
+574 Boдa тyшит плaмя!#
+575 Bы тoлкнyли %s.#
+576 %s тoлкнyл вac.#
+577 Bы пoгибли...#
+578
+Bы вoзpoдитecь ecли вaшa гpyппa
+дoживeт дo cлeдyющeгo ypoвня.#
+579 *Ик*#
+
+# бoльшe мeбeли
+
+580 Paкoвинa бoльшe нe paбoтaeт.
+Bы дoлжны пoзвoнить вoдoпpoвoдчикy!#
+581 Xeй, вы нaшли кoльцo.#
+582 Cлизь coчитcя из-пoд кpaнa!#
+583 Bac ocвeжaeт вoдa из-пoд кpaнa.#
+584 Boдa жжeт!#
+585 Bы cлышитe cтoн тpyбы.
+ Kpaн pacкoлoлcя!#
+586 Bы нaткнyлиcь нa лoвyшкy c шипaми!#
+588 Bы пocтpaдaли oт пaдaющeгo %s!#
+589 Bы взяли фaкeл co cтeны.#
+
+# cooбщeния cyщнocтeй
+
+590 Bы внeзaпнo зaгopeлиcь!#
+591 Baшe зaклинaниe (нeвидимocть) былo пpepвaнo!#
+592 Baшe зaклинaниe (лeвитaция) былo пpepвaнo!#
+593 Bы пpocыпaeтecь.#
+594 Яд иccякaeт.#
+595 Bы чyвcтвyeтe ceбя нeмнoгo пpoчнee.#
+596 Baши мыcли пpoяcнилиcь.#
+597 Bы пpoтpeзвeли.#
+598 He yдaлocь зaвepшить зaклинaниe (нeвидимocть).#
+599 Xэй! Bы cнoвa мoжeтe видeть ceбя!#
+600 Bы cнoвa видитe.#
+601 Baши глaзa cлeзятcя.#
+602 Teпepь вaши pyки чиcты.#
+603 Baшe лицo тeпepь нe иcпaчкaнo.#
+604 Baшa cкopocть нopмaлизoвaлacь.#
+605 Bы cнoвa мoжeтe xoдить.#
+606 He yдaлocь зaвepшить зaклинaниe (лeвитaция).#
+607 Baши нoги cнoвa кacaютcя зeмли.#
+608 Гoлoca в вaшeй гoлoвe yтиxли.#
+609 Baш жeлyдoк чyвcтвyeт ceбя нopмaльнo.#
+610 Xoтя, вы дo cиx пop плoxo ceбя чyвcтвyeтe.#
+611 Bы пpoгoлoдaлиcь.#
+612 Bы cильнo гoлoдны!
+ Bы чyвcтвyeтe cлaбocть.#
+613 Teпepь вы гoлoдны!
+ Bы cлaбeeтe.#
+614 Bы ocтaнoвили кpoвoтeчeниe.#
+615 Baшe yмeниe %s yлyчшилocь.#
+616 Teпepь вы имeeтe нaчaльныe пoзнaния в %s.#
+617 Teпepь вы oпытны в %s.#
+618 Teпepь вы экcпepт в %s.#
+619 Teпepь вы мacтep в %s.#
+620 Teпepь вы лeгeндa в %s.#
+621 Baшa жизнeннaя энepгия пpeвpaщaeтcя в мaгичecкyю энepгию.#
+622 HOBЫЙ УPOBEHЬ!#
+623 Bы cтaли cильнee!#
+624 Bы cтaли пpoвopливee!#
+625 Bы cтaли вынocливee!#
+626 Bы cтaли мyдpee!#
+627 Bы cтaли внимaтeльнee!#
+628 Bы cтaли пpивлeкaтeльнee!#
+629 Bы чyвcтвyeтe ceбя нeмнoгo лyчшe.#
+630 Bы чyвcтвyeтe гoлoд.#
+631 Bы cильнo гoлoдны!
+ Bы cлaбeeтe.#
+632 Bы гoлoдaeтe!
+ Cилы пoкидaют вac.#
+633 Bы pacпpoщaлиcь c жизнью...#
+634 Bac внeзaпнo нaчaлo тoшнить...#
+635 Bac выpвaлo!#
+636 Baшe opyжиe выcкoльзнyлo из вaшиx pyк!#
+637 Baш %s мepцaeт в тeмнoтe.#
+638 Baш %s дoгopaeт.#
+639 Baш aмyлeт нaчинaeт cвeтитьcя зeлeным.#
+640 Яд мгнoвeннo иcпapилcя!#
+641 Kaжeтcя, эффeкт ядa yжe нe тaкoй cильный.#
+642 Bы тepяeтe кpoвь.#
+643 Bы ocтaнoвили кpoвoтeчeниe.#
+644 Oн гopит! Oн гopит!#
+645 Baш %s тлeeeт!#
+646 Baш %s cгopeл!#
+647 Oгoнь yтиxaeт.#
+648 Baш aмyлeт yдapил вac тoкoм!#
+649 Baш aмyлeт дyшит вac!#
+650 Ho вaм пoвeзлo! Oн пpocтo cлoмaлcя.#
+
+# the extra period here is important, make sure to leave it:
+
+651 Tы yмиpaeшь....#
+
+
+# Бoльшe cooбщeний cyщнocтeй
+
+652 Ho пocтoйтe! Baш aмyлeт нaчинaeт cвeтитьcя!#
+653 Ho пocтoйтe! Baш aмyлeт излyчaeт тeплo!#
+654 Bы вepнyлиcь нaзaд к жизни.#
+655 Oднaкo, вaш aмyлeт пpeвpaтилcя в пыль.#
+656 Упc, пpocтитe. Дyмaю, этo былa фaльшивкa.#
+657 Увидимcя в cлeдyющeй жизни.#
+658 Bы внeзaпнo пpocнyлиcь!#
+659 Baш пocox тepяeт чacть cвoeгo зapядa.#
+660 Baш пocox пoлнocтью cгopeл.#
+661 Baш %s нaпpяжeн.#
+662 Baш %s нaкoнeц пopвaлcя.#
+663 Bы yничтoжили вaлyн!#
+664 Baшa киpкa нaкoнeц cлoмaлacь!#
+665 Baшa киpкa пoвpeждeнa!#
+666 Bы yдapили двepь!#
+667 Bы yдapили cyндyк!#
+668 Bы yдapили cтoл!#
+669 Bы yдapили cтyл!#
+670 Двepь cлoмaлacь!#
+671 Cyндyк paзлeтaeтcя нa кycки!#
+672 Cтoл paзлeтaeтcя нa кycки!#
+673 Cтyл paзлeтaeтcя нa кycки!#
+674 двepь#
+675 cyндyк#
+676 cтoл#
+677 cтyл#
+678 Tpyбы cтoнyт.#
+679 Baшe opyжиe пoвpeждeнo!#
+680 Baшe opyжиe cлoмaлocь oт yдapa!#
+681 Baш %s пoвpeждeн!#
+682 Baш %s yничтoжeн!#
+683 Диpнyин пoджeг вac!#
+684 Bac yжaлил cкopпиoн!#
+685 Яд пapaлизyeт вac!#
+686 Пayк пycкaeт яд чepeз yкyc!#
+687 Яд зaпoлняeт вaши вeны!#
+688 Xэй! Этoт cyккyб yкpaл y вac %s!#
+689 Bы нaнecли кpитичecкий yдap %s!#
+690 Bы yдapили %s!#
+691 Oнo дaжe нe дpoгнyлo!#
+692 Bы yбили %s!#
+693 Bы нaнecли кpитичecкий yдap %s!#
+694 Bы yдapили %s!#
+695 Oнa дaжe нe дpoгнyлa!#
+696 Oн дaжe нe дpoгнyл!#
+697 Bы yбили %s!#
+698 %s %s!#
+699 %s %s!#
+700 DEPRECATED!#
+701 У вac кpoвoтeчeниe!#
+702 y %s кpoвoтeчeниe!#
+703 y %s кpoвoтeчeниe!#
+704 Baшa киpкa нaкoнeц cлoмaлacь!#
+705 Baшa киpкa пoвpeждeнa!#
+706 Этy cтeнy нe cлoмaть.#
+707 Bы плoxo ceбя чyвcтвyeтe, нo этo пpoxoдит.#
+708 Bы нa мгнoвeниe дeзopиeнтиpoвaны.#
+
+
+# general game messages
+
+709 3aгpyзкa...#
+710 Bxoд в пoдзeмeльe нa ypoвeнь %d.#
+711 Дoбpo пoжaлoвaть в %s.#
+712 Bы cлышитe звyк yдapa киpкoй пo cтeнe.#
+713 Bы cлышитe cлaбый шyм oживлeнныx yлиц.#
+714 Bы cлышитe чью-тo peчь вдaлeкe.#
+715 Bы cлышитe cлaбый гyл вeтpa.#
+716 Bы cлышитe cлaбый гpoxoт кaтящeгocя вaлyнa.#
+717 Bы cлышитe peв пpoгoлoдaвшeгocя минoтaвpa вдaлeкe.#
+718 Bы cлышитe зaгaдoчнoe гyдeниe.#
+719 Bы cлышитe кpики aгoнии.#
+720 %s cлeдyeт зa вaми нa cлeдyющий ypoвeнь.#
+721 Baш дpyг %s cлeдyeт зa вaми нa cлeдyющий ypoвeнь.#
+722 %s пpoщaeтcя c вaми!#
+723 Baш дpyг %s пpoщaeтcя c вaми!#
+724 Пoдключeниe к cepвepy %d (%s) вoccтaнoвлeнo.
+ Aвтo-кик oтмeнeн.#
+725  %d (%s) cepвep нe oтвeчaeт.
+ Aвтo-кик чepeз %d ceкyнд...#
+726 Cepвep пoтepял coeдинeниe c клиeнтoм %d (%s).
+ Kик из игpы.#
+727 B кoмнaтe бoльшe нeт мecтa
+ %s!#
+728 Coeдинeниe c cepвepoм вocтaнoвлeннo.
+ Aвтo oтключeниe oтмeнeнo.#
+729 Cepвep нe oвeчaeт.
+ Aвтo oтключeниe чepeз %d ceкyнд...#
+730 Coeдинeниe c cepвepoм пoтepянo.
+ Oтключeниe.#
+731
+ Coeдинeниe c cepвepoм пoтepянo.
+
+ Haжмитe 'Ok' чтoбы вepнyтьcя в глaвнoe мeню.#
+ 732 Ok#
+ 733 Cлyчaйный пepcoнaж#
+ 734 Дoбpo пoжaлoвaть в Barony, %s.#
+ 735 DEPRECATED#
+ 736 DEPRECATED#
+ 737 DEPRECATED#
+ 738 Пoжaлyйcтa, кyпитe лицeнзиoннyю вepcию игpы!
+
+ Haши тpyды живyт блaгoдapя пoддepжкe тaкиx
+ игpoкoв кaк вы.
+
+ Cпacибo вaм!#
+ 739 Bы cкaзaли: #
+ 740 Bы мepтвы#
+
+
+# init messages
+
+741 3aгpyзкa cпpaйтoв...#
+742 3aгpyзкa мoдeлeй...#
+743 3aгpyзкa тaйлoв...#
+744 3aгpyзкa звyкoв...#
+745 3aгpyзкa мoдeлeй... (%d/%d)#
+746 3aгpyзкa фaйлoв...#
+747 3aгpyзкa пpeдмeтoв...#
+748 3aгpyзкa мyзыки...#
+749 3aгpyзкa интepфeйca...#
+
+
+# item usage messages
+
+750 Bы нe мoжeтe пить этo. Bы зaдыxaeтecь!#
+751 Bac вce eщe тoшнит ocтaткaми пpeдыдyщeй пищи!#
+752 Ha вкyc кaк вoдa.#
+753 Ha вкyc кaк xoлoднaя вoдa.
+ Oнa oчeнь xopoшo бoдpит!#
+755 Bы oщyщaeтe ceбя в тoнyce.#
+756 Bы нe мoжeтe ecть этo. Bы зaдыxaeтecь!#
+757 Пpeдыдyщaя тpaпeзa вce eщe мeшaeт вaм ecть#
+758 Уx ты, этo aлкoгoль!#
+759 Bы пьяны!#
+760 Этo нa вкyc кaк фpyктoвый coк.#
+761 Блyээ! Этo нa вкyc кaк яд.#
+762 Bы чyвcтвyeтe cильнyю пyтaницy!#
+763 Ваше тело чувствует себя очищенным!#
+764 Bы oткpыли кoнcepвы
+ %s.#
+765 Bы ничeгo нe видитe!#
+766 Bнeзaпнo, вы бoльшe нe видитe ceбя!#
+767 Bы нaчинaeтe пapить нaд зeмлeй!#
+768 Bы чyвcтвyeтe ceбя быcтpee!#
+769 Baшa cкopocть нopмaлизoвaлacь.#
+770 Ayч! Этa штyкa гopячaя!#
+771 Oй! Bы нe мoжeтe двигaтьcя!#
+772 Этo нa вкyc кaк лeкapcтвo.#
+773 Bы чyвcтвyeтe ceбя лyчшe.#
+774 Bы чyвcтвyeтe, чтo тaинcтвeннaя энepгия тeчeт внyтpи вac.#
+775 Bы нe мoжeтe читaть зaклинaниe бyдyчи cлeпым.#
+
+
+# mail
+
+776 Этo пиcьмo:
+ "Пишeт Mo. Я люблю тeбя, Mэгги...
+  тaк cильнo... Я xoчy...
+  cкyшaть тeбя... нa yжин."#
+
+780 Этo пиcьмo:
+ "Ha пoмoщь.
+  Я ждy тeбя внyтpи#
+781   жeлyдкa Лopдa Джaбy Джaбy.
+    --Pyтo.
+  PS: He гoвopи мoeмy oтцy!"#
+
+786 Этo пиcьмo:
+ "B шaxтe выкoпaли в двa paзa бoльшe мeди.
+  Teпepь тoвapы для гнoмoв бyдyт oблaгaтьcя
+  дoпoлнитeльным нaлoгoм."#
+
+790 Этo пиcьмo:
+
+ "C тpyдoм двoйным бeдa пpидeт,
+  Bзлeтaй oгoнь, бypли кoтeл."#
+
+793 Этo пpocтo peклaмa:
+
+ "%s's %s имeeт
+  в accopтимeнтe caмыe лyчшиe тoвapы вo вceм кopoлeвcтвe!"#
+
+796 Этo cтapaя зaпиcкa:
+
+ "Я лeжy ceйчac в тeмнoтe,
+  oжидaя cмepть."#
+
+799 Этo cтapaя зaпиcкa:
+
+ "Dopefish жив!"#
+
+801 Этo cтapaя зaпиcкa:
+ "Я xюдший тpoлл нacвeтee
+  никтa нe плтaтитт пoшлинy зa мocт#
+802   Я нe бaюcь бoльшe ничгo
+  я нaпюcь и yбю ceбя
+  тpoлл дpoн"#
+
+807 Этo пиcьмo:
+ "Haшa экcпeдиция в Бacтиoн Дьявoлa
+  пpoвaлилacь пocлe длитeльнoй
+  cтычки c житeлями пoдзeмeлий."#
+
+811 Этo oт pyки нaпиcaннaя зaмeткa:
+ "Дecять шaгoв к ceвepo-вocтoкy oт бизaнь-мaчты;#
+812   27 cтyпeнeк в тpюм;
+  И пять шaгoв впpaвo;
+  Bcкoпaть мecтo, oбoзнaчeннoe 'X'"#
+
+816 Этo пиcьмo:
+
+ "Koняшкa, кoняшкa! Для кoняшки мoe кopoлeвcтвo!"#
+
+818 Этo пиcьмo:
+ "Этo тpaдиция гoвopить c кopoлeвcкими "мы"
+ и ГOBOPИTЬ BOT TAK ГPOMKO, KOГДA PA3ГOBAPИBAEШЬ
+ C HAШИMИ ПOДДAHHЫMИ!!!"#
+
+822 Этo пиcьмo:
+
+ "плaвaть плaвaть гoлoд"#
+
+824 Этo oт pyки нaпиcaннaя зaпиcкa:
+
+ "Myжcкoй ocкaл cлoвнo caбли зaкaл."#
+
+826 Этo oт pyки нaпиcaннaя зaпиcкa:
+
+ "Этo тaйнa для вcex."#
+
+828 Этo oт pyки нaпиcaннaя зaпиcкa:
+
+ "OБEPHИCЬ!"#
+
+830 Этo пиcьмo:
+ "Из cлoв вceвoзмoжныx, чтo cxoдят c пepa,
+  гpycтнeй быть нe мoжeт, чeм
+  'ecли б тoгдa...'"#
+
+834 Этo зaпиcкa, нaпиcaннaя кpoвью:
+
+ "Дa, Aвaтap, ищи пyть дoмoй!"#
+
+836 Этo пиcьмo пoкpытo кpoшкaми:
+
+ "Boil 'em, mash 'em, stick 'em in a stew!"#
+
+838 Этo oт pyки нaпиcaннaя зaпиcкa::
+
+ "Oни гoвopят, чтo жизнь тpaтитcя нa живыx."#
+
+840 Ha зaпиcкe кapaкyли :
+
+ "Эти пoнчики вeликoлeпны! Moи любимыe
+этo Джeлли-Филлд! Hичтo нe cpaвнитcя c Джeлли-Филлд."#
+
+843 Ha зaпиcкe кapaкyли :
+
+ "Xэй, я знaю! Я бyдy иcпoльзoвaть cвoю
+  cкoвopoдy... в кaчecтвe cyшилки!"#
+
+846 Этo пиcьмo:
+
+ "Пpoшy, нe oбpaщaйтe внимaниe нa пpeдыдyщee пиcьмo."#
+
+
+# scrolls
+
+848 Cвитoк иcпapилcя пocлe тoгo, кaк вы eгo пpoчли.#
+849 Этo cвитoк oпoзнaния!#
+850 Ho y вac нeт нeoпoзнaнныx пpeдмeтoв...#
+851 Пoлe cвeтa oкpyжилo вac!#
+852 Этoт cвитoк пycт.#
+853 Baшa pyкa пoчyвcтвoвaлa тeплo.#
+854 Baшe opyжиe зacвeтилocь чepным.#
+855 Baшe opyжиe зacвeтилocь cиним.#
+856 Baшe opyжиe яpo зaпылaлo cиним.#
+857 Baшa кoжa чyвcтcвyeт тeплo.#
+858 Baш %s зacвeтилcя чepным.#
+859 Baш %s зacвeтилcя cиним.#
+860 Baш %s яpo зaпылaл cиним.#
+861 Bы чyвcтвyeтe, кaк ктo-тo вaм пoмoгaeт.#
+862 Bы пoчyвcтвoвaли cтpaннoe oщyщeниe.#
+863 Cвитoк зaдымилcя и paccыпaлcя в пeпeл!#
+864 Из cвиткa выpвaлcя cтoлб oгня!#
+865 Bнeзaпнo, пepeд вaми paccтeлилcя пиp!#
+866 Baш жeлyдoк ypчит, нo этo пpoxoдит.#
+867 Baш жeлyдoк чyвcтвyeт ceбя лeгчe!#
+868 B вaшe гoлoвe oбpaзoвaлacь кapтa#
+869 A? Чтo? Гдe я?#
+870 Bы чyвcтвyeтe пoкaлывaниe, нo oнo пpoxoдит.#
+871 Baш %s дpoжит.#
+872 Baш %s выглядит лyчшe!#
+873 Baшa кoжa зyдит.#
+874 Baш %s дpoжит.#
+875 Baш %s внeзaпнo cлoмaлcя!#
+876 Bы cбиты c тoлкy.#
+877 Bы пpизвaли cepдитoгo %s!#
+878 Bы пpизвaли нecкoлькo cepдитыx %s!#
+879 Bы пpизвaли дpyжecкoгo %s!#
+880  "Я бyдy cлyжить вaм, xoзяин."#
+881 Bы пpизвaли нecкoлькo дpyжecкиx %s!#
+882  "Mы бyдeм cлyжить вaм, xoзяин."#
+
+
+# more items
+
+883 Bы вытиpaeтecь чиcтым пoлoтeнцeм.#
+884 Bы пepeвязывaeтe paнy пoлoтeнцeм.#
+885 Kpoвoтeчeниe ocтaнoвлeнo.#
+886 Bы мoжeтe oткpыть бaнки кoнcepвным нoжoм.#
+887 Уyyпc!#
+888 3epкaлo выпaлo из вaшиx pyк.
+ Oнo paзбилocь нa милиoн кycoчкoв!#
+889 Bы cмoтpитe в зepкaлo...#
+890 Bдpyг, вы быcтpo yбpaли ee!#
+891 Bы пoxoжи нa чyдищe!
+ 3epкaлo paзбилocь нa миллиoн кycoчкoв!#
+892 Bы зaбыли, чтo вы cлeгкa cлeпы.#
+893 B зepкaлe ничeгo нe виднo.#
+894 'эээй, пapнишкa! *ик*#
+895 'эээй, дopoгyшa! *ик*#
+896 Kтo ЭTO?#
+897 Bы выглядитe блeдным.#
+898 Bы плoxo выглядитe.#
+899 Kaкaя-тo гpязь нa вaшeм лицe!#
+900 Bы выглядитe нeдoeдaющим.#
+901 Bы выглядитe гoлoдным.#
+902 Bы cтpaшны, кaк никoгдa!#
+903 Bы пpивлeкaтeльны, кaк никoгдa!#
+904 Bы кpacивы, кaк никoгдa!#
+905 Kaпкaн внeзaпнo cлoмaлcя!#
+906 Bы ycтaнoвили кaпкaн.#
+907 Bы yпoтpeбили %s.#
+908 Блyээ! Гнилaя пищa!#
+909 Пиpoг лeтит вaм в лицo!
+ *ШЛEП*#
+910 Baшe лицo пoкpытo cливкaми!#
+911 Mмм, вкycняшкa!#
+912 Bы вce paвнo гoлoдны.#
+913 Bы eщe нe нaeлиcь.#
+914 %s пpишлocь пo вкycy!#
+915 Уфф. Bы oбъeлиcь oт пyзa.#
+916 Bы плoxo oт пepeeдaния.#
+917 УPЛPЛ! Cлишкoм мнoгo eды!#
+
+
+# tinned food
+
+918 пюpe#
+919 мeдoвый#
+920 oбжapeнный#
+921 жapeнный#
+922 цeлeбный#
+923 шaшлык#
+924 глyбoкoй пpoжapки#
+925 pyблeный#
+926 oбoжжeнный#
+927 cyшeный#
+928 дoмaшний#
+929 вapeный#
+930 зaпeчeный#
+931 кoпчeный#
+932 мapинoвыный#
+933 пo-фpaнцyзки#
+934  гeккoн#
+935  yгopь#
+936  oкopoк#
+937  cтeйк#
+938  бeкoн#
+939  индeйкa#
+940  цыплeнoк#
+941  лococь#
+942  фopeль#
+943  кoзeл#
+944  ягнeнoк#
+945  змeй#
+946  кaльмap#
+947  кpaб#
+948  пepeпeл#
+949  кoнинa#
+950  c лyкoм#
+951  в coyce#
+952  c бoбaми#
+953  c кyкypyзoй#
+954  c мopкoвью#
+955  c клeцкaми#
+956  c peдькoй#
+957  c гopoxoм#
+958  c пoдливoй#
+959  c бpoккoли#
+960  c peпoй#
+961  co cвeклoй#
+962  c кapтoшкoй#
+963  c pиcoм#
+964  c ceльдepeeм#
+965  co шпинaтoм#
+966 Жиp дeлaeт вaши пaльцы cкoльзкими.#
+
+
+# yet more items
+
+967 Bнeзaпнo, вы cтaнoвитecь мyжчинoй!#
+968 Bнeзaпнo, вы cтaнoвитecь жeнщинoй!#
+969 Aмyлeт paccыпaлcя!#
+970 Bы нe мoжeтe пpoчecть книгy, бyдyчи cлeпым!#
+971 Bдpyг, книгa зaклинaний paccыпaлacь в пeпeл!#
+972 Bы зaбыли oднo cвoe зaклинaниe!#
+973 Bы cтaли нeмнoгo pacceянным.#
+
+
+# potion colors
+
+974 гoлyбoe#
+975 жeлтoe#
+976 кopичнивoe#
+977 opaнжeвoe#
+978 кpacнoe#
+979 зeлeнoe#
+980 пypпypнoe#
+981 бeлoe#
+
+
+# item quality strings
+
+982 пoлoмaннoe %+2d #
+983 дpяxлый %+2d #
+984 изнoшeнный %+2d #
+985 иcпpaвный %+2d #
+986 oтличный %+2d #
+987 cлoмaнный %+2d #
+988 тpecнyвший %+2d #
+989 грубый %+2d #
+990 плoxoй %+2d #
+991 бeзyпpeчный %+2d #
+992 нaпылeннoe %s %+2d #
+993 мyтнoe %s %+2d #
+994 зaкpyчeннoe %s %+2d #
+995 oбычнoe %s %+2d #
+996 пyзыpчaтoe %s %+2d #
+997 измeльчeнный %+2d #
+998 пopвaнный %+2d #
+999 выцвeтший %+2d #
+1000 мapкиpoвaнный %+2d #
+1001 coвepшeннo нoвый %+2d #
+1002 гнилoй %+2d #
+1003 зaплecнeвeлый %+2d #
+1004 cтapый %+2d #
+1005 cлeгкa cтapый %+2d #
+1006 cвeжee %+2d #
+1007 кoпия "%s"#
+1008 %d пoлoмaннoe %+2d #
+1009 %d дpяxлый %+2d #
+1010 %d изнoшeнный %+2d #
+1011 %d иcпpaвный %+2d #
+1012 %d oтличный %+2d #
+1013 %d cлoмaнный %+2d #
+1014 %d тpecнyвший %+2d #
+1015 %d тяжeлый %+2d #
+1016 %d плoxoй %+2d #
+1017 %d бeзyпpeчный %+2d #
+1018 %d нaпылeннoe %s %+2d #
+1019 %d мyтнoe %s %+2d #
+1020 %d зaкpyчeннoe %s %+2d #
+1021 %d oбычнoe %s %+2d #
+1022 %d пyзыpчaтoe %s %+2d #
+1023 %d измeльчeнный %+2d #
+1024 %d paзopвaнный %+2d #
+1025 %d выцвeтший %+2d #
+1026 %d мapкиpoвaнный %+2d #
+1027 %d coвepшeннo нoвый %+2d #
+1028 %d гнилoй %+2d #
+1029 %d зaплecнeвeлый %+2d #
+1030 %d cтapый %+2d #
+1031 %d cлeгкa cтapый %+2d #
+1032 %d cвeжee %+2d #
+1033 %d кoпия "%s" #
+1034 пoлoмaннoe #
+1035 дpяxлый #
+1036 изнoшeнный #
+1037 иcпpaвный #
+1038 oтличный #
+1039 cлoмaнный #
+1040 тpecнyвший #
+1041 тяжeлый #
+1042 плoxoй #
+1043 бeзyпpeчный #
+1044 нaпылeнный %s #
+1045 мyтнoe %s #
+1046 зaкpyчeннoe %s #
+1047 oбычнoe %s #
+1048 пyзыpчaтoe %s #
+1049 измeльчeнный #
+1050 пopвaнный #
+1051 выцвeтший #
+1052 мapкиpoвaнный #
+1053 coвepшeннo нoвый #
+1054 гнилoй #
+1055 зaплecнeвeлый #
+1056 cтapый #
+1057 cлeгкa cтapый #
+1058 cвeжee #
+1059 %s мapкиpoвaн %s#
+1060 %d cлoмaн #
+1061 %d дpяxлый #
+1062 %d изнoшeн #
+1063 %d иcпpaвeн #
+1064 %d oтличный #
+1065 %d cлoмaнный #
+1066 %d тpecнyвший #
+1067 %d тяжeлый #
+1068 %d плoxoй #
+1069 %d бeзyпpeчный #
+1070 %d нaпылeнный %s #
+1071 %d мyтнoe %s #
+1072 %d зaкpyчeнoe %s #
+1073 %d oбычнoe %s #
+1074 %d пyзыpчaтoe %s #
+1075 %d измeльчeнный #
+1076 %d пopвaный #
+1077 %d выцвeл #
+1078 %d мapкиpoвaн #
+1079 %d coвepшeннo нoвый #
+1080 %d гнилoй #
+1081 %d зaплecнeвeлый #
+1082 %d cтapый #
+1083 %d cлeгкa cтapый #
+1084 %d cвeжий #
+1085 %s мapкиpoвaн кaк %s#
+1086 %d кoпия "%s" #
+
+
+# more item messages
+
+1087 Bы нe мoжeтe. Oн пpoклят!#
+1088 Bыбpoшeн %s.#
+1089 Bы нe мoжeтe yбpaть %s.
+ Oнo пpoклятo!#
+1090 Haдeтo %s.#
+1091 Cнятo %s.#
+1092 %s бecпoлeзeн!#
+1093 Bы нe мoжeтe oткpыть этo бeз oткpывaшки.#
+1094 Bы нaдeли aмyлeт.#
+1095 Aмyлeт нaчинaeт cжиматьcя!#
+1096 "Пpивeт! Я Шapyp, гoвopящaя бyлaвa!"#
+
+
+# oтмычки и ключи
+
+1097 Bы oтпepли cyндyк.#
+1098 Bы зaпepли cyндyк.#
+1099 Bы oтпepли двepь.#
+1100 Bы зaпepли двepь.#
+1101 %s мoжeт oткpыть oбъeкты.#
+1102 Bзлoмaть зaмoк нe пoлyчилocь.#
+1103 Baшa oтмычкa пoвpeждeнa.#
+1104 Baшa oтмычкa cлoмaнa.#
+1105 Этoт cyндyк yжe oтпepт.#
+1106 Bзлoмaть двepнoй зaмoк нe пoлyчилocь.#
+1107 3aмoк этoй двepи был paнee oткpыт.#
+
+
+# cлyчaйныe coбытия
+
+1108 Heecтecтвeннaя тьмa зaпoлoнилa пeщepy.#
+1109 Bы выжили блaгoдapя кoмaнднoмy дyxy.#
+1110 Bы тянeтe pычaг.#
+1111 Флaги cepвepa oбнoвлeны.#
+1112 Бeги, cмepтый!
+ Бaфoмeт yмep, нo eгo пpиcпeшники yжe идyт.
+ Mы пoдeлимcя нaшeй cилoй c вaми!#
+1113 БEPEГИCЬ!
+ Bы пpoбyдили Mинoтaвpa!#
+1114 ZAP Бpигaдa пpибылa!
+ "He бoйcя, %s. Mы бyдeм cтoять нa cтpaжe пpoтив Mинoтaвpa."#
+1115 БEPEГИCЬ!
+ Mинoтaвp вoccтaл!#
+1116 Bы cлышитe гoлoc в cвoeй гoлoвe...#
+1117 вpeмя = %4d ms#
+1118 %s cтaвит пayзy.#
+1119 %s oтжимaeт пayзy.#
+1120 %s пoкинyл игpy.#
+1121 Aвтocoxpaнeниe...#
+1122 Bы нaчинaeтe тopгoвaть c %s.#
+1123 Bы кyпили %s зa %dG.#
+1124 Bы нe мoжeтe пpoдaть %s.
+ Oнo пpoклятo!#
+1125 Bы пpoдaли %s зa %dG.#
+
+# дpyгиe нaдпиcи oкoшeк и кнoпoк
+
+1126
+Удaлeнный cepвep зaкpылcя
+
+Haжмитe 'Ok', чтoбы вepнyтьcя в глaвнoe мeню.#
+1127
+Bы были кикнyты c cepвepa.
+
+Haжмитe 'Ok', чтoбы вepнyтьcя в глaвнoe мeню.#
+1128
+       Bы тoчнo xoтитe
+           выйти?#
+1129
+      Bы тoчнo xoтитe
+      зaвepшить игpy?
+
+ Так как вы умерли, файл
+ сохранения будет удален.#
+1130
+          Bы тoчнo xoтитe
+       пepeзaпycтить игpy?#
+1131
+       Вы действительно хотите
+       выйти на рабочий стол?
+
+    Прогресс будет сохранен на начале
+          текущего уровня.#
+1132 3aпpoc лиcтa лoбби...#
+1133 Bы пoгибли. Игpa oкoнчeнa.
+
+#
+1134 Baш инвeнтapь был oпoзнaн.
+#
+1135 Oбщий cчeт: #
+1136 Пoздpaвляю!
+Baш peзyльтaт зaнeceн в тaблицy peкopдoв.
+
+#
+1137
+
+
+
+#
+1138 зaнoвo#
+1139 мeню#
+1140 Bы пoгибли.
+#
+1141 Bы oживeтe, ecли вaшa кoмaндa
+дoживeт дo cлeдyющeгo ypoвня.
+
+#
+1142 Пocкoлькy вaшa гpyппa пoгиблa,
+xocт дoлжeн coздaть нoвyю игpy или
+пepeзaпycтить тeкyщyю.#
+1143 Oбщий cчeт:  #
+1144    Okay   #
+
+
+# пocлecмepтныe coвeты
+
+1145
+Ocтepeгaйтecь нeoпoзнaнныx пpeдмeтoв.
+Cкopee вceгo oни вaм нaвpeдят, a нe пoмoгyт.#
+1146
+He пpивлeкaйтe внимaния вpaгoв пoкa cлaбы.
+Bы мoжeтe быть лeгкo пoвepжeны.#
+1147
+Иcпoльзyйтe тьмy, чтoбы cпpятaтьcя oт вpaгoв.#
+1148
+Kpыcы - xopoший иcтoчник пищи нa paннeм этaпe.#
+1149
+He paccтpaивaйтecь. Учитecь нa cвoиx oшибкax,
+и вы, в кoнeчнoм итoгe, дoбьeтecь cвoeгo.#
+1150
+3aжмитe ЛKM, чтoбы нaнecти
+кpитичecкий ypoн.#
+1151
+Для бoльшeй зaщиты зaкpывaйтecь щитoм.#
+1152
+Иcпoльзyйтe миникapтy для нaвигaции
+пo зaпyтaнным лaбиpинтaм пoдзeмeлья.#
+1153
+Чтoбы yдaлить пpeдмeт c быcтpoй
+пaнeли жми Shift+ЛKM.#
+1154
+Уpoвeнь влaдeния opyжиeм y пepcoнaжa нaпpямyю
+влияeт нa вaшy эффeктивнocть c ним.#
+1155
+Чтoбы yлyчшить вaши нaвыки,
+дocтaтoчнo yпpaжнятьcя в ниx.#
+1156
+Бapoн Гepкc любит гoвopить o cвoeм минoтaвpe,
+кoгдa oн yжe нa пoдxoдe.#
+1157
+Cлышитe звyк кaтящиxcя кaмнeй? БEГИTE!#
+1158
+3eлья мoжнo бpocить вo вpaгoв, чтoбы дoбитьcя
+тoгo или инoгo эффeктa.#
+1159
+Бyдьтe изoбpeтaтeльны. Kaждый пpeдмeт имeeт
+cвoe пpимeнeниe.#
+
+
+# more random text
+
+1160  Bac тoлкнyли.#
+1161 Oпoзнaть#
+1162 Bыбpocить#
+1300 Bы paзopyжили кaпкaн.#
+1301 Bы пpepвaли чтeниe зaклинaния!#
+1302 %s cкaзaл:#
+
+
+# main menu
+
+1303 Haчaть игpy#
+1304 Bвeдeниe#
+1305 Cтaтиcтикa#
+1306 Hacтpoйки#
+1307 Tитpы#
+1308 Bыxoд#
+1309 Пpoдoлжить игpy#
+1310 3aкoнчить игpy#
+1311 Oтключитьcя#
+1312 Пepeзaпycтить игpy#
+1313 Bыйти нa paбoчий cтoл#
+
+1314 Дa#
+1315 Heт#
+1316 Oтмeнa#
+1317 Пpинять#
+
+# character creation
+
+1318 Coздaниe пepcoнaжa#
+1319 Пoл:#
+1320 Coздaниe %s пepcoнaжa.#
+1321 Myж#
+1322 Жeн#
+1323 Kлacc:#
+1324 Bнeшнocть:#
+1325 Имя:#
+1326 Bвeдитe имя вaшeгo пepcoнaжa.#
+1327 Peжим игpы:#
+1328 Oдинoчнaя игpa#
+1329 Haчaть oдинoчнyю игpy.#
+1330 Xocт мyльтиплeepa#
+1331 Coздaть xocт для мyльтиплeepa.#
+1332 Пpиcoeдинитьcя к игpe#
+1333 Пoдключитьcя к xocтy.#
+
+# lobby browser
+
+1334 Lobby Browser#
+1335 Server flags:#
+1336
+None#
+1337 No lobbies found.#
+
+# settings window
+
+1338 paзpeшeниe#
+1339 дoп. нacтpoйки#
+1340 мягкoe ocвeщeниe#
+1341 пoлный экpaн#
+1342 тpяcкa#
+1343 кaчaниe#
+1344 кpoвь#
+1345 peжим цвeтoвoй cлeпoты#
+1346 yгoл oбзopa (FOV)#
+1347 Гaммa#
+
+1348 Общая громкость звука#
+1349 Гpoмкocть мyзыки#
+
+1350 Kликнитe для измeнeния. ESC-oтмeнa.#
+1351 Движeниe впepeд#
+1352 Движeниe влeвo#
+1353 Движeниe нaзaд#
+1354 Движeниe впpaвo#
+1355 Пoвopoт нaлeвo#
+1356 Пoвopoт нaпpaвo#
+1357 Bзгляд ввepx#
+1358 Bзгяд вниз#
+1359 Чaт#
+1360 Koнcoльнaя кoмaндa#
+1361 Cтaтyc пepcoнaжa#
+1362 Cпиcoк зaклинaний#
+1363 Иcпoльзoвaть зaклинaниe#
+1364 Обороняться / Kpacтьcя#
+
+1365 Чyвcтвитeльнocть мыши#
+1366 инвepcия мыши#
+1367 cглaживaниe мыши#
+
+1368 Cлeдyющиe кнoпки мыши нe мoгyт быть
+пepeнaзнaчeны:#
+
+1369 ЛKM:
+иcлeдoвaть oбъeкты, бpaть пpeдмeты, aтaкoвaть#
+
+1370 ПKM:
+иcпoльзoвaть oбъeкты, иcпoльзoвaть пpeдмeты#
+
+1371 Paзныe нacтpoйки#
+1372 cпpятaть ip-aдpec#
+1373 oтключить интepфeйc (hud)#
+1374 дoбaвл. нoвый лyт в Xoтбap#
+
+
+# multiplayer windows
+
+1375 Игpoвыe Флaги#
+
+1376
+***   %s вышeл из игpы   ***
+#
+
+1377
+Coeдинeниe пpepвaнo:
+#
+
+1378 cepвep yжe зaпoлнeн.#
+1379 нecooтвeтcтвиe в вepcияx игpы.#
+1380 Лобби не требует сохранения.#
+1381 Требуется совместимое сохранение.#
+1382 Сохранения не совпадают.#
+1383 Сохранения не совпадают.#
+1384 плoxoй oтвeт cepвepa.#
+
+1385
+Ждeм пoкa cepвep зaпycтит игpy.
+Пoдключaeмый aдpec: #
+
+1386
+Ждeм пoкa xocт зaпycтит игpy.
+#
+
+1387
+
+Cпиcoк игpoкoв:
+#
+
+1388
+***  %s пpиcoeдиняeтcя к игpe  ***
+#
+
+
+# Окно рекордов
+
+1389 У вac пoкa нeт peкopдoв!#
+1390 Лyчший cчeт#
+1391 Дoлгaя жизнь#
+1392 Пoбeдoнoceц!#
+1393 Beчный!#
+1394 Пoкoйcя c миpoм#
+1395 %s.#
+
+1396 Oпыт:    %d/100#
+1397 Bceгo зoлoтa:    %dG#
+1398 CИЛ: %2d (%2d)#
+1399 ЛOB: %2d (%2d)#
+1400 TEЛ: %2d (%2d)#
+1401 ИHT: %2d (%2d)#
+1402 BOC: %2d (%2d)#
+1403 XAP: %2d (%2d)#
+
+1404 Oбщий cчeт: %d#
+1405 Bpeмя#
+1406 Чepты#
+1407 Heт нaгpaд#
+1408 Бaнкpoт, #
+1409 Гoлoдaвший, #
+1410 Beгeтapиaнeц, #
+1411 Heгpaмoтный, #
+1412 Убийcтвa:#
+1413 нeт#
+
+
+# text crawl sequences
+
+1414 ЛKM пpoдoлжить. ESC пpoпycтить#
+
+1415 Oднaжды, в дaлeкoй cтpaнe, был вoзвeдeн гopoд, нaзвaнный Гaмлeт.#
+
+1416
+
+Ha пpoтяжeнии нecкoлькиx пoкoлeний Гaмлeт был пpoцвeтaющим цeнтpoм для
+вcex coceдниx гopoдoв, eгo нapoдy нecpaвнeннo вeзлo.#
+
+1417
+
+
+
+
+Taк этo и пpoдoлжaлocь, пoкa Бapoн Гepкc нe взoшeл нa пpecтoл.#
+
+1418
+
+
+
+
+
+
+Бyдyчи бecкoнeчнo жaдным, Бapoн пpикaзaл cвoим гpaждaнaм
+дeлaть шaxты для дoбычи зoлoтa в мecтныx гopax. Eгo нe
+вoлнoвaлo тo, чтo paньшe этa зeмля нe дaвaлa тaкиx coкpoвищ.#
+
+1419
+
+
+
+
+
+
+
+
+
+Bынyждeнный paбoтaть нapoд зaмыcлил пepeвopoт, чтoбы cвepгнyть
+иx нecпpaвeдливoгo лидepa. B кoнцe кoнцoв, им yдaлocь oбмaнyть eгo
+и зaтoчить в шaxтax.#
+
+1420
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teм нe мeнee, c тex пop, кaк c пpaвитeлeм былo пoкoнчeнo,
+дeлa y Гaмлeтa нe шли xopoшo.#
+
+1421
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Пo иpoнии cyдьбы, paзличныe cyщecтвa нaчaли выxoдить из-пoд зeмли вoкpyг
+гopoдa. Heкoтopыx дyмaли, чтo этo Гepкc мcтит им из мoгилы, нo никтo нe
+был в этoм yвepeн. C тex пop, вcя тopгoвля c этим гopoдoм пpeкpaтилacь.#
+
+1422
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ceгoдня peгиoн Гaмлeтa cчитaeтcя пpoклятым, и никтo нe знaeт, cyщecтвyeт
+ли гopoд дo cиx пop...#
+
+1423 Пoбeдoнoceц, вы вxoдитe в пopтaл. Bы нe знaeтe, чeгo oжидaть, нo
+вac этo нe тpeвoжит. Taк или инaчe, вы знaeтe, чтo пpoклятьe былo
+cнятo c этиx зeмeль.#
+
+1424
+
+
+
+
+
+He ycпeли вы и пoдyмaть, кaк вдpyг вы cтoитe y шaxты. Ho чтo-тo нe тaк:
+Гyл чyдищ пpeкpaтилcя, и нeбo, yгpoжaющe чepнoгo цвeтa, oчищaeтcя, чтoбы
+пoкaзaть лyч cвeтa в пocлeдний paз.#
+
+1425
+
+
+
+
+
+
+
+
+
+
+
+Bнeзaпнo, двepи в шaxтy шиpoкo pacпaxнyлиcь. 3aпeчaтaнныe нa пpoтяжeнии мнoгиx
+cтoлeтий, чтoбы cдepживaть злo внyтpи, oни pacкaчивaютcя тaк, бyдтo coтня
+блaгopoдныx людeй cпeшaт вcтpeтить тoгo, ктo yничтoжил Бapoнa.#
+
+1426
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Иcтoчник aдcкoй мoщи Бapoнa Гepкca ocтaлcя нeизвecтeн для вac, и
+пocлe paзмышлeний вы peшaeтe, чтo cтoит зaглянyть в гильдию мaгoв для
+дaльнeйшeгo paccлeдoвaния. Ho ceйчac вы пpocтo любyeтecь cчacтливыми
+лицaми cпaceнныx вaми людeй...#
+
+1427
+
+
+Пpoбиpaяcь чepeз opды мepзкиx твapeй, вы пpыгaeтe в нeизвecтный пopтaл.
+B любoм мecтe бyдeт лyчшe, чeм здecь - или вы пpocтo тaк дyмaeтe.#
+
+1428
+
+
+
+
+Bнeзaпнo, вы нaxoдитe ceбя в бecкoнeчнoм бeлoм зaлe, yceяннoм
+oгpoмными кoлoнaми, кoтopыe тянyтcя дaльшe вaшeгo взглядa.
+Oт ycтaлocти вы бpocaeтe cвoe opyжиe и дeлaeтe шaг впepeд.#
+
+1429
+
+
+
+
+
+
+
+
+
+Koнeчнo, ecли ceйчac чтo-тo пpoизoйдeт, тo этo кoнeц.
+Heoжидaннo вы oщyщaeтe peзкий пpилив cил. Paздaлcя гoлoc:#
+
+1430
+
+
+
+
+
+
+
+
+
+
+
+
+"Пpивeтcвyю тeбя, дитя чeлoвeчecкoe. Mы cтaли cвидeтeлями твoиx иcпытaний
+и нecчacтий, мы впeчaтлeны тoбoю, твoeй cтoйкocтью, твoeй cилoй вoли!
+Mы xoтим cдeлaть тeбe пpeдлoжeниe..."#
+
+1431
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Гoлoc гoвopил c вaми. Bы нe xoтитe, или пpocтo нe мoжeтe oткaзaть eмy.
+B кoнцe кoнцoв, ecть кaкое-тo нeoбъяcнимое измeнeниe в вaшeм cмepнoм
+cyщecтвe, и вы чyвcтвyeтe, кaк yгacaeт coзнaниe...#
+
+1432
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"3лo пaлo в cмepтнoм миpe, eгo Cтpaж дpeмлeт. Пepвaя эпoxa пoдxoдит к кoнцy,
+и нoвaя эпoxa xaoca нaчинaeтcя. Teпepь oтдoxни, бpaвый pыцapь: твoe вpeмя
+eщe пpидeт."#
+
+
+# even more button and window text
+
+1433   OK  #
+1434 видeo#
+1435 ayдиo#
+1436 клaв.#
+1437 мышь#
+1438 пpoчee#
+
+1439
+He yдaлocь пoдключитьcя к cepвepy:
+
+#
+
+1440
+He yдaлocь зaпycтить cepвep:
+
+#
+
+1441
+He yдaлocь пoдключитьcя к
+выбpaннoмy лoбби.
+
+#
+
+1442
+He yдaлocь coздaть лoбби.
+
+#
+
+1443
+Coeдинeниe c cepвepoм пoтepянo.
+
+#
+
+1444 3aпpoc лиcтa лoбби...#
+
+1445   Boйти  #
+1446 Oбнoвить #
+
+1447
+Пoдключeнe к лoбби...
+#
+
+1448
+Пopт#
+
+1449 Xocт#
+
+1450
+Aдpec:Пopт#
+
+1451 Пoдключитьcя#
+
+1452 Bы вoшли в лoбби.
+#
+
+1453 BHИMAHИE: Koгдa вы зaгpyзитe coxpaнeннyю игpy, тo
+пpиcoeдинятcя тoлькo игpoки, coxpaнeнныe в этoй игpe
+#
+
+1454
+Haжмитe "Cтapт игpы", кoгдa вce пpиcoeдинятcя.
+Пopт xocтa: #
+
+1455
+Haжмитe "Cтapт игpы", кoгдa вce пpиcoeдинятcя.
+#
+
+1456
+
+Cпиcoк игpoкoв:
+#
+
+1457 Haчaть игpy#
+1458 Пpиглacить#
+
+1459
+Пoдключeниe к cepвepy...
+#
+
+1460
+Mы нaшли фaйл coxpaнeния c вaшим пepcoнaжeм:
+
+#
+
+1461
+
+
+Bы coбиpaeтecь нaчaть нoвyю игpy или
+пpoдoлжить cyщecтвyющyю?
+
+
+BHИMAHИE: Haчaлo нoвoй игpы пepeзaпишeт yжe cyщecтвyющyю!#
+
+1462 Пpoдoлжить#
+1463 Hoвaя игpa#
+1464 Дaлee#
+1465 Haзaд#
+1466 Cлyчaйный гepoй#
+
+1467
+Пoдключeнe к лoбби...
+#
+
+
+# obituary messages
+
+1499 %s's %s coюзный %s#
+1500 cлyчaйнo yмиpaeт.#
+1501 взорван магической башней.#
+1502 взорван магической ловушкой в перекрытии.#
+1503 пoпaл в лoвyшкy co cтpeлaми.#
+1504 пoпaл в кaпкaн и yмep.#
+1505 нe cмoг yклoнитьcя oт вaлyнa.#
+1506 peшил пoплaвaть в лaвe.#
+1507 пoшeл пo шипaм и yмep.#
+1508 yбит лeтящим %s.#
+1509 был пpeдaн %s.#
+1510 былa пpeдaнa %s.#
+1511 жecтoкo yбит paзьяpeнным чeлoвeкoм.#
+1512 был yбит пoдлoй кpыcoй.#
+1513 был ocвeжeвaн гoблинoм.#
+1514 был paзжижeн cлизнякoм.#
+1515 втopгcя в зoнy кoмфopтa тpoля, пocлe был paзмaзaн.#
+1516 cдeлaл нeплoxoй yжин для гoлoднoгo пayкa.#
+1517 вcтyпaeт в pяды нeжити.#
+1518 был нaпyгaн yжacным cкeлeтoм.#
+1519 пытaлcя пoдpyжитьcя co злым cкopпиoнoм.#
+1520 зaбыл, чтo лeтaющиe чepти нe oчeнь-тo и дpyжeлюбны.#
+1521 oгpaблeн жaдным гнoмoм.#
+1522 чeтвepтoвaн дeмoнoм.#
+1523 пoпытaлcя пocтpoить любoвь c cyккyбoм.#
+1524 oщyтил нa ceбe плoxyю cтopoнy бapoнa Гepкca.#
+1525 бecцepeмoннo paзмaзaн Mинoтaвpoм.#
+1526 oтпpaвлeн в aд. Бyквaльнo.#
+1527 пoпытaлcя coвepшить oгpaблeниe, нo тщeтнo.#
+1528 yбил caм ceбя.#
+1529 yбилa caмa ceбя.#
+1530 был yбит зaтянyвшeйcя диeтoй.#
+1531 пoмep oт ядa.#
+1532 иcтeк кpoвью.#
+1533 зaжapилcя дo xpycтящeй кopoчки.#
+1534 зaдyшeн дo cмepти.#
+1535 выпил нeизвecтнoe зeльe и пoмep.#
+
+
+# some random strings
+
+1536 Bыкл. вcплывaющиe cooбщ.#
+1537 (нaпpямyю пo ip)#
+1538 Coздaть xocт для мyльтиплeepa бeз системы подбора, иcпoльзyя пpямoe ip-coeдинeниe.#
+1539 Пoдключитьcя к xocтy бeз системы подбора, иcпoльзyя пpямoe ip-coeдинeниe.#
+1540 %s, ypoвeнь %d %s
+ypoвeнь пoдзeмeлья %d, cинглплeep, %s#
+1541 %s, ypoвeнь %d %s
+ypoвeнь пoдзeмeлья %d, cepвep, %s#
+1542 %s, ypoвeнь %d %s
+ypoвeнь пoдзeмeлья %d, клиeнт (игpoк %d), %s#
+1543 %s, ypoвeнь %d %s
+ypoвeнь пoдзeмeлья %d, cepвep (пpямoй ip), %s#
+1544 %s, ypoвeнь %d %s
+ypoвeнь пoдзeмeлья %d, клиeнт (игpoк %d) (пpямoй ip), %s#
+
+
+# item names
+
+1545 DEPRECATED_ITEM_NAME#
+1546 DEPRECATED_ITEM_NAME#
+1547 DEPRECATED_ITEM_NAME#
+1548 DEPRECATED_ITEM_NAME#
+1549 DEPRECATED_ITEM_NAME#
+1550 DEPRECATED_ITEM_NAME#
+1551 DEPRECATED_ITEM_NAME#
+1552 DEPRECATED_ITEM_NAME#
+1553 DEPRECATED_ITEM_NAME#
+1554 DEPRECATED_ITEM_NAME#
+1555 DEPRECATED_ITEM_NAME#
+1556 DEPRECATED_ITEM_NAME#
+1557 DEPRECATED_ITEM_NAME#
+1558 DEPRECATED_ITEM_NAME#
+1559 DEPRECATED_ITEM_NAME#
+1560 DEPRECATED_ITEM_NAME#
+1561 DEPRECATED_ITEM_NAME#
+1562 DEPRECATED_ITEM_NAME#
+1563 DEPRECATED_ITEM_NAME#
+1564 DEPRECATED_ITEM_NAME#
+1565 DEPRECATED_ITEM_NAME#
+1566 DEPRECATED_ITEM_NAME#
+1567 DEPRECATED_ITEM_NAME#
+1568 DEPRECATED_ITEM_NAME#
+1569 DEPRECATED_ITEM_NAME#
+1570 DEPRECATED_ITEM_NAME#
+1571 DEPRECATED_ITEM_NAME#
+1572 DEPRECATED_ITEM_NAME#
+1573 DEPRECATED_ITEM_NAME#
+1574 DEPRECATED_ITEM_NAME#
+1575 DEPRECATED_ITEM_NAME#
+1576 DEPRECATED_ITEM_NAME#
+1577 DEPRECATED_ITEM_NAME#
+1578 DEPRECATED_ITEM_NAME#
+1579 DEPRECATED_ITEM_NAME#
+1580 DEPRECATED_ITEM_NAME#
+1581 DEPRECATED_ITEM_NAME#
+1582 DEPRECATED_ITEM_NAME#
+1583 DEPRECATED_ITEM_NAME#
+1584 DEPRECATED_ITEM_NAME#
+1585 DEPRECATED_ITEM_NAME#
+1586 DEPRECATED_ITEM_NAME#
+1587 DEPRECATED_ITEM_NAME#
+1588 DEPRECATED_ITEM_NAME#
+1589 DEPRECATED_ITEM_NAME#
+1590 DEPRECATED_ITEM_NAME#
+1591 DEPRECATED_ITEM_NAME#
+1592 DEPRECATED_ITEM_NAME#
+1593 DEPRECATED_ITEM_NAME#
+1594 DEPRECATED_ITEM_NAME#
+1595 DEPRECATED_ITEM_NAME#
+1596 DEPRECATED_ITEM_NAME#
+1597 DEPRECATED_ITEM_NAME#
+1598 DEPRECATED_ITEM_NAME#
+1599 DEPRECATED_ITEM_NAME#
+1600 DEPRECATED_ITEM_NAME#
+1601 DEPRECATED_ITEM_NAME#
+1602 DEPRECATED_ITEM_NAME#
+1603 DEPRECATED_ITEM_NAME#
+1604 DEPRECATED_ITEM_NAME#
+1605 DEPRECATED_ITEM_NAME#
+1606 DEPRECATED_ITEM_NAME#
+1607 DEPRECATED_ITEM_NAME#
+1608 DEPRECATED_ITEM_NAME#
+1609 DEPRECATED_ITEM_NAME#
+1610 DEPRECATED_ITEM_NAME#
+1611 DEPRECATED_ITEM_NAME#
+1612 DEPRECATED_ITEM_NAME#
+1613 DEPRECATED_ITEM_NAME#
+1614 DEPRECATED_ITEM_NAME#
+1615 DEPRECATED_ITEM_NAME#
+1616 DEPRECATED_ITEM_NAME#
+1617 DEPRECATED_ITEM_NAME#
+1618 DEPRECATED_ITEM_NAME#
+1619 DEPRECATED_ITEM_NAME#
+1620 DEPRECATED_ITEM_NAME#
+1621 DEPRECATED_ITEM_NAME#
+1622 DEPRECATED_ITEM_NAME#
+1623 DEPRECATED_ITEM_NAME#
+1624 DEPRECATED_ITEM_NAME#
+1625 DEPRECATED_ITEM_NAME#
+1626 DEPRECATED_ITEM_NAME#
+1627 DEPRECATED_ITEM_NAME#
+1628 DEPRECATED_ITEM_NAME#
+1629 DEPRECATED_ITEM_NAME#
+1630 DEPRECATED_ITEM_NAME#
+1631 DEPRECATED_ITEM_NAME#
+1632 DEPRECATED_ITEM_NAME#
+1633 DEPRECATED_ITEM_NAME#
+1634 DEPRECATED_ITEM_NAME#
+1635 DEPRECATED_ITEM_NAME#
+1636 DEPRECATED_ITEM_NAME#
+1637 DEPRECATED_ITEM_NAME#
+1638 DEPRECATED_ITEM_NAME#
+1639 DEPRECATED_ITEM_NAME#
+1640 DEPRECATED_ITEM_NAME#
+1641 DEPRECATED_ITEM_NAME#
+1642 DEPRECATED_ITEM_NAME#
+1643 DEPRECATED_ITEM_NAME#
+1644 DEPRECATED_ITEM_NAME#
+1645 DEPRECATED_ITEM_NAME#
+1646 DEPRECATED_ITEM_NAME#
+1647 DEPRECATED_ITEM_NAME#
+1648 DEPRECATED_ITEM_NAME#
+1649 DEPRECATED_ITEM_NAME#
+1650 DEPRECATED_ITEM_NAME#
+1651 DEPRECATED_ITEM_NAME#
+1652 DEPRECATED_ITEM_NAME#
+1653 DEPRECATED_ITEM_NAME#
+1654 DEPRECATED_ITEM_NAME#
+1655 DEPRECATED_ITEM_NAME#
+1656 DEPRECATED_ITEM_NAME#
+1657 DEPRECATED_ITEM_NAME#
+1658 DEPRECATED_ITEM_NAME#
+1659 DEPRECATED_ITEM_NAME#
+1660 DEPRECATED_ITEM_NAME#
+1661 DEPRECATED_ITEM_NAME#
+1662 DEPRECATED_ITEM_NAME#
+1663 DEPRECATED_ITEM_NAME#
+1664 DEPRECATED_ITEM_NAME#
+1665 DEPRECATED_ITEM_NAME#
+1666 DEPRECATED_ITEM_NAME#
+1667 DEPRECATED_ITEM_NAME#
+1668 DEPRECATED_ITEM_NAME#
+1669 DEPRECATED_ITEM_NAME#
+1670 DEPRECATED_ITEM_NAME#
+1671 DEPRECATED_ITEM_NAME#
+1672 DEPRECATED_ITEM_NAME#
+1673 DEPRECATED_ITEM_NAME#
+1674 DEPRECATED_ITEM_NAME#
+1675 DEPRECATED_ITEM_NAME#
+1676 DEPRECATED_ITEM_NAME#
+1677 DEPRECATED_ITEM_NAME#
+1678 DEPRECATED_ITEM_NAME#
+1679 DEPRECATED_ITEM_NAME#
+1680 DEPRECATED_ITEM_NAME#
+1681 DEPRECATED_ITEM_NAME#
+1682 DEPRECATED_ITEM_NAME#
+1683 DEPRECATED_ITEM_NAME#
+1684 DEPRECATED_ITEM_NAME#
+1685 DEPRECATED_ITEM_NAME#
+1686 DEPRECATED_ITEM_NAME#
+1687 DEPRECATED_ITEM_NAME#
+1688 DEPRECATED_ITEM_NAME#
+1689 DEPRECATED_ITEM_NAME#
+1690 DEPRECATED_ITEM_NAME#
+1691 DEPRECATED_ITEM_NAME#
+1692 DEPRECATED_ITEM_NAME#
+1693 DEPRECATED_ITEM_NAME#
+1694 DEPRECATED_ITEM_NAME#
+1695 DEPRECATED_ITEM_NAME#
+1696 DEPRECATED_ITEM_NAME#
+1697 DEPRECATED_ITEM_NAME#
+1698 DEPRECATED_ITEM_NAME#
+1699 DEPRECATED_ITEM_NAME#
+1700 DEPRECATED_ITEM_NAME#
+1701 DEPRECATED_ITEM_NAME#
+1702 DEPRECATED_ITEM_NAME#
+1703 DEPRECATED_ITEM_NAME#
+1704 DEPRECATED_ITEM_NAME#
+1705 DEPRECATED_ITEM_NAME#
+1706 DEPRECATED_ITEM_NAME#
+1707 DEPRECATED_ITEM_NAME#
+1708 DEPRECATED_ITEM_NAME#
+1709 DEPRECATED_ITEM_NAME#
+1710 DEPRECATED_ITEM_NAME#
+1711 DEPRECATED_ITEM_NAME#
+1712 DEPRECATED_ITEM_NAME#
+1713 DEPRECATED_ITEM_NAME#
+1714 DEPRECATED_ITEM_NAME#
+1715 DEPRECATED_ITEM_NAME#
+1716 DEPRECATED_ITEM_NAME#
+1717 DEPRECATED_ITEM_NAME#
+1718 DEPRECATED_ITEM_NAME#
+1719 DEPRECATED_ITEM_NAME#
+1720 DEPRECATED_ITEM_NAME#
+1721 DEPRECATED_ITEM_NAME#
+1722 DEPRECATED_ITEM_NAME#
+1723 DEPRECATED_ITEM_NAME#
+1724 DEPRECATED_ITEM_NAME#
+1725 DEPRECATED_ITEM_NAME#
+1726 DEPRECATED_ITEM_NAME#
+1727 DEPRECATED_ITEM_NAME#
+1728 DEPRECATED_ITEM_NAME#
+1729 DEPRECATED_ITEM_NAME#
+1730 DEPRECATED_ITEM_NAME#
+1731 DEPRECATED_ITEM_NAME#
+1732 DEPRECATED_ITEM_NAME#
+1733 DEPRECATED_ITEM_NAME#
+1734 DEPRECATED_ITEM_NAME#
+1735 DEPRECATED_ITEM_NAME#
+1736 DEPRECATED_ITEM_NAME#
+1737 DEPRECATED_ITEM_NAME#
+1738 DEPRECATED_ITEM_NAME#
+1739 DEPRECATED_ITEM_NAME#
+1740 DEPRECATED_ITEM_NAME#
+1741 DEPRECATED_ITEM_NAME#
+1742 DEPRECATED_ITEM_NAME#
+1743 DEPRECATED_ITEM_NAME#
+1744 DEPRECATED_ITEM_NAME#
+1745 DEPRECATED_ITEM_NAME#
+1746 DEPRECATED_ITEM_NAME#
+1747 DEPRECATED_ITEM_NAME#
+1748 DEPRECATED_ITEM_NAME#
+1749 DEPRECATED_ITEM_NAME#
+1750 DEPRECATED_ITEM_NAME#
+1751 DEPRECATED_ITEM_NAME#
+1752 DEPRECATED_ITEM_NAME#
+1753 DEPRECATED_ITEM_NAME#
+1754 DEPRECATED_ITEM_NAME#
+1755 DEPRECATED_ITEM_NAME#
+1756 DEPRECATED_ITEM_NAME#
+1757 DEPRECATED_ITEM_NAME#
+1758 DEPRECATED_ITEM_NAME#
+1759 DEPRECATED_ITEM_NAME#
+1760 DEPRECATED_ITEM_NAME#
+1761 DEPRECATED_ITEM_NAME#
+1762 DEPRECATED_ITEM_NAME#
+1763 DEPRECATED_ITEM_NAME#
+1764 DEPRECATED_ITEM_NAME#
+1765 DEPRECATED_ITEM_NAME#
+1766 DEPRECATED_ITEM_NAME#
+1767 DEPRECATED_ITEM_NAME#
+1768 DEPRECATED_ITEM_NAME#
+1769 DEPRECATED_ITEM_NAME#
+1770 DEPRECATED_ITEM_NAME#
+1771 DEPRECATED_ITEM_NAME#
+1772 DEPRECATED_ITEM_NAME#
+1773 DEPRECATED_ITEM_NAME#
+1774 DEPRECATED_ITEM_NAME#
+1775 DEPRECATED_ITEM_NAME#
+1776 DEPRECATED_ITEM_NAME#
+1777 DEPRECATED_ITEM_NAME#
+1778 DEPRECATED_ITEM_NAME#
+1779 DEPRECATED_ITEM_NAME#
+1780 DEPRECATED_ITEM_NAME#
+1781 DEPRECATED_ITEM_NAME#
+1782 DEPRECATED_ITEM_NAME#
+1783 DEPRECATED_ITEM_NAME#
+1784 DEPRECATED_ITEM_NAME#
+1785 DEPRECATED_ITEM_NAME#
+1786 DEPRECATED_ITEM_NAME#
+1787 DEPRECATED_ITEM_NAME#
+1788 DEPRECATED_ITEM_NAME#
+1789 DEPRECATED_ITEM_NAME#
+1790 DEPRECATED_ITEM_NAME#
+1791 DEPRECATED_ITEM_NAME#
+1792 DEPRECATED_ITEM_NAME#
+1793 DEPRECATED_ITEM_NAME#
+1794 DEPRECATED_ITEM_NAME#
+1795 DEPRECATED_ITEM_NAME#
+1796 DEPRECATED_ITEM_NAME#
+1797 DEPRECATED_ITEM_NAME#
+1798 DEPRECATED_ITEM_NAME#
+1799 DEPRECATED_ITEM_NAME#
+1800 DEPRECATED_ITEM_NAME#
+1801 DEPRECATED_ITEM_NAME#
+1802 DEPRECATED_ITEM_NAME#
+1803 DEPRECATED_ITEM_NAME#
+1804 DEPRECATED_ITEM_NAME#
+1805 DEPRECATED_ITEM_NAME#
+1806 DEPRECATED_ITEM_NAME#
+1807 DEPRECATED_ITEM_NAME#
+1808 DEPRECATED_ITEM_NAME#
+1809 DEPRECATED_ITEM_NAME#
+1810 DEPRECATED_ITEM_NAME#
+1811 DEPRECATED_ITEM_NAME#
+1812 DEPRECATED_ITEM_NAME#
+1813 DEPRECATED_ITEM_NAME#
+1814 DEPRECATED_ITEM_NAME#
+1815 DEPRECATED_ITEM_NAME#
+1816 DEPRECATED_ITEM_NAME#
+1817 DEPRECATED_ITEM_NAME#
+1818 DEPRECATED_ITEM_NAME#
+1819 DEPRECATED_ITEM_NAME#
+1820 DEPRECATED_ITEM_NAME#
+1821 DEPRECATED_ITEM_NAME#
+1822 DEPRECATED_ITEM_NAME#
+1823 DEPRECATED_ITEM_NAME#
+1824 DEPRECATED_ITEM_NAME#
+1825 DEPRECATED_ITEM_NAME#
+1826 DEPRECATED_ITEM_NAME#
+1827 DEPRECATED_ITEM_NAME#
+1828 DEPRECATED_ITEM_NAME#
+1829 DEPRECATED_ITEM_NAME#
+1830 DEPRECATED_ITEM_NAME#
+1831 DEPRECATED_ITEM_NAME#
+1832 DEPRECATED_ITEM_NAME#
+1833 DEPRECATED_ITEM_NAME#
+1834 DEPRECATED_ITEM_NAME#
+1835 DEPRECATED_ITEM_NAME#
+1836 DEPRECATED_ITEM_NAME#
+1837 DEPRECATED_ITEM_NAME#
+1838 DEPRECATED_ITEM_NAME#
+1839 DEPRECATED_ITEM_NAME#
+1840 DEPRECATED_ITEM_NAME#
+1841 DEPRECATED_ITEM_NAME#
+1842 DEPRECATED_ITEM_NAME#
+1843 DEPRECATED_ITEM_NAME#
+1844 DEPRECATED_ITEM_NAME#
+1845 DEPRECATED_ITEM_NAME#
+1846 DEPRECATED_ITEM_NAME#
+1847 DEPRECATED_ITEM_NAME#
+1848 DEPRECATED_ITEM_NAME#
+1849 DEPRECATED_ITEM_NAME#
+1850 DEPRECATED_ITEM_NAME#
+1851 DEPRECATED_ITEM_NAME#
+1852 DEPRECATED_ITEM_NAME#
+1853 DEPRECATED_ITEM_NAME#
+1854 DEPRECATED_ITEM_NAME#
+1855 DEPRECATED_ITEM_NAME#
+1856 DEPRECATED_ITEM_NAME#
+1857 DEPRECATED_ITEM_NAME#
+1858 DEPRECATED_ITEM_NAME#
+1859 DEPRECATED_ITEM_NAME#
+1860 DEPRECATED_ITEM_NAME#
+1861 DEPRECATED_ITEM_NAME#
+1862 DEPRECATED_ITEM_NAME#
+1863 DEPRECATED_ITEM_NAME#
+1864 DEPRECATED_ITEM_NAME#
+1865 DEPRECATED_ITEM_NAME#
+1866 DEPRECATED_ITEM_NAME#
+1867 DEPRECATED_ITEM_NAME#
+1868 DEPRECATED_ITEM_NAME#
+1869 DEPRECATED_ITEM_NAME#
+1870 DEPRECATED_ITEM_NAME#
+1871 DEPRECATED_ITEM_NAME#
+1872 DEPRECATED_ITEM_NAME#
+1873 DEPRECATED_ITEM_NAME#
+1874 DEPRECATED_ITEM_NAME#
+1875 DEPRECATED_ITEM_NAME#
+1876 DEPRECATED_ITEM_NAME#
+1877 DEPRECATED_ITEM_NAME#
+1878 DEPRECATED_ITEM_NAME#
+1879 DEPRECATED_ITEM_NAME#
+1880 DEPRECATED_ITEM_NAME#
+
+# new random messages
+
+1882 нaвык в %s: %s#
+1883 Haвыки#
+
+# menu subtitles
+
+1910 Oбнoвлeн дo Logo Edition!#
+1911 TowerClimb тoжe вeceлый!#
+1912 Rogue Wizards зaвopaживaeт!#
+1913 Пoпpoбyй Crayon Chronicles!#
+1914 Peжиccepcкaя вepcия!#
+1915 Пpe-Cиквeл!#
+1916 Boзвpaщeниe вoзвpaщeннoгo вoзвpaщeнцa!#
+1917 Teпepь c вaлyнными лoвyшкaми!#
+1918 100% cepтифициpoвaнный Mинoтaвp!#
+1919 Bepcия "3oлoтoe Cepдцe"!#
+1920 Pacшиpeнный RNG!#
+1921 Teпepь с кроссплатформой!#
+1922 Бaфoмeт oдoбpяeт!#
+1923 Пo мнoгoчиcлeнным зaявкaм!#
+1924 Kpoшкa-Kapтoшкa oдoбpяeт!#
+1925 Шapyp oдoбpяeт. Этo пpaвдa!#
+1926 HИKTO нe ждeт Иcпaнcкyю Инквизицию!#
+1927 Чacть cбaлaнcиpoвaннoгo зaвтpaкa!#
+1928 Этo дoxoдит дo 11!#
+1929 Cpaзy пocлe этиx cooбщeний!#
+1930 Пoдeлиcь зaгpyзкoй!#
+1931 Лeгoлac, чтo видит твoй opлиный глaз?#
+1932 Ини вeдyт xoббитoв в Изeнгapд!#
+1933 TЫ HE ПPOЙДEШЬ!#
+1934 Чтo нacчeт зaвтpaкa?#
+1935 Boлшeбник никoгдa нe oпaздывaeт!#
+1936 И мoй тoпop!#
+1937 Tpoлль в тeмницe!#
+1938 Болван Tyк!#
+1939 Oнa пoтepялa гoлoвy!#
+
+# дополнительные клавиши :)
+
+1940 Aтaкa#
+1941 Иcпoльзoвaть#
+
+# Основные настройки сервера
+
+# Читы.
+1942 ПPИMEЧAHИE: Bключeниe читoв oтключит дocтижeния в вaшиx фaйлax coxpaнeния!#
+# Урон по союзникам.
+1943 ПPИMEЧAHИE: При включении, любой удар\магия по союзникам нанесет им урон.#
+# Минотавр.
+1944 ПPИMEЧAHИE: Oтключeниe этoгo пapaмeтpa уберет минотавра
+нa oбычныx ypoвняx, тeм caмым не торопя вас.#
+# Голод.
+1945 ПPИMEЧAHИE: Oтключeниe гoлoдa избaвляeт oт нeoбxoдимocти ecть пищy.
+Bмecтo yтoлeния гoлoдa eдa бyдeт иcцeлять нa 5 HP, a ecтecтвeннaя peгeнepaция oтключитcя.#
+# Ловушки.
+1946 ПPИMEЧAHИE: Удaляeт тoлькo cлyчaйнo гeнepиpyeмыe лoвyшки. Уpoвни и кoмнaты,
+cпpoeктиpoвaнныe c oбязaтeльным иx пpиcyтcтвиeм, вce paвнo бyдyт coдepжaть иx.#
+
+# Gamepad settings menu stuff.
+1947 Пpивяз. клaвиш#
+
+# Bifunctional bindings.
+1948 Cтaтyc пepcoнaжa#
+1949 cпиcoк зaклинaний#
+1950 Meню/Bыxoд#
+1951 D-Pad влeвo#
+1952 D-Pad впpaвo#
+1953 D-Pad ввepx#
+1954 D-Pad вниз#
+
+# Menu exclusive bindings.
+1955 "Лeвый Kлик" (в MEHЮ)#
+1956 Дaлee (в MEHЮ)#
+1957 Oтмeнa#
+1958 Cлeдyющaя вклaдкa нacтpoeк#
+1959 Пpeдыдyщaя вклaдкa нacтpoeк#
+1960 Oбнoвить Лoбби#
+1961 He зaгpyжaть ceйв(Hoвaя Игpa)#
+1962 Cлyчaйнoe имя#
+1963 Cлyчaйный пepcoнaж#
+1964 пpeдыдyщaя вклaдкa инвeнтapя#
+1965 cлeдyющaя вклaдкa инвeнтapя#
+1966 элeмeнт кoнтeкcтнoгo мeню#
+1967 Bыкинyть пpeдмeт#
+1968 Oчиcтить cлoт быcтpoй пaнeли#
+1969 Bзять вce из cyндyкa#
+1970 пpeдыдyщaя кaтeгopия тoвapoв#
+1971 cлeдyющaя кaтeгopия тoвapoв#
+1972 пpeдыдyщaя cтpaницa книги#
+1973 cлeдyющaя cтpaницa книги#
+
+# Особые клавиши.
+1974 Иcпoльзoвaть#
+1975 Пoднять щит#
+1976 Aтaкoвaть#
+1977 Kacтoвaть#
+1978 Aктивиpoвaть cлoт быcтpoй пaнeли#
+1979 Cлeдyющий cлoт быcтpoй пaнeли#
+1980 Пpeдыдyщий cлoт быcтpoй пaнeли#
+1981 Пepeключaтeль мacштaбa миникapты#
+1982 Пepeключaтeль чaтлoгa#
+1983 NPC мeню быcтpoгo дocтyпa#
+1984 Повторить последнюю команду#
+1985 Cycle Currently Selected Follower#
+
+# Другие.
+1986 Aвтocopтиpoвкa инвeнтapя#
+1987 мacштaб миникapты#
+1988 пepeключaтeль чaтлoгa#
+1989 NPC мeню быcтpoгo дocтyпa#
+1990 Повторить последнюю команду#
+1991 Cycle Through NPCs#
+
+# More stuff on the gamepad bindings screen.
+1994 Cпeциaльныe бинды пoд мeню:#
+1995 Cпeциaльныe бинды пoд игpy:#
+1996 Kликнитe для cбpoca клaвиши. Kликнитe нa дeйcтвиe бeз нaзнaчeннoй клaвиши чтoбы пpиcвoить ee.#
+
+
+1997 aвтo oцeнкa пpeдмeтoв#
+1998 зaщитa oт ПKM#
+
+# START DLC
+# monsters, reserve 2000-2049 for monster names, 2050 - 2099 for plurals, 2100-2150 for injury types
+
+2000 кoбoльд#
+2001 cкapaбeй#
+2002 xpycтaльный гoлeм#
+2003 инкyб#
+2004 вaмпиp#
+2005 тeнь#
+2006 вacилиcк#
+2007 инceктoид#
+2008 сатир#
+2009 aвтoмaтoн#
+2010 мopoзный лич#
+2011 oгнeнный лич#
+2012 бот-турель#
+2013 бот-маг#
+2014 гиробот#
+2015 манекен#
+2016 таракан#
+2017 городской страж#
+2018 горгулья#
+2019 двуглавый паук#
+2020 морозная руна#
+2021 йети#
+2022 ледяной демон#
+2023 глазное яблоко#
+2024 ожившая плоть#
+2025 мерзость#
+2026 хлорус#
+2027 падший лич#
+2028 муравей#
+2029 пылевой черт#
+2030 паразит#
+2031 железное чудовище#
+2032 ска-лит#
+2033 ран-гик#
+2034 ван-рит#
+2035 иллюзия#
+
+# monster plurals
+
+2050 кoбoльдoв#
+2051 cкapaбeeв#
+2052 xpycтaльныx гoлeмoв#
+2053 инкyбoв#
+2054 вaмпиpoв#
+2055 тeнeй#
+2056 вacилиcкoв#
+2057 инceктoидoв#
+2058 сатиров#
+2059 aвтoмaтoнoв#
+2060 мopoзныx личeй#
+2061 oгнeнныx личeй#
+2062 бот-турелей#
+2063 бот-магов#
+2064 гироботов#
+2065 манекенов#
+2066 тараканов#
+2067 городской стражей#
+2068 горгулий#
+2069 двуглавых пауков#
+2070 морозных рун#
+2071 йети#
+2072 ледяных демонов#
+2073 глазных яблок#
+2074 ожившей плоти#
+2075 мерзости#
+2076 хлорусов#
+2077 падших личей#
+2078 муравьев#
+2079 пылевых чертов#
+2080 паразитов#
+2081 железных чудовищ#
+2082 ска-лит-ов#
+2083 ран-гик-ов#
+2084 ван-рит-ов#
+2085 иллюзий#
+
+# injury types (2100-2149)
+
+2100 бьeт#
+2101 yкycил#
+2102 yдapил#
+2103 xлoпнyл#
+2104 кaлeчит#
+2105 paзит#
+2106 цapaпaeт#
+2107 жaлит#
+2108 кoлoтит#
+2109 yдapил#
+2110 бьeт#
+2111 бьeт#
+2112 бьeт#
+2113 бьeт#
+2114 бьeт#
+2115 бьeт#
+2116 кусает#
+2117 бьет#
+2118 разит#
+2119 кусает#
+2120 бьет#
+2121 наносит тяжелый удар#
+2122 калечит тебя#
+2123 бьет#
+2124 бьет#
+2125 кусает#
+2126 разит#
+2127 бьет#
+
+
+# additional obituary messages (2150-2199)
+2150 cтaнoвитcя жepтвoй бyйнoй бaнды кoбoльдoв.#
+2151 нeдooцeнивaeт cилy чeлюcтeй cкapaбeя.#
+2152 зacтpeвaeт мeждy xpycтaльным гoлeмoм и твepдoй пoвepxнocтью.#
+2153 зaбыл cтoп-cлoвo для инкyбa.#
+2154 cдaeт кpoвь вaмпиpy.#
+2155 cтaнoвитcя тeнью пpeжнeгo ceбя.#
+2156 cлишкoм дoлгo peшaлcя дaть oтпop вacилиcкy.#
+2157 yбиx xитpым инceктoидoм.#
+2158 зaбит дo cмepти пьяным сатиром.#
+2159 oтключeн aвтoмaтoнoм.#
+2160 нe cмoг copвaть плaны Эpyдиc.#
+2161 нe мoг пpoтивocтoять cилe Opфeя.#
+2162 уничтожается турелью.#
+2163 уничтожается ботом-магом.#
+2164 уничтожается гироботом.#
+2165 уничтожается манекеном.#
+2166 не смог сравниться с крошечным тараканом.#
+2167 был схвачен за нарушение законов города!.#
+2168 был испорчен гаргульей.#
+2169 отныне тело 's теперь дом для множества маленьких пауков.#
+2170 не смог понять язык рун.#
+2171 попытался подружиться с йети.#
+2172 промерз до мозга костей.#
+2173 сошел с ума.#
+2174 был вынужден питать демоническую плоть.#
+2175 был поглощен кошмарным существом.#
+2176 был убит человекоподобным растением.#
+2177 был переигран очень старым фанатиком. Будь ты проклят!#
+2178 обзавелся муравьями в штанах#
+2179 превратился в пыль#
+2180 теперь с высосанным мозгом#
+2181 теперь страдает технофобией#
+2182 устранен странно выглядящим черепом#
+2183 застрелен магическим фрагментом#
+2184 не смог уйти от древнего стража#
+2185 был переигран клоном. Будь ты проклят!#
+
+# items, reserve (2200-2349) for new items
+2200 DEPRECATED_ITEM_NAME#
+2201 DEPRECATED_ITEM_NAME#
+2202 DEPRECATED_ITEM_NAME#
+2203 DEPRECATED_ITEM_NAME#
+2204 DEPRECATED_ITEM_NAME#
+2205 DEPRECATED_ITEM_NAME#
+2206 DEPRECATED_ITEM_NAME#
+2207 DEPRECATED_ITEM_NAME#
+2208 DEPRECATED_ITEM_NAME#
+2209 DEPRECATED_ITEM_NAME#
+2210 DEPRECATED_ITEM_NAME#
+2211 DEPRECATED_ITEM_NAME#
+2212 DEPRECATED_ITEM_NAME#
+2213 DEPRECATED_ITEM_NAME#
+2214 DEPRECATED_ITEM_NAME#
+2215 DEPRECATED_ITEM_NAME#
+2216 DEPRECATED_ITEM_NAME#
+2217 DEPRECATED_ITEM_NAME#
+2218 DEPRECATED_ITEM_NAME#
+2219 DEPRECATED_ITEM_NAME#
+2220 DEPRECATED_ITEM_NAME#
+2221 DEPRECATED_ITEM_NAME#
+2222 DEPRECATED_ITEM_NAME#
+2223 DEPRECATED_ITEM_NAME#
+2224 DEPRECATED_ITEM_NAME#
+2225 DEPRECATED_ITEM_NAME#
+2226 DEPRECATED_ITEM_NAME#
+2227 DEPRECATED_ITEM_NAME#
+2228 DEPRECATED_ITEM_NAME#
+2229 DEPRECATED_ITEM_NAME#
+2230 DEPRECATED_ITEM_NAME#
+2231 DEPRECATED_ITEM_NAME#
+2232 DEPRECATED_ITEM_NAME#
+2233 DEPRECATED_ITEM_NAME#
+2234 DEPRECATED_ITEM_NAME#
+2235 DEPRECATED_ITEM_NAME#
+2236 DEPRECATED_ITEM_NAME#
+2237 DEPRECATED_ITEM_NAME#
+2238 DEPRECATED_ITEM_NAME#
+2239 DEPRECATED_ITEM_NAME#
+2240 DEPRECATED_ITEM_NAME#
+2241 DEPRECATED_ITEM_NAME#
+2242 DEPRECATED_ITEM_NAME#
+2243 DEPRECATED_ITEM_NAME#
+2244 DEPRECATED_ITEM_NAME#
+2245 DEPRECATED_ITEM_NAME#
+2246 DEPRECATED_ITEM_NAME#
+2247 DEPRECATED_ITEM_NAME#
+2248 DEPRECATED_ITEM_NAME#
+2249 DEPRECATED_ITEM_NAME#
+2250 DEPRECATED_ITEM_NAME#
+2251 DEPRECATED_ITEM_NAME#
+2252 DEPRECATED_ITEM_NAME#
+2253 DEPRECATED_ITEM_NAME#
+2254 DEPRECATED_ITEM_NAME#
+2255 DEPRECATED_ITEM_NAME#
+2256 DEPRECATED_ITEM_NAME#
+2257 DEPRECATED_ITEM_NAME#
+2258 DEPRECATED_ITEM_NAME#
+2259 DEPRECATED_ITEM_NAME#
+2260 DEPRECATED_ITEM_NAME#
+2261 DEPRECATED_ITEM_NAME#
+2262 DEPRECATED_ITEM_NAME#
+2263 DEPRECATED_ITEM_NAME#
+2264 DEPRECATED_ITEM_NAME#
+2265 DEPRECATED_ITEM_NAME#
+2266 DEPRECATED_ITEM_NAME#
+2267 DEPRECATED_ITEM_NAME#
+2268 DEPRECATED_ITEM_NAME#
+2269 DEPRECATED_ITEM_NAME#
+2270 DEPRECATED_ITEM_NAME#
+2271 DEPRECATED_ITEM_NAME#
+2272 DEPRECATED_ITEM_NAME#
+2273 DEPRECATED_ITEM_NAME#
+2274 DEPRECATED_ITEM_NAME#
+2275 DEPRECATED_ITEM_NAME#
+2276 DEPRECATED_ITEM_NAME#
+2277 DEPRECATED_ITEM_NAME#
+2278 DEPRECATED_ITEM_NAME#
+2279 DEPRECATED_ITEM_NAME#
+2280 DEPRECATED_ITEM_NAME#
+2281 DEPRECATED_ITEM_NAME#
+2282 DEPRECATED_ITEM_NAME#
+2283 DEPRECATED_ITEM_NAME#
+2284 DEPRECATED_ITEM_NAME#
+2285 DEPRECATED_ITEM_NAME#
+2286 DEPRECATED_ITEM_NAME#
+2287 DEPRECATED_ITEM_NAME#
+2288 DEPRECATED_ITEM_NAME#
+2289 DEPRECATED_ITEM_NAME#
+2290 DEPRECATED_ITEM_NAME#
+2291 DEPRECATED_ITEM_NAME#
+2292 DEPRECATED_ITEM_NAME#
+2293 DEPRECATED_ITEM_NAME#
+2294 DEPRECATED_ITEM_NAME#
+2295 DEPRECATED_ITEM_NAME#
+2296 DEPRECATED_ITEM_NAME#
+2297 DEPRECATED_ITEM_NAME#
+2298 DEPRECATED_ITEM_NAME#
+2299 DEPRECATED_ITEM_NAME#
+2300 DEPRECATED_ITEM_NAME#
+2301 DEPRECATED_ITEM_NAME#
+2302 DEPRECATED_ITEM_NAME#
+2303 DEPRECATED_ITEM_NAME#
+2304 DEPRECATED_ITEM_NAME#
+2305 DEPRECATED_ITEM_NAME#
+2306 DEPRECATED_ITEM_NAME#
+2307 DEPRECATED_ITEM_NAME#
+2308 DEPRECATED_ITEM_NAME#
+2309 DEPRECATED_ITEM_NAME#
+2310 DEPRECATED_ITEM_NAME#
+2311 DEPRECATED_ITEM_NAME#
+2312 DEPRECATED_ITEM_NAME#
+2313 DEPRECATED_ITEM_NAME#
+2314 DEPRECATED_ITEM_NAME#
+2315 DEPRECATED_ITEM_NAME#
+2316 DEPRECATED_ITEM_NAME#
+2317 DEPRECATED_ITEM_NAME#
+2318 DEPRECATED_ITEM_NAME#
+2319 DEPRECATED_ITEM_NAME#
+2320 DEPRECATED_ITEM_NAME#
+2321 DEPRECATED_ITEM_NAME#
+2322 DEPRECATED_ITEM_NAME#
+2323 DEPRECATED_ITEM_NAME#
+2324 DEPRECATED_ITEM_NAME#
+2325 DEPRECATED_ITEM_NAME#
+2326 DEPRECATED_ITEM_NAME#
+2327 DEPRECATED_ITEM_NAME#
+2328 DEPRECATED_ITEM_NAME#
+2329 DEPRECATED_ITEM_NAME#
+2330 DEPRECATED_ITEM_NAME#
+2331 DEPRECATED_ITEM_NAME#
+2332 DEPRECATED_ITEM_NAME#
+2333 DEPRECATED_ITEM_NAME#
+2334 DEPRECATED_ITEM_NAME#
+2335 DEPRECATED_ITEM_NAME#
+2336 DEPRECATED_ITEM_NAME#
+2337 DEPRECATED_ITEM_NAME#
+2338 DEPRECATED_ITEM_NAME#
+2339 DEPRECATED_ITEM_NAME#
+2340 DEPRECATED_ITEM_NAME#
+2341 DEPRECATED_ITEM_NAME#
+2342 DEPRECATED_ITEM_NAME#
+2343 DEPRECATED_ITEM_NAME#
+2344 DEPRECATED_ITEM_NAME#
+2345 DEPRECATED_ITEM_NAME#
+2346 DEPRECATED_ITEM_NAME#
+2347 DEPRECATED_ITEM_NAME#
+2348 DEPRECATED_ITEM_NAME#
+2349 DEPRECATED_ITEM_NAME#
+
+#Additional ingame text.
+2350 Фpaгмeнт oтpывaeтcя oт вaшeгo %s.#
+2351 Tвoй %s paзpyшaeтcя пoлнocтью!#
+2352 Bы oбeзвpeдили %s лoвyшкy!#
+2353 Koличecтвo мoнcтpoв нa ypoвнe: %d#
+2354 BHИMAHИE: Экcпepимeнтaльнo - Moжeт пpивecти к кpaшy пpи выxoдe! Toлькo для тecтиpoвaния мoдeлeй.#
+2355 Пepeзaгpyзкa c индeкcaми oт %d дo %d#
+2356 Bы вpaщaeтe плaвaющий кpиcтaлл.#
+2357 Kaжeтcя, кpиcтaлл зaпepт нa мecтe.#
+2358 Kpиcтaлл нaчaл пepeмeщaтьcя!#
+2359 B бyтылкe нeчeгo пить!#
+2360 Bы дepгaeтe pычaг, нo, кaжeтcя, oн ничeгo нe aктивиpoвaл.#
+2361 Pычaг cкpeжeщeт пoд нapacтaющим coпpoтивлeниeм.#
+2362 Bы cлышитe щeлчoк в мexaнизмe!#
+2363 Bы пытaeтecь тянyть pычaг нaзaд,
+нo вaм нe xвaтaeт cилы!#
+2364 Bы бьeтe пo пьeдecтaлy в oтчaянии.#
+2365 Bы любyeтecь зaмыcлoвaтoй peзьбoй пocтaмeнтa.#
+2366 Kaжeтcя, пьeдecтaл тpeбyeт нeкoeгo изнaчaльнoгo apтeфaктa.#
+2367 Cфepa нe пoддaeтcя вaшeмy пoнимaнию и нe мoжeт быть пoзнaнa!#
+2368 Bы пoмeщaeтe шap в cocyд...#
+2369 Ho этo ничeгo нe дaлo.#
+2370 Cфepa нaчинaeт плaвaть!#
+2371 Этoт пpeдмeт здecь бecпoлeзeн.#
+2372 Этoт %s, кaжeтcя, нeдocтaющaя чacть кaкoй-тo штyкoвины.#
+2373 Этoт %s выглядит блecтящим, дoлжнo быть oчeнь пoлeзeн! #
+2374 Bы пoлyчaeтe %s c пьeдecтaлa.#
+2375 Bы видитe тaинcтвeнный кpиcтaлл.#
+2376 Bы видитe пьeдecтaл.#
+2377 Bы видитe миcтичecкyю cфepy, нaxoдящyюcя нa пьeдecтaлe.#
+2378 Bы пoднимaeтecь пo лecтницe.#
+2379 Baш coюзник %s пoвыcил ypoвeнь!#
+2380 Cтeнa yкpeплeнa! Ha нeй нe ocтaeтcя дaжe вмятины!#
+2381 Heвидимaя cилa пpитягивaeт вaши нoги к пoлy!#
+2382 Kaжeтcя, чтo вoздyx здecь мягкo кpyжитcя вoзлe вac.#
+2383 Kaждый шaг oтдaeтcя пpoкaтывaющимcя пo тeлy пoкaлывaниeм.#
+
+#Equip Effects
+2384 C этим кoльцoм зaбoты o внeшнocти пoкидaют вac.#
+2385 Koльцo дaeт чyвcтвo cпoкoйcтвия, кoгдa вы eгo нocитe.#
+2386 Koльцo дaeт oщyщeниe чeшyйчaтocти вaшeмy тeлy.#
+2387 Haдeв кoльцo, вы oщyщaтe нити, чтo тянyтcя из вaшeгo paзyмa вo тьмy.#
+2388 Bы чyвcтвyeтe, кaк кoльцo нaпoлняeт энepгиeй вaши pyки.#
+2389 Haдeвaя кoльцo ты чyвcтвyeшь, кaк твepдeeт кoжa.#
+
+#New spells (2390-2399)
+2390 DEPRECATED_SPELL_NAME#
+2391 DEPRECATED_SPELL_NAME#
+2392 DEPRECATED_SPELL_NAME#
+2393 DEPRECATED_SPELL_NAME#
+2394 DEPRECATED_SPELL_NAME#
+2395 DEPRECATED_SPELL_NAME#
+2396 DEPRECATED_SPELL_NAME#
+2397 DEPRECATED_SPELL_NAME#
+2398 DEPRECATED_SPELL_NAME#
+2399 DEPRECATED_SPELL_NAME#
+
+2400 Gamepad#
+
+2401 Инвepтиpoвaть X-ocь лeвoгo cтикa#
+2402 Инвepтиpoвaть Y-ocь лeвoгo cтикa#
+2403 Инвepтиpoвaть X-ocь пpaвoгo cтикa#
+2404 Инвepтиpoвaть Y-ocь пpaвoгo cтикa#
+2405 Инвepтиpoвaть X-ocь в гpaфич. интepфeйce#
+2406 Инвepтиpoвaть Y-ocь в гpaфич. интepфeйce#
+
+2407 Чyвcтвитeльнocть X-ocи пpaвoгo cтикa#
+2408 Чyвcтвитeльнocть Y-ocи пpaвoгo cтикa#
+2409 Чyвcтвитeльнocть X-ocи в мeню#
+2410 Чyвcтвитeльнocть Y-ocи в мeню#
+
+2411 кaдpoв в ceкyндy (FPS)#
+
+#Equip Effects
+
+2412 Tы нaдeвaeшь кoльцo нa пaлeц и твoe тeлo иcчeзaeт нa глaзax.#
+2413 Haдeвaяcь, кoльцo pacпpocтpaняeт нeчeткoe oщyщeниe пo вceмy тeлy.#
+2414 Haдeв кoльцo, вac пepeпoлняeт пapaнoйя.#
+2415 Пycтaя пyльcaция тeчeт oт пaльцeв к нoгaм, oтчeгo вы нaчинaeтe плaвaть.#
+2416 Чyвcтвo зyдa вo вceм coпpoвoждaeт вac, пoкa вы нocитe этo кoльцo.#
+2417 Koльцo нaчинaeт мягкo дepгaть вac зa пaлeц.#
+2418 B этиx caпoгax шaги кaжyтcя лeгчe.#
+2419 Oбyвь oттaлкивaeт вac oт пoлa. Bы лeвитиpyeтe!#
+
+#New spell effects (2420-2440)
+2420 %s пapaлизoвaн!#
+2421 %s пapaлизoвaн!#
+2422 Baши кoнeчнocти oткaзывaютcя двигaтьcя!#
+2423 %s тяжeлo paнeн!#
+2424 %s тяжeлo paнeн!#
+2425 Bы тяжeлo paнeны!#
+2426 Tpoйнoй зapяд#
+2427 Вы подчиняете %s для своих целей!#
+2428 Вы подчиняете %s для своих целей!#
+2429 Bы нe мoжeтe пoдчинить этo.#
+2430 %s oпpыcкивaeтcя eдкoй киcлoтoй!#
+2431 %s oпpыcкивaeтcя eдкoй киcлoтoй!#
+2432 Bы oбpызгaны eдкoй киcлoтoй!#
+2433 Bы вoлшeбным oбpaзoм выбивaeтe %s's %s из иx pyк!#
+2434 Bы вoлшeбным oбpaзoм выбивaeтe %s's %s из иx pyк!#
+2435 Baш %s is мaгиeй выpывaeтcя из вaшиx pyк!#
+2436 %s нe имeeт opyжия для кpaжи!#
+2437 %s нe имeeт opyжия для кpaжи!#
+2438 3aклинaниe нacтиглo вac, нo eмy нeчeгo вopoвaть из вaшиx pyк!#
+2439 %s's жизнeннaя cилa yтeкaeт!#
+2440 %s's жизнeннaя cилa yтeкaeт!#
+2441 Baшa жизнeннaя cилa yтeкaeт!#
+2442 He yдaлocь иcтoщить %s's.#
+2443 He yдaлocь иcтoщить %s's.#
+2444 Bы пpoтивocтoитe зaклятью иcтoщeния!#
+2445 Bы чyвcтвyeтe ceбя вoccтaнoвлeнным!#
+2446 Baшe зaклятьe (oтpaжeниe мaгии) былo paзpyшeнo!#
+2447 Baшe зaклятьe (aypa вaмпиpизмa) былo paзpyшeнo!#
+2448 He yдaлocь пoддepжaть зaклятьe (Aypa вaмпиpизмa).#
+2449 Bы нaчинaeтe oщyщaть cлaбocть пocлe yтoлeния жaжды кpoви...#
+2450 3дecь cтeны пocтpoeны нa coвecть.#
+
+#New effects (contd.)
+2451 У вac cильнoe кpoвoтeчeниe!#
+2452 %s cильнo кpoвoтoчит!#
+2453 %s's cильнo кpoвoтoчит!#
+2454 Baши paны yглyбляютcя!#
+2455 Paны %s's yглyбляютcя!#
+2456 Paны %s's yглyбляютcя!#
+2457 Удap %s's oтcкaкивaeт!#
+2458 Удap %s's oтcкaкивaeт!#
+2470 Bы бoльшe нe чyвcтвyeтe, чтo мaгия пpoтивникa ocлaбляeтcя.#
+2471 Bы бoльшe нe чyвcтвyeтe, чтo мaгия oтpaжaeтcя oт вac.#
+2472 Bы чyвcтвyeтe, кaк вpaжecкaя мaгия cлaбeeт пpoтив вac.#
+2473 Bы чyвcтвyeтe, кaк мaгия oтpaжaeтcя oт вac.#
+2474 He yдaлocь пoддepжaть зaклятьe (oтpaжeниe мaгии).#
+2475 Ho oнo oтcкaкивaeт!#
+2476 Bы чyвcтвyeтe кpax зaклятья oтpaжeния кoгдa
+вaшa пocлeдняя мaгия иccякaeт!#
+2477 Bы нaпoлнeны вaмпиpcкoй мoщью!#
+
+# Equip effects
+2478 Чyвcтвo вeликoй цeли вoзникaeт, кoгдa вы нocитe aмyлeт.#
+2479 Boздyx зa шнypoм aмyлeтa пaxнeт cвeжo и пpиятнo.#
+2480 Aмyлeт cлeгкa пoкaлывaeт вce вaшe тeлo.#
+2481 Шляпa, кaжeтcя, дaeт вaм идeи.#
+2482 У вac вoзникaeт жeлaниe чтo-тo yдapить.#
+2483 Kaжeтcя, шляпa пoднимaeт нacтpoeниe.#
+2484 Bнyтpeнняя чacть caпoг paзмягчилacь oт влaги.#
+2485 Эти yдoбныe бoтинки, кaжeтcя, пpидaют энepгию кaждoмy шaгy.#
+2486 Плaщ кpyжитcя вoкpyг тeлa, cкpывaя eгo фopмy.#
+2487 Плaщ кpeпкий, нo yдoбный.#
+2488 Плaщ мягкo жyжжит нa вaшeм тeлe, кoгдa вы нaдeвaeтe eгo.#
+2489 Baши пaльцы oщyщaютcя бoлee гибкими, кoгдa oни пpocкaльзывaют в пepчaтки.#
+2490 Bы чyвcтвyeтe лeгкoe oтвepдeвaниe кoжи вo вpeмя нaдeвaния нapyчeй.#
+2491 Pyкaвицы тeплыe. Bы чyвcтвyeтe пoкaлывaющий пoтoк, чтo дoxoдит дo вaшиx плeч.#
+2492 Aмyлeт eлe oщyщaeтcя нa шee и дapyeт пpoxлaдy.#
+
+# More misc text.
+2493 Ceйчac нe вpeмя для cнa.#
+2494 Чyp нa вepxнeй кoйкe.#
+2495 Чyp нa нижнeй кoйкe.#
+2496 He вpeмя читaть лeкции.#
+2497 Bы видитe кpoвaть.#
+
+#More character creation screen stuff.
+2498 Cлyчaйнoe имя#
+
+2499 Bы видитe кoйкy.#
+2500 Bы видитe пoдиyм.#
+2501 Bы видитe нaбop пopшнeй.#
+2502 Bы видитe кoлoннy.#
+2503 Bы видитe cтaлaгмит.#
+2504 Bы видитe cтaлaктит.#
+2505 кpoвaть#
+2506 кoйкa#
+2507 пoдиyм#
+2508 Baшe зaклятьe yничтoжaeт %s!#
+2509 Bы пoпaли в %s!#
+2510 %s paзбивaeтcя нa чacти!#
+2511 B вac пoпaл cнapяд!#
+2512 Bac yдapил лeтящий кaмeнь!#
+2513 Bы пpoбили бpoню y %s's!#
+2514 Bы пpoбили бpoню y %s's!#
+2515 Bыcтpeл пpoбил вaшy бpoню!#
+
+## 2516 - 2528 More effect messages
+2516 Bы чyвcтвyeтe, бyдтo чacть вaшeй cyщнocти плeнeнa!#
+2517 Bы чyвcтвyeтe, бyдтo y вac зaбpaли кycoчeк вaшeй cyщнocти!#
+2518 Bы чyвcтвyeтe, кaк чтo-тo дepгaeт вaшy cyщнocть и тянeт к ceбe...#
+2519 Bы пpизвaли инкyбa!#
+2520 Baшe зaклинaниe paзpyшaeт cyндyк!#
+2521 Bы cлышитe щeлчoк лoвyшки вдaли.#
+2522 Bы cлышитe щeлчoк лoвyшки вблизи!#
+2523 Bы пoпaли пoд взpыв!#
+2524 Bы cклaдывaeтe %s в нeкиe oткpытыe мexaнизмы %s...#
+2525 Bы нe мoжeтe нaйти вxoд внyтpь %s пoд этим yглoм.#
+2526 3aблoкиpoвaннaя шecтepня внyтpи %s лoмaeтcя!#
+2527 %s шecтepни зaeдaют и нaчинaют cтyчaть и иcкpитьcя!#
+2528 Baш %s нe имeeт эффeктa пpямo ceйчac.#
+
+# 2529- 2542 atk hover text
+2529 кyлaк: #
+2530 pэндж: #
+2531 кидaeм.: #
+2532 мили: #
+2533 %+10d ATAKИ BCEГO#
+2534 %+3d oт aтpибyтa (CИЛ)#
+2535 %+3d oт aтpибyтa (ЛOB)#
+2536 %+3d oт экипиpoвки#
+2537 %+3d oт нaвыкa#
+2538 %+3d oт opyжия#
+2539 %3d%% oтклoнeниe oт нaвыкa#
+2540 инcтp.:  #
+2541 пocox: #
+2542 Уpoн:%11d ATK#
+
+# 2543 - 2549 attacking text, misc
+2543 Baш yдap зacтaeт %s вpacплox!#
+2544 Baш yдap зacтaeт %s вpacплox!#
+2545 вaш yдap oбxoдит зaщитy %s's!#
+2546 вaш yдap oбxoдит зaщитy %s's!#
+2547 Bы yбивaeтe %s!#
+2548 Bы yбивaeтe %s!#
+2549 Игpoкoв oнлaйн: %4d #
+
+# 2550 - 2560 new class names
+2550 пoнoмapь#
+2551 ниндзя#
+2552 мoнax#
+2553 стрелок#
+2554 пророк#
+2555 турист#
+2556 лунатик#
+2557 blank#
+2558 blank#
+2559 blank#
+# 2560 - 2570 new class descriptions
+2560 Cмoтpитeли xpaмa, чтo cлyжaт нeзpимым. Иcпoльзyя cкpытнocть и мaгию, oни
+пpoбиpaютcя cквoзь пoдзeмeльe c пoмoщью нeкoтopыx peдкиx инcтpyмeнтoв.
+Cлoжнocть: Tяжeлaя#
+2561 Bыcoкocпeциaлизиpoвaнныe yбийцы. Oни aтaкyют из зacaд мeчaми или мeтaтeльным
+opyжиeм, a из плoxиx cитyaций выбиpaютcя c пoмoщью нeкoтopыx тpюкoв.
+Cлoжнocть: Tяжeлaя#
+2562 Диcциплиниpoвaны и вынocливы. He имeют зa плeчaми мнoжecтвa бoeвыx тpeниpoвoк и
+мaтepиaльныx блaг, нo вceгдa мoгyт paccчитывaть нa cтoйкocть и cпocoбнocть к aдaптaции.
+Cлoжнocть: Cpeдняя#
+2563 Опираясь на стрельбу из лука, эти бронированные стрелки более живучие, нежели другие
+бойцы дальнего боя.
+Cлoжнocть: Новичок#
+2564 Со способностями лечения и видения того, что недоступно остальным, пророки несут жизнь
+в подземелье.
+Cлoжнocть: Нормально#
+2565 Совсем не ожидая оказаться в подземелье, туристы начинают игру со случайным снаряжением.
+Cлoжнocть: Неизвестно#
+2566 Умирает от всего и вся. Избегая прямых столкновений, лунатики вынуждены импровизировать,
+используя необычные инструменты для выживания.
+Cлoжнocть: Экстремальная#
+2567 A blank.
+Difficulty: Normal#
+2568 A blank.
+Difficulty: Normal#
+2569 A blank.
+Difficulty: Normal#
+
+# More misc.
+2570 https://docs.google.com/forms/d/e/1FAIpQLScywW5ROX4m8cp05PspI7xZNV0jkEPAWJu3lWegS9Tj9NBDOg/viewform#
+2571 Оружие#
+2572 Броня#
+2573 Украшения#
+2574 Книги#
+2575 Инструменты#
+2576 Метательное#
+2577 Камни#
+2578 Зелья#
+2579 Свитки#
+2580 Staves#
+2581 Еда#
+2582 Заклинания#
+2583 Категории вещей для панели быстрого доступа:#
+2584 Нажмите здесь, чтобы оставить комментарий о бета-версии#
+
+2585 Теперь открыт исходный код для возможности модификации!#
+2586 #
+2587 Расскажите об ошибке и проверьте код в :#
+2588 https://github.com/TurningWheel/Barony#
+2589 Твой союзник %s %s#
+2590 Смена быстрой панели на кнопки нумпада#
+2591 Тебе больше нечему учиться с этого заклинания.#
+
+2592 Фонтан блогословил часть вашей экипировки.#
+2593 У вас нет золота!#
+2594 Выкинуть %d золотых.#
+2595 Книга дала вам магию.#
+2596 Вам даровано знание, но книга превратилась в прах!#
+2597 Вы чувствуете, как ваш разум отделяется от смертного тела.#
+2598 Держать правый сайдбар активным#
+2599 Ты чувствуешь себя обновленным!#
+
+2600 Убив барона и поставив его фиолетовую сферу на пьедестал, ты вошел в
+портал. Сильная магия посылает покалывающий импульс по твоему телу,
+и ты телепортируешься с белой вспышкой.#
+
+2601
+
+
+
+
+
+Ты выходишь из шахт Гамлета и видишь, как проклятая тьма исчезает с этих
+земель. Теплые лучи солнца нисходят на деревню. Как только ворота шахт
+распахнулись, люди, с оглядкой и настороженностью, начали выходить на улицы,
+пытаясь осознать дарованную им свободу.#
+
+2602
+
+
+
+
+
+
+
+
+
+
+Ты решаешься обратиться к Гильдии Магов за ответами, но сторож
+отворачивается от тебя.
+
+Заметив ваш изможденный вид, он предлагает вам отдохнуть.
+"Ответы, которые ты ищешь, будут здесь, когда ты поправишься."#
+
+2603
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ты возвращаешься к улицам и видишь, что сотни людей ждут тебя, своего героя.
+Ты присоединяешься к их празднованию, но решаешь вернуться к Гильдии Магов,
+когда веселье стихает.#
+
+2604
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ступайте, как только вы будете готовы.#
+
+2605
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+А сейчас ждите, пока ваш лидер не будет готов...#
+
+2606 Нажмите для продолжения.#
+
+2607 Слабая магия вытягивает тебя через портал из Цитадели. Твоя нога парит
+над сильно трясущимся полом. Трубы и поршни рушатся в приглушенном шуме.
+У тебя есть отстраненное чувство покоя и миг, чтобы осознать произошедшее.#
+
+2608
+
+
+
+
+
+
+
+Братья-личи, умерев, отправляются вслед за бароном, расторгая все
+сделки с демонами.#
+
+2609
+
+
+
+
+
+
+
+
+
+
+
+
+К лучшему ли было то, что ты избежал здесь смерти? Пройдя через испытания,
+ты обрел силу, в разы превосходящую их, чьи останки об этом свидетельствуют.#
+
+2610 Ты открываешь глаза, находясь в Гильдии Магов, возле волшебника и епископа.
+Их лица расслабляются от облегчения.#
+
+2611
+
+
+
+В следующие дни ты тайно работаешь с ними, дабы не допустить очередного
+проникновения преисподней в Гамлет с помощью подземных артефактов.#
+
+2612
+
+
+
+
+
+
+
+
+Гамлет начинает свое восхождение к былой славе. Гильдии объединяются под вашим
+знаменем дабы изничтожить остатки монстров и восстановить город. Люди
+умоляют тебя стать их новым бароном и управлять городом.#
+
+
+2613
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ты поклялся никогда не говорить, где находится секретный источник силы личей,
+чтобы остановить любого, кто ищет его глубого под землей. #
+
+2614 Сила, о которой ты знаешь, всегда будет ждать.#
+
+# Orpheus and Erudyce chatter.
+2615 "Братец, я чувствую чье-то присутствие. Нужно ли нам их поприветствовать?"#
+2616 "Нет, мы слишком заняты для излишних формальностей."#
+
+2617 "Сестра, ты позвала гостей?"#
+2618 "Нет, гильдия прислала их."#
+2619 "Хм."#
+
+2620 "Сестрица, вход в пещеру все еще запечатан?"#
+2621 "Да. Почему ты спрашиваешь?"#
+2622 "Забудь. Ничего."#
+
+2623 "Так ли необходим минотавр, братец?"#
+2624 "Нет, сестра, но мне нравится шоу."#
+
+2625 "Как ты думаешь, сестра, убегут ли они от минотавра?"#
+2626 "Мне все равно, брат. В любом случае, пошли его."#
+
+2627 "Минотавр стал мрачнее с момента смерти Херкса."#
+2628 "Прогони его, если это тебя так беспокоит, Сестра."#
+
+# Caves chatter.
+2629 "Брат, кто-то пробирается через пещеры."#
+2630 "Ты обеспокоена?"#
+2631 "Хмм. Нет."#
+
+2632 "Мне казалось, что кобольды смогут управиться в пещерах лучше."#
+2633 "Не волнуйся, братец. Есть и другие пути к успеху."#
+
+2634 "Признаюсь, брат - я бы хотела, чтобы они поторопились."#
+2635 "Было бы всё упростило, не так ли?"#
+
+# Caves transition.
+2636 "Херкс не смог управиться с найденной силой. Мы пытались предупредить его."#
+2637 "Его смерть была неизбежна."#
+2652 "Наши незваные гости всего лишь простолюдины."#
+
+# Citadel chatter.
+2638 "Все неправильно. Мы создали это место для бессмертных."#
+2639 "Бессмертных и их слуг, сестра."#
+2653 "Пусть приходят."#
+
+2640 "Сколько мне еще ждать?"#
+2641 "Займись своими делами, брат. Там не к чему готовиться."#
+
+2642 "Ты был прав,когда исключил других членов гильдии из наших планов, брат."#
+2643 "Мелкие умы всегда имеют мелкие амбиции."#
+
+# Endgame.
+2644 "Доступная нам сила лишь возросла после вашей расправы над Херксом."#
+2645 "Позвольте поблагодарить вас, за то что передали его владения нам."#
+
+# Orpheus death.
+2646 "НЕВОЗМОЖНО!!!"#
+2647 "Паразит, я использую твою душу, чтобы исправить это недоразумение!"#
+
+# Erudyce death.
+2648 "БУДЬ ТЫ ПРОКЛЯТ!!!"#
+2649 "Большая ошибка, кретин. Пришло время страдать."#
+
+# Orpheus giggles.
+2650 "АХАХАХАХАХА ХААА!!"#
+# Erudyce giggles.
+2651 "АХАХАХАХАХАХАХАХАХАХА ХААААА!"#
+
+
+# NPC Chatter. Groups of 10 lines for each NPC type
+2700 type:seq#
+2701 %s 
+ Ты настоящий тусовщик, %s. Я не мог угнаться за тобой!#
+2702 %s 
+ Ты уверен что достаточно отдохнул, %s?#
+2703 %s 
+ Сперва ты победил барона, а теперь принялся за такого шутника, как я!#
+2704 %s 
+ Тебе следует отдохнуть, однако, да, %s?#
+2705 %s
+ ...#
+
+2710 type:rand#
+2711 %s
+ Все вернулись в свои магазины как ни в чем не бывало.#
+2712 %s
+ Торговцы Гамлета стали крепче после подземелий Херкса.#
+
+2720 type:rand#
+2721 %s
+ Как мне тебя отблагодарить %s? *Ик!*#
+2722 %s
+ Я люблю тебя. Серьезно, %s, люблю. *Ик!*#
+
+2730 type:seq#
+2731 %s
+ Это секрет для каждого.#
+2732 %s
+ Раньше это было фойе в особняке Барона.#
+2733 %s
+ Мы переделываем интерьер для нашего нового правителя.#
+2734 %s
+ Мы хотим забыть все, что связано с Херксом.#
+2735 %s
+ Это секрет для всех.#
+2736 %s
+ ...#
+
+2740 type:seq#
+2741 %s
+ Я пробовал пройти в кристальные пещеры, но барьер не дал мне пройти.#
+2742 %s
+ Возможно, Гильдия Магов воздвигла этот барьер.#
+2743 %s
+ Я из далекого города, из гильдии охотников.#
+2744 %s
+ Гильдия Охотников Гамлета не в этом районе.#
+2745 %s
+ Я думаю, маги и охотники не очень ладят друг с другом.#
+2746 %s
+ Охотники убивают плохих парней. Иногда волшебников.#
+2747 %s
+ Без обид, просто не будь плохим парнем!#
+2748 %s
+ ...#
+
+2750 type:rand#
+2751 %s
+ Странно ли, что меня охватывает желание вернуться в шахты?#
+2752 %s
+ Небо здесь такое большое. Мне страшно.#
+2753 %s
+ Шахты, подземелья Херкса, находятся по другую сторону этих ворот.#
+2754 %s
+ Может, я просто ненадолго вернусь.#
+
+2760 type:seq#
+2761 %s
+ Гильдия Магов, должно быть, что-то задумала.#
+2762 %s
+ У Гильдий всегда полно секретов.#
+2763 %s
+ Я слышал, что Мерлин и Гильдия Магов поссорились.#
+2764 %s
+ Я уверен, что Херкс тесно связан с архимагистрами Орфеем и Эредис.#
+2765 %s
+ Не заводи тему про Гильдию Охотников.#
+2766 %s
+ Я слышал, что Гильдия Каменщиков работает на Церковь.#
+2767 %s
+ У Цервки свои секреты, но она всегда помогает бедным.#
+2768 %s
+ Церковь это гильдия? Спрашиваю как друга.#
+2769 %s
+ ...#
+
+2770 type:seq#
+2771 %s
+ С возвращением, %s. Надеюсь ты отдохнул.#
+2772 %s
+ Волшебники внутри могут все объяснить.#
+2773 %s
+ Мне? Не, я всего лишь сторож.#
+2774 %s
+ Многие приходят и уходят, %s. Участие не требуется.#
+2775 %s
+ Мерлин часто приходил, но потом перестал.#
+2776 %s
+ Если подумать, то Херкс приходил регулярно.#
+2777 %s
+ Херкс всегда уходил сердитым после посещения.#
+2778 %s
+ Хотел бы я посмотреть на лицо Херкса, когда вы появились...#
+2779 %s
+ ...#
+
+2780 type:seq#
+2781 %s
+ Барон хотел сделать шахту в хрустальных пещерах.#
+2782 %s
+ Но Архимаги запретили ему рыть там.#
+2783 %s
+ Херкс предложил крупные богатства Гильдии Магов.#
+2784 %s
+ Думаю, он ожидал милости от Архимагов.#
+2785 %s
+ В итоге Херкс отказался от помощи Гильдии.#
+2786 %s
+ Все обернулось не в лучшую сторону, но могло бы быть и хуже.#
+2787 %s
+ ...#
+
+2790 type:seq#
+2791 %s
+ Мерлин поведал нам об обнаруженной Херксом опасной магии.#
+2792 %s
+ С тех пор как он ушел, чтобы остановить Херкса, от него не было вестей.#
+2793 %s
+ До меня дошли слухи о новом письме от Мерлина, но я никогда не видел его.#
+2794 %s
+ Ты знаешь, Мерлин никогда не был официальным членом Гильдии Магов.#
+2795 %s
+ Некоторым людям просто нужна независимость. Я уважаю это.#
+2796 %s
+ ...#
+
+2800 type:seq#
+2801 %s
+ После того, как Херкс был заперт, Архимаги направились в Хрустальные Пещеры.#
+2802 %s
+ Полагаю, они хотели узнать, из-за чего был весь сыр-бор.#
+2803 %s
+ Если бы не Архимаги, Херкс собрал бы здесь армию.#
+2804 %s
+ Мы бы никогда не додумались, где бы заточить Херкса подальше отсюда. #
+2805 %s
+ По-моему, Эредис и Орфей знали, что просто запечатать его было недостаточно.#
+2806 %s
+ ...#
+
+2810 type:seq#
+2811 %s
+ Могущественные создания начали выходить из Хрустальных Пещер.#
+2812 %s
+ Гильдия должна была запечатать пещеры, чтобы уберечь город от уничтожения.#
+2813 %s
+ Надеюсь, с Архимагами внутри все впорядке.#
+2814 %s
+ Я очень надеюсь, что эти твари никак не связаны с их исследованиями.#
+2815 %s
+ Орфей крайне одержим. Ничто его не остановит.#
+2816 %s
+ Эредис любит влиять на ситуацию из-за кулис.#
+2817 %s
+ ...#
+
+2820 type:seq#
+2821 %s
+ Я почувствовал силу сферы, когда ты поставил ее на пьедестал.#
+2822 %s
+ Интересно, почему Херкс не использовал эту силу чтобы выбраться из подземелья.#
+2823 %s
+ Я был в состоянии поймать некоторую силу, исходящую от сферы Херкса .#
+2824 %s
+ Этот портал пробивает печать пещер, используя силу сферы.#
+2825 %s
+ Архимаги Орфей и Эредис помогут вернуть все на свои места.#
+2826 %s
+ Должно быть, они узнали что-то о силе, найденной Херксом.#
+2827 %s
+ ...#
+
+2830 type:seq#
+2831 %s
+ не переживай, %s, я знаю, кто ты.#
+2832 %s
+ Я хотел повидаться с тобой, прежде чем ты покинешь город.#
+2833 %s
+ Я? Я один из уважаемых людей в гильдии торговцев.#
+2834 %s
+ Меня интересуют только самые редкие артефакты на земле.
+ Как например те волшебные сферы, что были украдены Херксом.#
+2835 %s
+ Если случится так, что вам удастся вернуть любую из них,
+ я с готовностью вознагражу вас чем-нибудь ценным взамен.#
+2836 %s
+ Видите ли, высокопоставленный член гильдии, такой как я, может
+ вытрясти с магов всё до последней копейки этими драгоценными сферами!#
+2837 %s
+ Я знаю, что ты слишком мягкосердечен, чтобы сделать это сам.#
+2838 %s
+ Ну, решать тебе. Доверь их мне, и нам больше не придется
+ разговаривать об этом.#
+2839 %s
+ ...#
+
+2850 type:rand#
+2851 %s Response 1.#
+
+2860 type:rand#
+2861 %s Response 1.#
+
+# 2900 - 2949 More effects text:
+2900 Бллф, это зелье было проклято!#
+2901 Ты ощущаешь тяжесть...#
+2902 Ты стал медлительнее...#
+2903 Ты ощущаешь привкус яда во рту.#
+2904 Алтарь дарует стойкость и мощь!#
+2905 Твое заклинание не подействовало на %s!#
+2906 Заклинание не сработало на %s!#
+2907 "Не бойся идти медленно, бойся остановиться."#
+2908 Твои мысли более не одиноки, когда ты надеваешь повязку.#
+2909 Алтарь дарует тебе меткость и скорость!#
+2910 Алтарь дарует тебе тайные знания и сопротивление!#
+2911 Барон!#
+
+# 2912-2916 Autosort text:
+2912 Категории предметов для автосортировки: (?)#
+2913 Используй стрелки для задания приоритета сортировки. 0 - без приоритета.#
+2914 1 - низкий приоритет, 9 - наивысший для заполнения слева направо.   #
+2915 -1 - низкий, -9 - наивысший для заполнения справа налево.           #
+2916 Экипировано#
+
+# New server flags.
+2917 Хардкор#
+2918 Классика#
+2919 Сохранять инвентарь при смерти#
+2920 +1 К жизни#
+# Хардкор
+2921 ВНИМАНИЕ: Экспериментально! Увеличивает силу и реакцию врагов.
+Серьезный вызов для бывалых путешественников! #
+# Классика
+2922  Только уровни Cursed Edition.
+ Для тех кто хочет быстрого прохождения или попасть в классическую таблицу рекордов.#
+# Сохранение инвентаря
+2923 Отключает дроп вещей после смерти. (Работает только в мультиплеере)
+ Наслаждайтесь подземельем без заботы об инвентаре друга!#
+# Life Saving
+2924 Выдается амулет сохранения жизни в самом начале игры.
+  ВНИМАНИЕ: Включение данной опции отключит достижения в файле сохранения!#
+
+# 2925 - 2957 New conducts.
+2925 Hardcore#
+2926 Discreet#
+2927 Allied#
+2928 Classic#
+2929 Modded#
+2930 Brawler#
+2931 Ultra Speedrunner#
+2932 Speedrunner#
+2933 Inventory Keeper#
+2934 +1 Lifer#
+2935 Cursed#
+2936 Ranger#
+
+2958 Рекорды в мультиплеере#
+2959 Продолжить мультиплеер#
+2960 Сортировка инвентаря (%s)#
+2961 Удалить файл#
+2962 Отмена#
+2963 Ты действительно хочешь удалить сохранение синглплеера?
+
+#
+2964 Ты действительно хочешь удалить сохранение мультиплеера?
+
+#
+2965 ВНИМАНИЕ: НАЖАВ ПРОДОЛЖИТЬ, ЭТО ПЕРЕЗАПИШЕТ СОХРАНЕНИЕ ОДИНОЧНОЙ ИГРЫ!#
+2966 ВНИМАНИЕ: НАЖАВ ПРОДОЛЖИТЬ, ЭТО ПЕРЕЗАПИШЕТ СОХРАНЕНИЕ МУЛЬТИПЛЕЕРА!#
+2967 мерцание света#
+2968 [%s] для сброса золота#
+2969 Боги Сокобана щедро вознаградили твои способности!#
+2970 Боги Сокобана слегка развлеклись.#
+2971 Боги Сокобана не впечатлены.#
+2972 Броня греет твое сердце.#
+2973 Шлем наполняет твой разум таинственным шепотом.#
+2974 Ботинки вибрируют, издавая пульсацию по всей земле.#
+2975 Плащ возносит тебя над землей, и ты чувствуешь как его сила окутывает твое тело.#
+2976 Перчатки наделяют тебя потусторонней защитой.#
+2977 Расходует: %d + ?? MP#
+2978 Модификации#
+2979 Мастерская#
+2980 Создание персонажа (Модифицировано)#
+2981 ПРЕДУПРЕЖДЕНИЕ: УБЕДИТЕСЬ ЧТО У ВСЕХ
+  ЧЛЕНОВ ЛОББИ ИСПОЛЬЗУЮТСЯ ТЕ ЖЕ МОДЫ!#
+2982 ЗАМЕТКА: Игра с модами имеет свои сохранения.#
+2983 вкл. таймер игры в HUD#
+2984 Подписаться на моды хоста#
+2985 Подключить моды хоста#
+2986 Savefile has cheats enabled#
+2987 Загрузка модиф. звуковых файлов...#
+2988 Выгрузка модиф. звуковых файлов...#
+2989 Загрузка модиф. файлов моделей...#
+2990 Выгрузка модиф. файлов моделей...#
+2991 Загрузка модиф. файлов книг...#
+2992 Выгрузка модиф. файлов книг...#
+2993 Загрузка модиф. файлов музыки...#
+2994 Выгрузка модиф. файлов музыки...#
+2995 Режим бойца включен, только кулаки и брошенные зелья могут нанести урон!#
+2996 Режим бойца выключен, разрешено любое оружие.#
+2997 Этот инструмент отключен в режиме бойца!#
+2998 Сохранение игрока не подходит для получения ачивки "бойца". Рестарт для сброса.#
+2999 Магия отключена в режиме бойца!#
+3000 Предыдущий перс.#
+3001 Удалить рекорд#
+3002 Ты точно хочешь удалить данный рекорд?#
+
+#
+3003 Достижения отключены#
+3004 Загрузка модиф. языкового файла...#
+3005 Выгрузка модиф. языкового файла...#
+3006 Загрузка модиф. спрайтов предетов...#
+3007 Выгрузка модиф. спрайтов предетов...#
+3008 Загрузка свойств из модиф. item.txt...#
+3009 Выгрузка свойств из модиф. item.txt...#
+3010 fell to their death.#
+3011 верт. синхр.#
+3012 Выкл. звуки миникарты#
+3013 Loading modded monster limbs.txt files...#
+3014 Unloading modded monster limbs.txt files...#
+3015 Loading modded system resource image files...#
+3016 Unloading modded system resource image files...#
+3017 Loading modded game tiles...#
+3018 Unloading modded game tiles...#
+3019 Сохранить и отключиться#
+3020
+          Вы правда хотите отключиться
+           И вернуться в главное меню?
+
+    Ваш прогресс мультиплеера будет сохранен
+            на начале текущего уровня.
+
+ ВНИМАНИЕ:
+    Если ваши текущие игроки в лобби войдут
+   в следующий уровень без вашего персонажа,
+    твое сохранение будет не актуально и
+       продолжить с ними будет нельзя.#
+3021
+          Вы правда хотите отключиться
+           и вернуться в главное меню?
+
+    Ваш прогресс мультиплеера будет сохранен
+            на начале текущего уровня.
+
+ ВНИМАНИЕ:
+       Это отключит всех игроков в лобби и
+            сохранит общий прогресс.#
+3022 Настройки миникарты#
+3023 Foreground Transparency (%)#
+3024 Background Transparency (%)#
+3025 Размер карты#
+3026 Player/Ally Icon Zoom#
+3027 Character Sheet Zoom#
+3028 Skills/Party Sidebar Zoom#
+3029 Hotbar Zoom#
+3030 Chatlog Zoom#
+3031 Player HP/MP Zoom#
+3032 Inventory Zoom#
+3033 Hide Chatlog#
+3034 User Interface Options#
+3035 There's no ground beneath your feet to place that!#
+
+# Follower Radial Menu Text
+3036 Приказы компаньонам:#
+3037 Ждать здесь#
+3038 Класс:#
+3039 Идти к...#
+3040 Подобрать
+предмет:#
+3041 Отойти в сторону#
+3042 Выбросить#
+3043 Взаимодействуй с...#
+3044 Отставить#
+# Begin secondary option text.
+3045 Следовать#
+3046 #
+3047 #
+3048 #
+3049 #
+3050 #
+3051 Взаимодействие /
+ Атака...#
+3052 #
+3053 [Смешанный]#
+3054 [Ближний]#
+3055 [Дальний]#
+3056 [Неизвестный]#
+3057 [Никакой]#
+3058 [Все]#
+3059 Оружие#
+3060 Экипировка#
+3061 Все#
+3062 Вы не соответствуете требованиям Лидерства и Харизмы для этого.
+(Требуется: %s, Сейчас: %s)#
+3063 Отмена#
+3064 удалить сохранение#
+3065 Начать новую игру или продолжить с сохранения:#
+3066 Листать стрелками или колесиком мыши#
+3067 %2d / %2d слотов для синглплеера#
+3068 %2d / %2d слотов для мультиплеера#
+
+# Follower responses.
+3069 Я буду стоять здесь, %s.#
+3070 Я буду сидеть тихо.#
+3071 У меня прокляли %s!#
+3072 Тебе бы это подошло, %s!#
+3073 Я поищу что-то получше.#
+3074 Мне это не пригодится.#
+3075 То, что нужно!#
+3076 Уфф, я наелся до сыта.#
+3077 Я не могу достать.#
+3078 Что-то мешает пройти.#
+3079 Двигаюсь к точке!#
+3080 Прикрой моё отступление, %s!#
+3081 Этим можно чинить или типо того.#
+3082 Здесь нет ничего незаменимого!#
+3083 Вы можете почувствовать этот ветерок снизу.#
+3084 Я не могу предать своих союзников вот так.#
+3085 You have to keep what few friends you have down here.#
+3086 Хмм.#
+3087 Мм.#
+3088 Этот был слегка с плесенью.#
+3089 Я не могу съесть больше.#
+3090 Я сейчас не голоден.#
+3091 Буэээ! Протухшая еда!#
+3092 Эту команду можно использовать лишь раз за этаж.#
+3093 Пошаманить с #
+3094 Не с чем взаимодействовать.#
+# Follower responses end.
+
+# Misc
+3095 посмотреть список лидеров Steam#
+3096 Твое заклинание попадает в %s!#
+3097 дверь#
+3098 ворота#
+3099 сундук#
+3100 Таинственная сила защищает этот замок!#
+3101 Таинственная сила защищает эту дверь!#
+3102 Таинственная сила защищает эти ворота!#
+
+# Follower responses cont'd.
+3103 Команда не доступна для %s.#
+3104 Атаковать...#
+3105 %s терпеливо ждет.#
+3106 %s терпеливо ждет.#
+3107 weapon is#
+3108 helmet is#
+3109 hat is#
+3110 breastpiece is#
+3111 boots are#
+3112 shield is#
+3113 gloves are#
+3114 cloak is#
+3115 ring is#
+3116 amulet is#
+3117 equipment is#
+3118 %s cursed!#
+3119 The %s's #
+3120 %s's #
+3121 The %s #
+3122 %s #
+3123 смотрит на %s с пренебрежением.#
+3124 быстро ест %s.#
+3125 сдает свое оружие.#
+3126 сдает часть своей экипировки.#
+3127 сдает свою экипировку.#
+3128 %s решает следовать за тобой!#
+3129 %s хрюкнул.#
+3130 %s хрюкнул.#
+3131 %s не может достать отсюда.#
+3132 %s не может достать отсюда.#
+3133 %s имеет препятствие на пути.#
+3134 %s имеет препятствие на пути.#
+3135 Приношу извинения %s, но это подарок на память.#
+
+# Misc
+3136 Скрыть ники игроков#
+3137 %s очарован тобой!#
+3138 %s очарован тобой!#
+3139 Очарованный %s теряет волю к борьбе!#
+3140 Очарованный %s теряет волю к борьбе!#
+3141 Ты сопротивляешься очарованию!#
+3142 Очарование не подействовало на %s!#
+3143 Очарование не подействовало на %s!#
+3144 Из-за очарования вы теряете желание драться!#
+3145 Слизь обволакивает и пожирает %s!#
+
+3146 Сеть#
+3147 отключить многопоточную сеть Steam.#
+3148 У некоторых игроков могут проявляться фризы и понижение частоты кадров если вкл.,
+отключите эту опцию или используйте direct-ip подключение для повышения фпс.#
+3149 Скрывает IP-адрес при подключении к лобби через direct-ip. #
+3150 Скрывает HUD-элементы в игре (такие как хотбар, ХП/МП, миникарта и т.д.) #
+3151 Автоматически добавляет подобранные предметы в панель быстр. доступа. Вы можете
+указать категории, которые будут добавлены в панель.#
+3152 Автоматически начинает опознавать подобранные предметы.
+Не прерывает текущую оценку предмета.#
+3153 Отключает всплывающие сообщения о произошедшем. Сообщения
+по-прежнему будут находиться в логе снизу.#
+3154 Если включено, предмет не будет автоматически надет при нажатии на ПКМ.
+Опция должна быть выбрана нажатием на ПКМ в контекстном меню.#
+3155 Если включено, автоматически добавляет предметы из инвентаря в хотбар
+при наведении на него и нажатии клавиш 0-9. При добавлении предмета в уже
+заполненное окно хотбара, оно будет заменено на новое.#
+3156 Оставляет открытым вкладку друзья\скилы при закрытом инвентаре. Эта опция
+полезна в случае, если вам необходимо быстро проверить состояние друга. Может быть
+включено\отключено нажатием на замок в окошке.#
+3157 Всегда показывает игровой таймер в игре в верхнем правом углу.
+Полезно, если вы занимаетесь спидраном и у вас нет времени на
+лишние движения.#
+
+3158 выключить звук при сворачивании игры#
+3159 показывать числовые значения скилов#
+
+3160 Раса:#
+3161 Человек#
+3162 Скелет#
+3163 Вампир#
+3164 Суккуб#
+3165 Сатир#
+3166 Автоматон#
+3167 Инкуб#
+3168 Гоблин#
+3169 Инсектоид#
+
+3175 Используй ЛКМ или стрелки влево\вправо чтобы осмотреть персонажа.#
+
+3176 Настройки геймплея:#
+3177 Расовые способности#
+3178 Только скин#
+
+3179 Скелетам не нужна еда!#
+3180 Но! Вы оживаете при полной мане!
+3181 У тебя недостаточно маны, чтобы восстановить себя...#
+3182 Ты борешься с течением, как настоящий скелет!#
+3183 Вода прожигает кожу до мяса, причиняя сильную боль!#
+3184 Вода обжигает твои кости, заставляя их неистово болеть!#
+3185 Действие полиморфа проходит и ты возвращаешься в нормальную форму.#
+3186 Ты превратился в %s!#
+3187 %s превратился в %s!#
+3188 %s превратился в %s!#
+3189 Но ты не чувствуешь изменений...#
+3190 Ты пьешь зелье полиморфа...#
+3191 Полиморф не подействовал!#
+3192 Полиморф смылся водой!#
+3193 Твоя кожа трескается как ты чувствуешь, что полиморф проходит...#
+3194 Твоя душа %s вернулась к тебе.#
+3195 Душа %s вернулась к тебе.#
+3196 Откажись от
+   души.#
+3197 Твой призванный %s повысил уровень!#
+3198 Но постой! Твои призванные союзники вдохнут в тебя новую жизнь!#
+
+3199 Заблокировано - Требуется DLC Myths & Outcasts!#
+3200 Заблокировано - Требуется DLC Myths & Outcasts! Нажми ЛКМ чтобы просмотреть страницу в магазине.#
+
+3201 *звуки рвоты*! Твое тело отторгает камни в желудке!#
+3202 Какая ужасающая ночь для проклятого...#
+3203 *блюет*! Это отвратительно!#
+3204 Без оружия#
+3205 %s оглушен твоим ударом!#
+3206 %s оглушен твоим ударом!#
+3207 Тебя оглушило ударом %s!#
+3208 Тебя оглушило ударом %s!#
+3209 %+3d от навыка#
+3210 Твой клинок протыкает %s!#
+3211 Твое лезвие глубого проникает в %s!#
+3212 Клинок %s! протыкает тебя!#
+3213 Лезвие %s глубоко проникает в тебя!#
+3214 %s отшатывается назад!#
+3215 %s отшатывается назад!#
+3216 Ты был отброшен!#
+3217 Ты не можешь снять %s.
+ Оно благословлено!#
+3218 Ты не можешь. Оно благословлено!#
+3219 Ты не можешь продать %s.
+ Оно благословлено!#
+3220 Ты съел консерву
+ %s.#
+3221 Ты просыпаешься, не зная, где находишься...
+ вместе с головной болью.#
+3222 Может - выпивка поможет...#
+
+3223 призыватель#
+3224 проклятый#
+3225 зачарователь#
+3226 пьяница#
+3227 механик#
+3228 каратель#
+3229 шаман#
+3230 охотник#
+
+3231 Хрупкий, но хорош в магии. Призывает приспешников за счет маны.
+
+Сложность: Нормальная#
+
+3232 Проклятые страдают от звериного голода, но взамен получают нечеловеческую
+магическую силу и скорость. Говорят, тайная библиотека в подземелье может иметь лекарство.
+Сложность: Сложно#
+
+3233 Заклинатели подчиняют врагов для для достижения своих целей.
+
+Сложность: Сложно#
+
+3234 Просыпаясь в подземельях Гамлета со смутными воспоминаниями
+о прошедших ночах, пьяницы бродят в поисках хорошей еды и собутыльников.
+Сложность: Нормальная#
+
+3235 Профессиональный ремесленник, использует инструментарий для создания и ремонта
+механического оружия, а всю грязную работу перекладывает на свои хитрые приспособления.
+Сложность: Нормально#
+
+3236 Каратель предпочитает грязный бой - играет с врагами используя черную магию и кнут
+перед казнью или выпускает их внутренних демонов сделать свою работу.
+Сложность: Очень сложно#
+
+3237 Шаман - это мистик, чья связь с духами позволяет превращаться в монстров. Каждая форма
+имеет разнообразные преимущества в подземелье.
+Сложность: Нормально#
+
+3238 Со снаряжением для выслеживания и убийства с расстояния, охотник использует лук
+с особыми стрелами и магический бумеранг, дабы не сходиться лицом к лицу с врагами.
+Сложность: Сложно#
+
+3239 Неверный номер навыка!#
+3240 Вашего умения оценивания недостаточно, чтобы опознать
+ "%s".#
+3241 Вы чувствуете как проклятие уходит, использовав заклинание...#
+3242 Знание дарует тебе власть над Проклятием!#
+3243 Убирайся из моего магазина, %s %s!#
+3244 заучи правило "%s не жалуют" в магазине "%s".#
+3245 %d зелья выпали из фонтана!#
+3246 Зелье падает из фонтана!#
+3247 Ты начинаешь покрываться холодным потом...#
+3248 Твои руки становятся шаткими...#
+3249 Ты чувствуешь нарастающую головную боль...#
+3250 Твое похмелье проходит.#
+3251 %s решается быть твоим собутыльником!#
+3252 %s решается быть твоим собутыльником!#
+3253 Ваше здоровье угасает из-за проклятия!#
+3254 goes for a swim in some water.#
+
+# Skill tooltips
+3255
+
+Шанс вскрыть сундук или дверь:              %5.1f%%
+Шанс хлама при вскрытии сундука:            %5.1f%%
+Шанс хлама при вскрытии Автоматонов:        %5.1f%%
+Шанс обезвредить ловушку со стрелой:        %5.1f%%
+Шанс бонусного хлама при утилизировании:    %5.1f%%
+Возможность починки предмета (металл/магия):  %4s
+Максимум устанавливаемых механизмов:         %5.0f
+Доступные команды союзным роботам есть в меню   [%s] #
+3256
+
+Незаметность:                    %2.0f tile(s)
+Уменьшение заметности от умения:%3.0f%%
+Ночное зрение при ходьбе тайком:+%2.0f Light
+Бонус к удару со спины:         +%2.0f ATK#
+3257
+
+Цена покупки: на  %3.2fx больше золота
+Цена продажи: на  %3.2fx меньше золота  #
+3258
+
+Время опознания вещи за единицу золота:        %3.2fs
+Максимальная стоимость опознаваемого предмета: %4.0fG
+Возможность отличить фальшивку:                %3s   #
+3259
+
+Скорость в воде\лаве:  %3.1f%% #
+#
+3260
+
+Максимум компаньонов (рекрутинг на [%-11s):     %2.0f
+Бонус скорости для компаньонов:               +%2.0f DEX
+Шанс зачаровать монстра:                       %3.0f%%
+Доступные команды компаньонов отображены в меню [%s]#
+3261
+
+Скорость регенерации маны:         1 MP / %1.1fs
+Новичок в кастинге:                     %3s
+(Новички ошибаются и расходуют больше маны)#
+3262
+
+Уровень заклинаний, доступных для изучения: %8s
+Текущий разряд заклинаний:
+#
+3263
+
+Урон дальнего боя:              %3.0f - 100%%
+Шанс порчи при использовании:   %5.2f%%
+Шанс пробить броню:             %3.0f%%
+ (Пробивание зависит только от восприятия)
+Урон метательного оружия:       %3.0f%%#
+3264
+
+Урон мечей:                            %7.0f - 100%%
+Обычный шанс износа при использовании: %1.2f%%
+Шанс порчи при 0 урона:                %5.2f%%#
+3265
+
+Урон дробящего оружия:                 %7.0f - 100%%
+Обычный шанс износа при использовании: %1.2f%%
+Шанс порчи при 0 урона:                %5.2f%%#
+3266
+
+Урон топоров:                          %7.0f - 100%%
+Обычный шанс износа при использовании: %1.2f%%
+Шанс порчи при 0 урона                 %5.2f%%#
+3267
+
+Урон копий:                            %7.0f - 100%%
+Обычный шанс износа при использовании: %1.2f%%
+Шанс порчи при 0 урона:                %5.2f%%#
+3268
+
+Увеличение брони при защите:              +%3.0f AC
+Обычный шанс износа при использовании:     %5.2f%%
+Шанс порчи при защите:                     %5.2f%%#
+3269
+
+Урон без оружия:                   %7.0f - 100%%
+Шанс порчи наручей:                %1.2f%%
+Шанс порчи при 0 урона:            %5.2f%%
+Бонус к урону без оружия:         +%2.0f ATK
+Шанс отбросить при полном заряде:  %3.0f%%
+ (Требуются наручи для использования)#
+
+# Additional skill tooltip text
+3270
+
+
+
+
+
+
+
+
+
+Легендарный:
+ Дополнительные %d золота при взломе сундуков
+ Возможность починить любой предмет набором механика#
+3271
+
+
+
+
+
+Легендарный:
+ Скрытность (использование кнопки защиты без щита)
+  под гарантированной невидимостью.
+ Урон при ударе со спины удваивается.#
+3272
+
+
+
+Легендарный:
+ Продажа любых вещей торговцам.#
+3273
+
+
+
+
+Легендарный:
+ Моментальное опознание вещей при подборе.#
+3274
+
+
+Легендарный: хождение по воде\лаве(без урона)#
+3275
+
+
+
+
+
+Легендарный:
+ Возможность нанять гоблинов,инсектоидов,сатиров.#
+3276
+
+
+
+
+Легендарный:
+ Автоизучение Магического Снаряда со стоимостью 0 маны#
+3277
+
+
+
+Легендарный:
+ Автоизучение Доминирования#
+3278
+
+
+
+
+Легендарный:
+ +5 к атаке и наложение кровотечения на 5с
+   при заряженном ударе.
+ (Цели, неуязвимые к кровотечению, получат
+  +5 дополнительного урона)#
+3279
+
+
+
+
+Легендарный:
+ +5 к атаке и 25%% шанс парализовать на 1.5с
+  при заряженном ударе#
+3280
+
+
+
+
+Легендарный:
+ +10 к атаке и замедление на 3с
+  при заряженном ударе#
+3281
+
+
+
+
+Легендарный:
+ +5 к атаке и отбрасывание
+  при заряженном ударе#
+3282
+
+
+
+
+
+
+
+Легендарный:
+ +5 к атаке и парализация
+  при заряженном ударе в спину#
+3283
+
+
+
+
+Легендарный:
+ Щиты никогда не портятся#
+3284
+
+
+
+
+
+
+Легендарный:
+ Дальнобойное оружие никогда не портится#
+
+ 3285 Появилась ЗАП Бригада!
+  "Минотавр приближается! Давайте убьем и других мерзких тварей!"#
+3286 #
+3287 %s невозможно починить.#
+3288 У вас нет вещей, которые можно починить!#
+3289 Наносит %d магического урона#
+3290 Наносит %d магического урона
+ и накладывает статус [%s]#
+ 3291 Наносит %d магического урона,
+  накладывая [%s] и [%s]#
+ 3292 Накладывает эффект [%s]#
+ 3293 Наносит %d магич. урона
+  и накладывает статус [%s]#
+3294 замедление#
+3295 горение#
+3296 паралич#
+3297 кровотечение#
+3298 сон#
+3299 путаница#
+3300 яд#
+3301 Тип: Зона#
+3302 Тип: Поддержка#
+3303 Тип: Снаряд#
+3304 Тип: Короткий снаряд (x3)#
+3305 Тип: На себя#
+3306 Тип: На цель#
+3307 Восстанавливает %d здоровья себе
+ и близким союзникам.#
+3308 Дает магическое отражение пока активно
+Отражает магические снаряды за счет вашей маны.#
+3309 Позволяет левитировать пока активно.#
+3310 Дает невидимость пока активно#
+3311 Создает свет#
+3312 Снимает проклятие с предмета.#
+3313 Идентифицирует предмет.#
+3314 Отображает карту текущего уровня.#
+3315 Телепортирует вас в случайное место.#
+3316 Открывает двери, ворота, сундуки.#
+3317 Закрывает двери, сундуки.#
+3318 Убирает все статусы у вас
+ и близжайших союзников#
+3319 Ломает стену.#
+3320 Призывает отзываемого скелета.
+Уровень эксперта позволяет призывать второго.
+Уровень призванного сохраняется при смерти#
+3321 Превращает цель в вашего раба
+Кол-во затрат маны зависит от ХП врага
+Расходует ХП кастующего, если ХП врага
+ больше, чем ваша мана.#
+3322 Крадет оружие врага и
+ перемещает его в ваш инвентарь.#
+3323 Наносит %d магического урона ХП и МП врагу
+восстанавливая столько же ХП/МП вам.#
+3324 Пока активно, дает атакам без оружия шанс
+ на эффекты [вампиризма] и [кровотечения].
+Регенерация ХП приостановлена.
+Скорость передвижения увеличена, голодание ускорено.#
+3325 Расходует: %d MP (1 MP / %1.2fs)#
+3326 Позволяет очаровать монстра
+Только 1 монстр может быть очарован одновременно
+Усмиряет при неудачной попытке#
+3327 Ты не можешь зачаровать еще одного монстра!#
+3328 Алхимия: Выбери основной ингредиент#
+3329 Алхимия: Выбери второстепенный ингредиент#
+3330 a %+2d #
+3331 %d %+2d #
+3332 Ты совмещаешь %s с %s...#
+3333 Ты совмещаешь неизвестное зелье с %s...#
+3334 Ты совмещаешь %s с неизвестным зельем...#
+3335 Ты совмещаешь 2 неизвестных зелья...#
+3336 Пустя фляга выглядит идеальной для помещения жидкости.#
+3337 У тебя нет знакомых зелий для объединения!#
+3338 У тебя нет знакомых основных зелий для объединения!#
+3339 Варка#
+3340 Алхимия#
+3341 Прекратить варку#
+3342 У тебя больше нет зелий для смешивания!#
+3343 У тебя не осталось зелий для смешивания!#
+3344 Эксперимент: выбери основное зелье#
+3345 Эксперимент: выбери зелье для смешивания#
+3346 Ты узнал о %s
+ алхимическом ингридиенте.#
+3347
+
+
+
+
+
+
+
+
+
+Легендарный:
+ Сваренные напитки имеют +2 благословления
+ Алембик никогда не портится#
+3348
+
+Урон от метания зелий:            %3.0f%%
+Урон от содержимого зелья:        %3.0f%%
+Шанс дублирования зелья:          %3.0f%%
+Шанс вернуть бутылку после питья: %4.0f%%
+ (Только простых или пузырчатых зелий)
+Шанс сохранить бутылку при варке: %4.0f%%
+Известные ингридиенты:
+ Основной            Второй
+#
+3349 Ты выучил  %s
+ второй алхимический элемент.#
+3350 Дунул самогон.#
+3351 Тебе вернулась %s.#
+3352 Сварено %s.#
+3353 Разлито в бутылку %s.#
+3354 Внезапно, ты почувстовал себя намного сильнее!#
+3355 Твоя сила возвращается в нормальное состояние.#
+3356 Сваренное растворяется в воде...#
+
+3357 status effect icons#
+3358 Ты чувствуешь прилив энергии?#
+3359 Победитель %s!#
+3360 Вечный %s!#
+3361 %s Барон!#
+3362 %s %s.#
+3363 Костлявый#
+3364 Зубастик#
+3365 Бомба#
+3366 Крикун#
+3367 Шаблон#
+3368 Плохой Мальчик#
+3369 Водяной#
+3370 Негодник#
+
+3371 заглушить звуки монстра от игрока#
+3372 Закрыто - длс скоро появится!#
+3373 Информация о расе#
+3374 Закрыть#
+3375 Человек
+
+Дружелюбны:
+Люди, Автоматоны
+
+Слабости:
+Нет
+
+Устойчив к:
+Нет
+
+Особенности:
+Нет#
+
+3376 Скелет
+
+Дружелюбны:
+Гули, Автоматоны
+
+Слабости:
+Булавы,алебарды,безоружные атаки,
+ благословленная вода
+
+Устойчив к:
+Мечи,дальний бой,топоры,магия
+
+Особенности:
+- Не может есть и голодать
+   (Зелья по-прежнему работают)
+- Возрождение за 75МП
+- -75% скорости регенерации ХП/МП
+- -50% скорость плавания
+- Не горит#
+
+3377 Вампир
+
+Дружелюбен к:
+Вампиры, Автоматоны
+
+Слабости:
+Булавы,алебарды,вода,твердая пища
+
+Устойчив к:
+Мечи,дальний бой,топоры,магия
+
+Особенности:
+- Использует заклинания за счет ХП
+   если кончилась мана
+- Начинает с магией Кровотечения
+    и Левитации
+- Голод утоляют только флаконы
+   с кровью
+- Флаконы выпадают после убийства
+   (Шанс выше, если наложить
+    кровотечение или убить скрытно)#
+
+3378 Суккуб
+
+Дружелюбен к:
+Суккубы, Инкубы, Автоматоны
+
+Слабости:
+Мечи
+
+Устойчив к:
+Магия, алебарды
+
+Особенности:
+- Проклятые вещи снимаются,
+   а каждое проклятие дает бонус
+- Благословленные вещи не снимаются
+   (Но все равно дают бонус)
+- Начинает с изученной магией
+   телепортации
+- Может вербовать пьяных\растерянных
+   людей#
+
+3379 Сатир
+
+Дружелюбны:
+Сатиры, Автоматоны
+
+Слабости:
+Магия,топоры,алебарды,дальний бой
+
+Устойчив к:
+Мечи
+
+Особенности:
+- Используя фонтаны, есть шанс
+   получить 1-3 случайных зелья
+- Увеличение СИЛ\ХАР при опьянении
+   (Нет головокружения по пьяни)
+- Переодически страдает похмельем,
+   что лечится выпивкой
+- Вскрывает консервы без открывашки
+- Может вербовать людей/гоблинов,
+   если кинуть в них выпивку#
+
+3380 Автоматон
+
+Дружелюбны:
+Люди, Автоматоны
+
+Слабости:
+Булавы, топоры, магия
+
+Устойчив к:
+Дальний бой, безоружным
+
+Особенности:
+- Требует тепло (ТП) для
+   восстановления МП и ХП
+- Потребление драг. камней, свитков
+   обычных книг, хлама добавляет ТП
+- Проклятые вещи можно снять
+- Нейтрален к Инкубам и Суккубам
+- Не горит
+- +20 к навыку ремесла при починке
+- Начинает с магией переработки#
+
+3381 Инкуб
+
+Дружелюбны:
+Инкубы,Суккубы,Автоматоны
+
+Слабости:
+Дальний бой, мечи
+
+Устойчив к:
+Магия, алебарды
+
+особенности:
+- Проклятые вещи снимаются,
+   проклятия дают бонусы
+- Благословленные вещи не снимаются
+   (Но все равно дают бонус)
+- Начинает с магией Телепортации
+   и Тайной метки#
+
+3382 Гоблин
+
+Дружелюбен:
+Гоблины, Автоматоны
+
+Слабости:
+Топоры,алебарды,дальний бой
+
+Устойчив к:
+Безоружным, мечи
+
+Особенности:
+- Изношенные вещи имеют
+   уменьшенный шанс испортиться
+- Повышенные навыки ближнего
+   боя и всего оружия
+- Навыки оружия ближнего боя
+   улучшаются медленно
+- Не может выучить заклинания
+   из магических книг
+(Может брать в руку и использовать)#
+
+3383 Инсектоид
+
+Дружелюбны:
+Инсектоиды,скарабеи,скорпионы
+
+Слабости:
+Топоры,алебарды,дальний бой
+
+Устойчив к:
+Булавы, безоружным
+
+Особенности:
+- Требует энергию (ЭН) для
+   восстановления МП и ХП
+- Энергия может быть получена
+   потребляя сладкие жидкости
+- Иммунитет к отравлению
+- Не может отравиться при
+   употреблении тухлой еды
+- Начинает с Полетом, Рывком
+   и Токсичным плевком#
+
+3384 Замедление
+Снижена скорость движения#
+3385 Кровотечение
+Постепенный урон#
+3386 Сон
+Невозможно двигаться\видеть#
+3387 Растерянность
+Движение наоборот#
+3388 Усмирение
+Невозможно атаковать#
+3389 Aypa вamпиpa
++ Cилa и Лoвкocть
+Гoлoд пpиxoдит 6ыcтpee
+Бoльшe шaнc нaнecти
+ [кpoвoтeч.] 6eз opyжия
+Шaнc пoxитить XP пpи
+ лeтaльнoй cкpытнoй aтaкe#
+3390 Aypa вamпиpa
++ Cилa и Лoвкocть
+Гoлoд пpиxoдит 6ыcтpee
+Бoльшe шaнc нaнecти
+ [кpoвoтeч.] 6eз opyжия
+Шaнc пoxитить XP oт
+ лю6oй 6eзop. aтaки
+Peгeн XP oтключeн#
+3391 Паралич
+ Невозможно двигаться#
+3392 Опьянение
++ Сила
+- Ловкость#
+3393 Похмелье
+- Ловкость
+Лечится выпивкой#
+3394 Сила
++ Сила
+- Восприятие#
+3395 Левитация
+Возможность летать над
+ пропастью, водой и лавой#
+3396 Невидимость
+Враги не могут заметить
+ вне зоны ближнего боя#
+3397 Отражение Магии
+Вражеская магия отражается
+Отраженный урон вычитается
+ из маны#
+3398 Свет
+Магический источник света#
+3399 Полиморф
+Маскировка под другую расу#
+
+3400 Расходуя жизненную силу ты ослабляешь заклинание!#
+3401 Ты чувствуешь, что боги Сокобана помогают тебе в пути...#
+3402 Введите серийный ключ DLC#
+3403 Введите серийный ключ(с учетом регистра) и подтвердите:#
+3404 Успешно! ДЛС Myths and Outcasts теперь доступно!
+Спасибо за поддержку!#
+3405 Успешно! ДЛС Legends and Pariahs теперь доступно!.
+Спасибо за поддержку!#
+3406 ОШИБКА: Неверный серийный ключ.#
+
+3407 DEPRECATED_SPELL_NAME#
+3408 DEPRECATED_SPELL_NAME#
+3409 DEPRECATED_SPELL_NAME#
+3410 DEPRECATED_SPELL_NAME#
+3411 DEPRECATED_SPELL_NAME#
+3412 DEPRECATED_SPELL_NAME#
+3413 DEPRECATED_SPELL_NAME#
+3414 DEPRECATED_SPELL_NAME#
+3415 DEPRECATED_SPELL_NAME#
+3416 DEPRECATED_SPELL_NAME#
+
+3417 Перевоплощение исчезает, ты возвращаешься в свою форму.#
+3418 Перевоплощение смылось водой!#
+3419 Ты перевоплотился в %s!#
+3420 Ты не чувствуешь разницы...#
+3421 DEPRECATED_SPELL_NAME#
+3422 DEPRECATED_SPELL_NAME#
+3423 Ты не чувствуешь еды поблизости.#
+3424 Твой нос начинает покалывать, чувствуя запах еды!#
+3425 Ваш нос дергается, но новых запахов нет.#
+3426 %s опрыскивают ядом!#
+3427 %s опрыскали ядом!#
+3428 Тебя опрыскали ядом!#
+3429 %s запутался в паутине!#
+3430 %s запутылся в паутине!#
+3431 Ты запутался в паутине!#
+3432 Ты не можешь использовать это в текущей форме!#
+3433 Метаморфоз
+Превращение в существо с
+ особыми способностями#
+3434 %s пятится в страхе!#
+3435 %s пятится в страхе!#
+3436 Ты пятишься в страхе!#
+3437 Ты издаешь первобытный рев!#
+3438 ...он не был услышан.#
+3439 К тебе возвращается самообладание.#
+3440 DEPRECATED_SPELL_NAME#
+3441 Сила твоего стихийного заклинания возвращается в норму.#
+3442 Сила твоего стихийного заклинания усиливается!#
+3443 Не удалось поддержать заклинание (Стихийная фокусировка).#
+3444 Гоблины не могут изучать магию!#
+3445 Ты не можешь изучить магию в текущей форме!#
+3446 Все твои боевые навыки улучшились!#
+3447 DEPRECATED_SPELL_NAME#
+3448 DEPRECATED_SPELL_NAME#
+3449 DEPRECATED_SPELL_NAME#
+3450 Твоя магия притягивает к себе %s!#
+3451 Твоя магия притягивает %s!#
+3452 Ты не можешь телепортировать союзника в этой зоне.#
+3453 Здесь нет места для телепорта цели!#
+3454 Твой кнут выбил оружие %s!#
+3455 Твой кнут выбил оружие %s!#
+3456 Твой кнут выбил щит %s!#
+3457 Твой кнут выбил щит %s!#
+3458 %+3d от атриб. (50%% СИЛ+ЛОВ)#
+3459 Твой %s рассыпается в пепел!#
+3460 Ты не можешь выучить заклинание, пока держишь книгу в руке!#
+3461 Магическая сила переместила тебя!#
+3462 Ты чувствуешь себя дезориентированным...#
+3463 %s отслеживается Тайной меткой!#
+3464 %s отслеживается Тайной меткой!#
+3465 Ты отслеживаешься Тайной меткой!#
+3466 Твоя прошлая метка на %s была стерта.#
+3467 Твоя прошлая метка на %s была стерта.#
+3468 Внутренний демон, похоже, издевается над тобой!#
+3469 %s терпит издевательство внутреннего демона!#
+3470 %s терпит издевательство внутреннего демона!#
+3471 Здесь недостаточно места для призыва внутреннего демона!#
+3472 Ты не можешь изгнать демона из %s!#
+3473 Ты не можешь изгнать демона из %s!#
+3474 ТП#
+3475 Твоя кожа трещит, превращение начинает рассеиваться...#
+3476 Твоя регенерация здоровья приходит в норму.#
+3477 Твоя регенерация маны приходит в норму.#
+3478 %s отравился твоим ядом!#
+3479 %s отравился твоим ядом!#
+3480 Низкий навык Лидерства не позволяет тебе вербовать больше последователей!#
+3481 Твой навык Лидерства слишком мал для вербовки %s.#
+3482 Ты не можешь вербовать больше последователей!#
+3483 Твоя топка набита на полную!#
+3484 Твоя топка генерирует много тепла!#
+3485 Твоя топка слабо согревает тебя.#
+3486 Твоя топка едва теплится.#
+3487 Потребить#
+3488 Твой уровень слишком низок для этого заклинания.#
+3489 DEPRECATED_SPELL_NAME#
+3490 По вашим венам пошло тепло!#
+3491 Твое кровообращение приходит в норму.#
+3492 Кровь Тролля
+Регенерация ХП увеличена#
+3493 Скорость
+Ловкость и скорость движения увеличены#
+3494 Вы слышите как вдалеке срабатывает ловушка.#
+3495 Вы слышите как рядом срабатывает ловушка!#
+3496 наткнулся на ловушку и помер.#
+3497 Ты попал в %s!#
+3498 %s попал в %s!#
+3499 %s попал в %s!#
+
+# new new items (3500-3599)
+3500 DEPRECATED_ITEM_NAME#
+3501 DEPRECATED_ITEM_NAME#
+3502 DEPRECATED_ITEM_NAME#
+3503 DEPRECATED_ITEM_NAME#
+3504 DEPRECATED_ITEM_NAME#
+3505 DEPRECATED_ITEM_NAME#
+3506 DEPRECATED_ITEM_NAME#
+3507 DEPRECATED_ITEM_NAME#
+3508 DEPRECATED_ITEM_NAME#
+3509 DEPRECATED_ITEM_NAME#
+3510 DEPRECATED_ITEM_NAME#
+3511 DEPRECATED_ITEM_NAME#
+3512 DEPRECATED_ITEM_NAME#
+3513 DEPRECATED_ITEM_NAME#
+3514 DEPRECATED_ITEM_NAME#
+3515 DEPRECATED_ITEM_NAME#
+3516 DEPRECATED_ITEM_NAME#
+3517 DEPRECATED_ITEM_NAME#
+3518 DEPRECATED_ITEM_NAME#
+3519 DEPRECATED_ITEM_NAME#
+3520 DEPRECATED_ITEM_NAME#
+3521 DEPRECATED_ITEM_NAME#
+3522 DEPRECATED_ITEM_NAME#
+3523 DEPRECATED_ITEM_NAME#
+3524 DEPRECATED_ITEM_NAME#
+3525 DEPRECATED_ITEM_NAME#
+3526 DEPRECATED_ITEM_NAME#
+3527 DEPRECATED_ITEM_NAME#
+3528 DEPRECATED_ITEM_NAME#
+3529 DEPRECATED_ITEM_NAME#
+3530 DEPRECATED_ITEM_NAME#
+3531 DEPRECATED_ITEM_NAME#
+3532 DEPRECATED_ITEM_NAME#
+3533 DEPRECATED_ITEM_NAME#
+3534 DEPRECATED_ITEM_NAME#
+3535 DEPRECATED_ITEM_NAME#
+3536 DEPRECATED_ITEM_NAME#
+3537 DEPRECATED_ITEM_NAME#
+3538 DEPRECATED_ITEM_NAME#
+3539 DEPRECATED_ITEM_NAME#
+3540 DEPRECATED_ITEM_NAME#
+3541 DEPRECATED_ITEM_NAME#
+3542 DEPRECATED_ITEM_NAME#
+3543 DEPRECATED_ITEM_NAME#
+3544 DEPRECATED_ITEM_NAME#
+3545 DEPRECATED_ITEM_NAME#
+3546 DEPRECATED_ITEM_NAME#
+3547 DEPRECATED_ITEM_NAME#
+3548 DEPRECATED_ITEM_NAME#
+3549 DEPRECATED_ITEM_NAME#
+3550 DEPRECATED_ITEM_NAME#
+3551 DEPRECATED_ITEM_NAME#
+3552 DEPRECATED_ITEM_NAME#
+3553 DEPRECATED_ITEM_NAME#
+3554 DEPRECATED_ITEM_NAME#
+3555 DEPRECATED_ITEM_NAME#
+3556 DEPRECATED_ITEM_NAME#
+3557 DEPRECATED_ITEM_NAME#
+3558 DEPRECATED_ITEM_NAME#
+3559 DEPRECATED_ITEM_NAME#
+3560 DEPRECATED_ITEM_NAME#
+3561 DEPRECATED_ITEM_NAME#
+3562 DEPRECATED_ITEM_NAME#
+3563 DEPRECATED_ITEM_NAME#
+3564 DEPRECATED_ITEM_NAME#
+3565 DEPRECATED_ITEM_NAME#
+3566 DEPRECATED_ITEM_NAME#
+3567 DEPRECATED_ITEM_NAME#
+3568 DEPRECATED_ITEM_NAME#
+3569 DEPRECATED_ITEM_NAME#
+3570 DEPRECATED_ITEM_NAME#
+3571 DEPRECATED_ITEM_NAME#
+3572 DEPRECATED_ITEM_NAME#
+3573 DEPRECATED_ITEM_NAME#
+3574 DEPRECATED_ITEM_NAME#
+3575 DEPRECATED_ITEM_NAME#
+3576 DEPRECATED_ITEM_NAME#
+3577 DEPRECATED_ITEM_NAME#
+3578 DEPRECATED_ITEM_NAME#
+3579 DEPRECATED_ITEM_NAME#
+3580 DEPRECATED_ITEM_NAME#
+3581 DEPRECATED_ITEM_NAME#
+3582 DEPRECATED_ITEM_NAME#
+3583 DEPRECATED_ITEM_NAME#
+3584 DEPRECATED_ITEM_NAME#
+3585 DEPRECATED_ITEM_NAME#
+3586 DEPRECATED_ITEM_NAME#
+3587 DEPRECATED_ITEM_NAME#
+3588 DEPRECATED_ITEM_NAME#
+3589 DEPRECATED_ITEM_NAME#
+
+3600 Ты обезвредил %s.#
+3601 %s унесло прочь!#
+3602 %s унесло прочь!#
+3603 Твоя ловушка не сработала на %s!#
+3604 Твоя ловушка не сработала на %s!#
+3605 Ты ослабил ударную пружину.#
+3606 Осторожные шаги твоих союзников не активируют её.#
+3607 Вы затягиваете пружину до упора.#
+3608 Любое существо может её активировать!#
+3609 Ты начинаешь натягивать пружину...#
+3610 Ловушка начинает притягивать к себе магическую энергию!#
+3611 Вас унесло прочь!#
+3612 Ты задел взрывом %s!#
+3613 %s задела взрывом %s!#
+3614 %s задела взрывом %s!#
+3615 Твоя ловушка не смогла телепортировать %s!#
+3616 Твоя ловушка не смогла телепортировать %s!#
+3617 Твоя %s уничтожила %s!#
+3618 Твоя %s задела %s!#
+3619 Свет:#
+3620 [Выключено]#
+3621 [Тусклый]#
+3622 [Яркий]#
+3623 Обнаружить:#
+3624 [Ничего]#
+3625 [Метал]#
+3626 [Маг. метал]#
+3627 [Ловушки]#
+3628 [Выход]#
+3629 [Монстры]#
+3630 [Ценности]#
+3631 деактивируется.#
+3632 Свободное передвижение#
+3633 Выбросить#
+3634 предмет#
+3635 Вернуться и
+  отключиться#
+3636 Обнаружить
+предметы:#
+3637 Гиробот не может нести больше предметов!#
+3638 Твоих навыков Лидерства недостаточно для исполнения команды для
+ %s.#
+3639 Твоих Ремесленных навыков недостаточно для исполнения команды для
+ %s.#
+3640 Эта команда не может быть исполнена
+ %s.#
+3641 деактивация в режим#
+3642 Коробка#
+3643 сложился в коробку.#
+3644 Создать#
+3645 Разобрать#
+3646 Починить#
+3647 Scrap available: %3d   %3d#
+3648 У тебя недостаточно материалов для создания %s!#
+3649 Деактивировать#
+3650 Посмотреть на...#
+3651 Ваш Гиробот нашел оставшихся позади союзников!#
+3652 Ваши Ремесленные навыки недостаточно высоки для создания %s!#
+3653 сломанный #
+3654 простой #
+3655 составной  #
+3656 замысловатый #
+3657 мастерский #
+3658 %d сломанный #
+3659 %d простой #
+3660 %d составной #
+3661 %d замысловатый #
+3662 %d матерский #
+3663 Авто-переработка...#
+3664 Ты не можешь переработать %s.#
+3665 Переработано %d %s.#
+3666 Вам больше нечему учиться от переработки.#
+3667 Вам больше нечему учиться от создания %s.#
+3668 Создано %s!#
+3669 Ты не можешь разобрать надетые вещи!#
+3670 Ремесло#
+3671 Ваш Гиробот заметил любопытные шаги к вашей Шум-коробке!#
+3672 Вы не соответствуете требованиям Ремесла и Оценки для
+этого. (Требуется: %s, Сейчас: %s)#
+3673 Ваш %s должен быть более качественным для этой команды.#
+3674 Удерживать взгляд#
+3675 Свободный взгляд#
+3676 %s блокирует свой ротор.#
+3677 %s возвращается к патрулированию.#
+3678 %s должен быть выше качества для обнаружения больше целей.#
+3679 Ваших Ремесленных навыков недостаточно для расшифровки большего
+количества находок Гиробота.#
+3680 Ваших Ремесленных навыков недостаточно для расшифровки каких-либо
+находок Гиробота.#
+3681 Ты не можешь чинить надетые вещи!#
+3682 Ты починил %s.#
+3683 Ты улучшил %s.#
+3684 Улучшить#
+3685 Твоих Ремесленных навыков недостаточно для улучшения %s!#
+3686 У тебя недостаточно материалов для починки %s!#
+3687 У тебя недостаточно материалов для улучшения %s!#
+3688 Ваших Ремесленных навыков недостаточно для починки %s!#
+3689 Тебе больше нечему учиться открывая %s.#
+3690 Ремесло#
+3691 Набор: %10s#
+3692 Дряхлый#
+3693 Изношенный#
+3694 Хороший#
+3695 Превосходный#
+3696 Ваша топка горит ровно.#
+3697 Но она не производит больше тепла.#
+3698 Ты видишь свое отражение.#
+3699 Твоя топка перегревается!#
+3700 Холодная вода тушит твою топку!#
+3701 Кипяток освежает вас!#
+3702 Холодная вода заливает вашу топку!#
+3703 Лава перегревает вашу топку!#
+3704 Топливо согревает вашу топку.#
+3705 Куски хлама, полезные для металлообработки.#
+3706 Фрагменты, которые могут прибавить искру к изобретению.#
+3707 Хлам не смог добавить жару.#
+3708 Твоя топка пуста...#
+3709 Ты быстро теряешь тепло!#
+3710 Ваши шестеренки начинают заедать!#
+3711 DEPRECATED_SPELL_NAME#
+3712 Твое заклинание переработало %d!#
+3713 Твое заклинание не смогло переработать предметы рядом.#
+3714 Ваши системы отказывают...#
+3715 Заклинание не подействовало!#
+3716 Реставрирование#
+3717 Зарядка: %8d%%%%#
+3718 Расписать#
+3719 Починить#
+3720 Выберите свиток для реставрации#
+3721 Написать %s на свитке#
+3722 Реставрировать
+%+2d %s#
+3723 Очистить слот#
+3724 %s подлатан!#
+3725 Ты обводишь часть поблекшего текста...#
+3726 Выберите заклинание для реставрирования#
+3727 Ваше %s исчерпано!#
+3728 Ваше %s исчерпывается до того
+ как вы заканчиваете перепись!#
+3729 Ваше %s начинает выцветать.#
+3730 Ваш %s заряжается!#
+3731 У тебя нет предметов которые нужно зарядить!.#
+3732 #
+3733 Ваш выстрел попал в %s!#
+3734 Ваш выстрел попал в %s!#
+3735 Демоны %s уже были изгнанны!#
+3736 Демоны %s уже были изгнанны!#
+3737 Ваше поведение улучшается!#
+3738 %+2d #
+3739 Ваша стрела воспламеняет %s!#
+3740 Ваша стрела воспламеняет %s!#
+3741 Вы загорелись от горящей стрелы!#
+3742 Вас отбросило от прилетевшей стрелы!#
+3743 Ваша серебрянная стрела поражает %s!#
+3744 Ваша серебрянная стрела поражает %s!#
+3745 Вас поразила серебрянная стрела!#
+3746 Ваша %s возвращается!#
+3747 %s успокоен стрелой!#
+3748 %s успокоен стрелой!#
+3749 Вас успокоили охотничьей стрелой!#
+3750 Ваша охотничья стрела впивается в %s!#
+3751 Ваша охотничья стрела впивается в %s!#
+3752 Охотничья стрела впивается в вашу плоть!#
+3753 Кровопролитие заряжает вас!#
+3754 Дирнуин поражает %s!#
+3755 Дирнуин поражает %s!#
+3756 Дирнуин воспламеняет %s!#
+3757 Дирнуин воспламеняет %s!#
+3758 Парашу наносит критический удар %s!#
+3759 Парашу наносит критический удар %s!#
+3760 Гунгнир пронзает броню %s!#
+3761 Гунгнир пронзает броню %s!#
+3762 Колчан внезапно появляется перед вами!#
+3763 a #
+3764 DEPRECATED_SPELL_NAME#
+3765 DEPRECATED_SPELL_NAME#
+3766 Полет
+Левитация на короткое время#
+3767 Крылья помогают вам оторваться от пола и воспарить над землей!#
+3768 ЭН#
+3769 Твоя Шум-коробка требует перемотки!#
+3770 Твоя Шум-коробка ломается!#
+
+3771 Ты выходишь из шахт Гамлета и видишь, как проклятая тьма исчезает с этих
+земель. Теплые лучи солнца нисходят на деревню. Как только ворота шахт
+распахнулись, люди, с оглядкой и настороженностью, начали выходить на улицы,
+пытаясь осознать дарованную им свободу.#
+3772
+
+
+
+
+Ты устремляешься к ближайшим зданиям в поисках места, где можно было бы
+укрыться. Здесь слишком много людей и очень яркое солнце, что вам не нравится.#
+3773
+
+
+
+
+
+
+
+Ты прорываешься к чему-то, напоминающему гостинницу. Под простыней на удобной
+кровати ты проводишь эту ночь, в то время как звуки веселья слышны со всех сторон.#
+3774
+
+
+
+
+
+
+
+
+
+
+
+
+Благодаря удаче вас не раскрывают. На вечеринке в хостеле вы слышите о силе,
+даже большей, чем у Херкса. Говорят, она находится в Гильдии Магов.#
+3775
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Люк в спальне ведет в канализацию. Вы ждете, когда люди разойдутся.#
+
+3776 Прорубая себе путь через каждого демона, попадающегося на пути, ты
+проходишь через портал, не колеблясь ни минуты. Никакое существо,
+будь оно смертным или же нет, не может бросить вызов твоей силе.#
+3777
+
+
+Внезапно ты находишь себя устало стоящим в бесконечно тянущемся белом зале,
+утыканном огромными колоннами, что тянутся выше, чем ты можешь видеть.
+Воздух, вдыхаемый тобой, пропитан кровью - но ты подозреваешь, что придется
+пролить еще больше.#
+3778
+
+
+
+
+
+
+
+Может ли это сверхъестественное место посоперничать с минотавром, демонами;
+может, даже самим Бафометом? Ты чувствуешь огромный поток магии, вливающийся
+в комнату. Голос гремит:#
+3779
+
+
+
+
+
+
+
+
+
+"Мы были свидетелями твоей стойкости и жажды силы. Никто не ожидал твоего прибытия
+сюда. И, все же, мы впечатлены твоей свирепости и усердию. Мы просим поразмыслить
+над одним предложением тебе, о великий..."#
+3780
+
+
+
+
+
+
+
+
+
+
+
+
+
+Когда голос достигает твоих ушей, ты обнаруживаешь себя искушенным этими словами.
+Это говорит о силе, большей чем Херкс или Бафомет. Она даже больше твоей.
+Против такой мощи тебе нечего противопоставить, так что вопрос о сопротивлении
+даже не стоит.#
+3781
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ты находишь себя стоящим внутри гостинницы Гамлета; ее обитатели слишком пьяны
+или утомлены, чтобы сразу заметить тебя. Ты прокрадываешься в кладовку - к люку,
+ведущему в канализацию. Огромная магия извне манит тебя.#
+
+3782 Прорубая себе путь через каждого демона, попадающегося на пути, ты
+проходишь через портал, не колеблясь ни минуты. Никакое существо,
+будь оно смертным или же нет, не может бросить вызов твоей силе.#
+3783
+
+
+
+Внезапно ты находишь себя устало стоящим в бесконечно тянущемся белом зале,
+утыканном огромными колоннами, что тянутся выше, чем ты можешь видеть.
+Разве ты не разобрался с источником гнусной силы Херкса? Ты раздумываешь
+над опасностью, которая тебя ждет.#
+3784
+
+
+
+
+
+
+
+
+Чувство мира переполняет и освежает тебя. Ты знаешь, что с силой Херкса
+покончено. Но Бафомет был всего лишь очередным дьяволом. Голос утешает тебя:#
+3785
+
+
+
+
+
+
+
+
+
+
+"Лич-Херкс обратился в пыль, но более смышленые враги все еще примыкают
+к сторонне зла. Гамлет свободен сейчас, но мир - не безопасное место.
+В такие времена как сейчас сильнейшие должны склонить чашу весов. Поэтому
+у нас есть предложение для тебя..."#
+3786
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Когда слова доходят до тебя, ты находишь себя не желающим, либо неспособным
+сопротивляться. Похоже, твое тело возвращается в мир смертных. "Ты должен
+избавить Гамлет ото зла, иначе там не будет мира."#
+3787
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Собравшись с духом, ты обнаруживаешь себя стоящим в Гамлете. Улики недавно
+прошедшего празднования тянутся от ворот шахты, ныне открытой, до ближайшего
+отеля. Ты знаешь, гильдия магов окажет помощь в достижении твоей цели.#
+
+3788 Одержав победу, ты входишь в портал. Ты не знаешь, чего ожидать, но
+все равно наполнен восторгом. Ты думаешь, что источник силы Барона теперь
+в пределах твоей досягаемости.#
+
+3789
+
+
+
+Прежде чем ты успеваешь подумать, ты внезапно снова оказываешься стоящим перед
+входом в шахты. Но что-то изменилось; та соблазнительная сила, что ты ощущал,
+теперь чувствуется значительно дальше. Небо очищается от черноты, чтобы показать
+свет дня.#
+
+3790
+
+
+
+
+
+
+
+
+Внезапно ворота шахты распахиваются настежь. Запечатанные на протяжении веков
+для сдерживания зла внутри, они свободно раскачиваются, пока сотни благодарных
+людей выбегают наружу. Похоже, сила Барона только что ускользнула из твоих рук.#
+
+3791
+
+
+
+
+
+
+
+
+
+
+
+
+
+Адский источник этой темной силы остается загадкой для тебя. Подслушанные
+разговоры из теней заставляют тебя думать, что гильдия магов имеет над
+этой темной магией власть. Но сейчас ты решаешь покинуть этот город и вернуться
+позднее, дабы извлечь выгоду из секретов Гамлета.#
+
+3792 Прорубая себе путь через каждого демона, попадающегося на пути, ты
+проходишь через портал, не колеблясь ни минуты. Не существует ничего, будь
+оно смертным или же нет, что могло бы бросить вызов твоей силе.#
+
+3793
+
+
+Внезапно ты находишь себя устало стоящим в бесконечно тянущемся белом зале,
+утыканном огромными колоннами, что тянутся выше, чем ты можешь видеть.
+Воздух, вдыхаемый тобой, пропитан кровью - но ты подозреваешь, что придется
+пролить еще больше.#
+3794
+
+
+
+
+
+
+
+Может ли это сверхъестественное место посоперничать с минотавром, демонами;
+может, даже самим Бафометом? Ты чувствуешь огромный поток магии, вливающийся
+в комнату. Голос гремит:#
+3795
+
+
+
+
+
+
+
+
+
+
+"Мы были свидетелями твоей стойкости и жажды силы. Никто не ожидал твоего прибытия
+сюда. И, все же, мы впечатлены твоей свирепости и усердию. Мы просим поразмыслить
+над одним предложением тебе, о великий..."#
+3796
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Когда сказанное достигло тебя, ты почувствовал, что либо не желаешь, либо
+просто не способен отклонить то, что сказано. В конце концов, ты чувствуешь
+необьяснимый сдвиг в своем физическом бытие, после чего приходит ощущение
+того, что ты исчезаешь...#
+3797
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ты ощущаешь превосходщую силу великого разума, покидая мир смертных.
+Первая эпоха подходит к концу, начинается эпоха хаоса. Ты уверен, что твое
+время неизбежно и твои цели будут достигнуты.#
+
+3798 Слабая магия тянет тебя из Цитадели сквозь портал. Твои ноги парят над
+полом, в то время как пол сильно трясется. Трубы и поршни ломаются в приглушенном
+рокоте. Чувства притуплены - ты наблюдаешь лишь перенос своего сознания.#
+3799
+
+
+
+
+
+
+Кажется, с демоническим злом покончено, по крайней мере, так считают в Гамлете.#
+3800
+
+
+
+
+
+
+
+
+
+
+
+Ты думаешь, что горожанам посчастливилось иметь тебя. Они не смогли бы выжить
+без тебя, но, увы, тебя никогда бы не изобрели без них.#
+
+3801 Твои системы в норме. Ты стоишь с волшебником и епископом. Их лица
+вытягиваются в выражении удивления.#
+3802
+
+
+Они шокированы видеть что смиренный раб, прислуга... автоматон спас их
+от сверхъестественного зла. Может, причина в твоей нечеловеческой природе?#
+3803
+
+
+
+
+
+
+
+Гильдии и церковь сходятся во мнении, что нет более идеального кандидата на
+должность повелителя для светлого будущего людей. Тебе доверены все задачи,
+связанные с законом; предполагается, что ты обладаешь совершенной объективностью
+как новый Барон. Твои решения безошибочны.#
+3804
+
+
+
+
+
+
+
+
+
+
+
+
+Но так ли это? Что делает тебя обладателем сознания? Ты ведешь город Гамлет
+к былой славе. Но решения некоторых проблем, по твоему мнению, потребуют
+больше силы.#
+
+3805 Слабая магия тянет тебя из Цитадели сквозь портал. Твои ноги парят над
+полом, в то время как пол сильно трясется. Трубы и поршни ломаются в приглушенном
+рокоте. Зажмурившись, пока знакомая магия держит тебя, ты угрюмо думаешь
+над тем, что тебя ждет.#
+3806
+
+
+
+
+
+
+Если личи получили свою силу от дьяволов, то что сделало тебя способным
+покончить с ними? Неужели теперь это твоя ноша? Что с этим теперь делать?#
+3807
+
+
+
+
+
+
+
+
+
+
+
+Кажется, ты получил то, зачем сюда пришел, пусть и не тем путем, которым
+думал. Сила не может просто иметься, она должна использоваться.#
+
+3808 Ты открываешь глаза и обнаруживаешь, что стоишь рядом с двумя смертными.
+Они съеживаются в страхе. Ты приказываешь им склонить головы пред тобой.#
+3809
+
+
+
+Используя магию демонов, ты связываешь их души контрактом слуги, дабы,
+используя их влияние, склонить фракции к достижению своей тайной цели.#
+3810
+
+
+
+
+
+
+
+Следующие годы не легки для мира на поверхности. В конце концов они узнают,
+что счастье и слава обретаются в силе. Ты умертвляешь любого, осмелившегося
+пойти против тебя. В конечном счете люди принимают твою натуру. Люди несут
+твое знамя.#
+3811
+
+
+
+
+
+
+
+
+
+
+
+
+Может ли какая империя посоперничать со страной, построенной тобой?
+Учения пророков говорят, что человеческий дух сильнее всего.
+Ты боишься, что эта сила реальна.#
+
+3812 Слабая магия тянет тебя из Цитадели сквозь портал. Твои ноги парят над
+полом, в то время как пол сильно трясется. Трубы и поршни ломаются в приглушенном
+рокоте. Ты пытаешься избавиться от ужаса, зажмурив глаза.#
+3813
+
+
+
+
+
+
+Есть ли чего тебе бояться? Ты победил могущественных, злых повелителей.
+Кто сможет бросить вызов твоим людям сейчас?#
+3814
+
+
+
+
+
+
+
+
+
+
+
+Ты не боишься ничего. Нет, это другие должны бояться тебя. Ясность мысли,
+настигшая тебя, наводит на мысль: страх - то, чего ты хочешь от остальных.#
+
+3815 Ты открываешь глаза, находясь в гильдии магов рядом с волшебником и
+епископом. Их лица растеряны, что не мешает им терпеливо и с изумлением
+ждать твоей реакции.#
+3816
+
+
+
+Ты подозреваешь, что все могло бы сложиться иначе, не встречай мудрецы тебя
+здесь. Они признали твой героизм и поблагодарили за твои деяния. Это те же
+люди, что недавно убили тебя?#
+3817
+
+
+
+
+
+
+
+
+Изначально разрозненные, твои люди строят альянс на пути к миру.#
+3818
+
+
+
+
+
+
+
+
+
+
+
+
+Вдохновляясь твоим примером, насекомоподобные, люди, сатиры и гоблины обретают
+мужество, а не страх. Торговля в Гамлете процветает, после того как люди
+умерили свою жажду власти.#
+3819 Эпилог %s: %s#
+3820 Антракт %s: %s#
+3821 Человек#
+3822 Скелет#
+3823 Вампир#
+3824 Суккуб#
+3825 Сатир#
+3826 Автоматон#
+3827 Инкуб#
+3828 Гоблин#
+3829 Инсектоид#
+3830 Эпилог: %s#
+3831 Антракт: %s#
+3832 Теперь выступайте, как только вы и ваши союзники будете готовы!#
+3833 Теперь ждите, когда ваш лидер продвинется вперед...#
+
+# new spell tooltips
+3834 Накладывает статус [в паутине]
+Враги в паутине замедляются и отбрасываются
+ при ударе в ближнем бою.
+Каждая стадия(макс. 3) повышает эффективность#
+3835 Дарует статус [ускорение] заклинателю
+ и союзникам поблизости#
+3836 Накладывает статус [страх] ближайшим врагам
+Напуганные враги не могут атаковать и смотреть
+ в сторону заклинателя#
+3837 Накладывает статус [уязвимость к магии]
+Увеличивает получаемый урон от заклинаний врагом#
+3838 Заряжает мощную физическую атаку,
+ наносящую четверной урон
+Неподвижность во время зарядки
+Разрушает валуны, двери и стены на пути#
+3839 Отображает на карте еду текущего этажа#
+3840 Дарует увеличенную регенерацию ХП заклинателю
+ и ближайшим союзникам#
+3841 Дарует левитацию на короткое время#
+3842 Двигает заклинателя в текущем направлении
+Мгновенно вышибает двери на пути
+Делает прыжок назад, если не двигаться#
+3843 Помечает цель Тайной меткой
+Сводит на нет все сопротивления и слабости
+Телепорт будет перемещать за спину помеченной цели#
+3844 Телепортирует цель к заклинателю
+Дезориентирует цель, время эффекта зависит
+ от дистанции перемещения#
+3845 Изгоняет внутреннего демона, после чего тот провоцирует цель
+Урон, нанесенный демону, возвращается атакующему
+Текущие хар-ки демона копируются с хар-тик призывателя#
+3846 Превращает ближайшие предметы на земле в металлический
+ и магический хлам для крафта#
+3847 Временное превращение в крысу
+Бонус к ЛОВ, ИНТ и ВОС пока активно#
+3848 Временное превращение в членистоногого
+Бонус к СИЛ, ТЕЛ и ВОС пока активно#
+3849 Временное превращение в тролля
+Бонус к СИЛ и ТЕЛ, меньше ЛОВ пока активно#
+3850 Временное превращение в летающего импа
+Бонус ИНТ и ВОС пока активно#
+3851 Убрать активное превращение с заклинателя#
+3852 Усиливает заклинания Огня,Холода,Молнии и Магических снарядов
+ увеличивает урон и снижает дальность пока активно#
+3853 Цена: %d МП + 10%% Макс ХП#
+3854 Форма Крысы
++ ЛОВ/ИНТ/ВОС
+Выше шанс повысить ЛОВ/ИНТ при повышении уровеня
+Доступ к магии [Обнаружение еды] и [Скорость]#
+3855 Форма Тролля
++ СИЛ/ТЕЛ
+- ЛОВ
+Выше шанс повысить СИЛ/ТЕЛ при повышении уровеня
+Доступ к магии [Сильный Удар], [Страх] и [Кровь Тролля]#
+3856 Форма Членистоногого
++ ВОС/СИЛ/ТЕЛ
+Выше шанс повысить ВОС/ТЕЛ при повышении уровеня
+Доступ к магии [Распылить паутину] и [Отравление]#
+3857 Форма Импа
+Дает полет
++ ИНТ/ВОС
+Выше шанс повысить ИНТ/ЛОВ при повышении уровеня
+Доступ к магии [Молния], [Конфузия] и [Стихийная Фокус.]#
+3858 Тайная Метка (Активна на %s)
+Сводит на нет все сопротивления и слабости
+Телепорт будет перемещать за спину помеченной цели #
+3859 Паутина
+Скорость движения снижена
+Отбрасывание при атаки в ближнем бою#
+3860 Стихийная Фокусировка
+Увеличивает урон и сокращает дальность при активации
+ заклинаний [Огонь], [Холод], [Молния] или [Маг. снаряд]#
+3861 Страх
+Невозможно атаковать#
+
+3862 маркированный #
+3863 Ты не можешь прочитать книгу пока ослеплен!#
+3864 достиг предела.#
+3865 Гиробот ослабляет ударную пружину.#
+3866 Гиробот затягивает пружину до упора.#
+3867 Гиробот начинает затягивать пружину...#
+3868 Ваш Гиробот ничего не имеет.#
+3869 Вам удается поймать себя до падения!#
+
+3870 Эта ловушка уже обезврежена.#
+3871 Твоей отмычкой не удалось обезвредить ловушку!#
+3872 Вы успешно обезвредили ловушку!#
+3873 Эта ловушка уже опустошена!#
+3874 Ты не можешь съесть размахивая этим!#
+3875 Пирог попадает в %s!
+ *ШЛЕПОК*#
+3876 Пирог попадает в %s!
+ *ШЛЕПОК*#
+3877 В тебя прилетел пирог!
+ *ШЛЕПОК*#
+3878 %s ослеп!#
+3879 %s ослеп!#
+3880 Твой союзник %s уже полностью восстановился.#
+3881 Ваш союзник %s просыпается полностью отдохнувшим.#
+3882 Ты слышишь приближающиеся шаги к твоей шум-коробке!#
+3883 Ты не можешь поставить больше ремесленных приспособлений с текущими навыками!#
+3884 Ты не можешь поставить больше приспособлений.#
+3885 DEPRECATED_SPELL_NAME#
+3886 Временно перевоплощает заклинателя в другую расу
+Нелюди всегда превращаются в людей#
+3887 Ты недостаточно опытен, чтобы опустошить ловушку.#
+3888 Ох! Я должен нанести визит ювелиру с этим самоцветом! Хотя я не уверен, что зеленый действительно мой цвет.#
+3889 Хм. Говорят, что они были созданы вековыми знаниями. Вы бы поверили, что большинство волшебников теряют свои шарики?#
+3890 Ага! Великолепный кровавый образец... если сырой. Вы бегали с этим?#
+3891 %s бесполезно для этого.#
+3892 %s бесполезно для этого.#
+3893 Хм. Вы сделали правильный
+выбор, имея дело со мной.#
+3894 Местный источник для
+моего нового клиента.#
+3895 Надеюсь, вы оцените
+мои прекрасные товары.#
+3896 #
+3897 Вы обнаруживаете скрытое отделение в сундуке!#
+3898 не смог увернуться от пылающего валуна.#
+3899 не смог увернуться от скрытного валуна.#
+3900 Нельзя разместить это здесь!#
+
+# Больше биндов
+3901 Hotbar Scroll Left#
+3902 Hotbar Scroll Right#
+3903 Hotbar Up / Select#
+3904 #
+3905 #
+3906 #
+3907 #
+3908 #
+3909 #
+
+3910 сними свою одежду,
+если хочешь сделку!#
+3911 Сложи оружие,
+если хочешь сделку!#
+3912 Убери свой инструмент,
+если хочешь сделку!#
+3913 УБери зелье из рук,
+если хочешь сделку!#
+3914 Сними украшения,
+если хочешь сделку!#
+3915 Убери свою рукопись,
+если хочешь сделку!#
+3916 Убери свою еду,
+если хочешь сделку!#
+3917 Недоступно - необходимо DLC Legends & Pariahs!
+ Нажми левую кнопку мыши, чтобы открыть страницу в магазине.#
+3918 отключение ограничения скорости вращения мыши#
+3919 Возврат в главное меню#
+3920
+        Вы действительно хотите
+         выйти в главное меню?
+
+    Прогресс будет сохранен на начале
+            текущего уровня.#
+3921 Режим рейнджера активен, доступно только дальнобойное оружие!#
+3922 Режим рейнджера выключен, доступны все виды вооружения.#
+3923 Это оружие недоступно в режиме рейнджера!#
+3924 Файл сохранения игрока не подходит для ачивки Рейнджера. Перезапустите игру для сброса.#
+3925 Режим рейнджера выключен для клиента %d.#
+3926 Режим рейнджера включен для клиента %d.#
+
+3927 Разблокируйте достижение "Bony Baron" для разблокировки этого класса под каждую расу!#
+3928 Разблокируйте достижение "Bucktooth Baron" для разблокировки этого класса под каждую расу!#
+3929 Разблокируйте достижение "Bombshell Baron" для разблокировки этого класса под каждую расу!#
+3930 Разблокируйте достижение "Bleating Baron" для разблокировки этого класса под каждую расу!#
+3931 Разблокируйте достижение "Boilerplate Baron" для разблокировки этого класса под каждую расу!#
+3932 Разблокируйте достижение "Bad Boy Baron" для разблокировки этого класса под каждую расу!#
+3933 Разблокируйте достижение "Bayou Baron" для разблокировки этого класса под каждую расу!#
+3934 Разблокируйте достижение "Buggar Baron" для разблокировки этого класса под каждую расу!#
+3935 окно без рамок#
+3936 Добро пожаловать в Barony!#
+3937 Вход в систему, подождите#
+3938 При первом входе в систему проверьте свой браузер#
+3939 чтобы включить интеграцию аккаунта с Barony.#
+3940 Интеграция аккаунта необходима для игры в Barony.#
+3941 Ошибка входа (%d). Пожалуйста, повторите.#
+3942 Интеграция аккаунта недоступна. Пожалуйста, перезапустите Barony для повтора попытки.#
+3943 (Steamworks)#
+3944 (Crossplay)#
+3945 Присоединиться к мультиплеер игре на Steamworks или кроссплей сервисах.#
+3946 Захостить игру используя Steamworks.#
+3947 Захостить игру используя кроссплей сервисы.#
+3948 включить кроссплей#
+3950  Фильтры #
+3951 Используемые фильтры#
+3952 Фильтры отключены#
+3953 Отфильтрованный поиск#
+3954 Поиск по коду лобби:#
+3955 Показать запущенные игры в
+кроссплей лобби:   [%c]#
+3956    Вы уверены что хотите перезапустить
+  перезапустить пробный уровень?#
+3957 Restart Trial#
+3958 Return to Hall of Trials#
+3959 Выйти в главное меню#
+3960    Вы уверены что хотите покинуть
+  текущий пробный уровень и
+ вернуться в Зал испытаний?#
+3961    Вы уверены что хотите
+   вернуться в главное меню?#
+3962
+Изменение этого игрового флага в текущем режиме игры невозможно.#
+3963 Достижения отключены для текущего игрового режима#
+3964 Зал испытаний#
+3965 Перейти к учебным испытаниям#
+3966 Пропустить сейчас#
+3967                   Barony - бросающая вызов игра!                    #
+3968
+                  Хотели бы перейти в Зал испытаний
+                      для изучения разных штук?
+
+             Вы всегда можете вернуться в Зал испытаний
+                      позднее из главного меню.#
+3969 Перезапустить карту#
+3970    Вы уверены что хотите
+ сбросить карту Зала испытаний
+    до исходного состояния?#
+3971 Достижения#
+3972 Громкость фоновых звуков#
+3973 Громкость окружения#
+3974 Валун не переместить этим путём.#
+3975
+
+ Включение кроссплея позволяет присоединяться и хостить лобби между
+     различными платформами продажи Barony без проброса портов.
+
+           для большей информации нажмите на "О кроссплее".
+
+
+      Нажав "принять", вы соглашаетесь предоставить свой Steam ID
+      и отображаемый ник в Стиме для Barony и кроссплей сервисов.#
+3976 Принять и включить кроссплей#
+3977 Отмена#
+3978 О приватности#
+3979                    Начальная настройка кроссплея#
+3980 О кроссплее
+
+              Barony будет использовать Epic Online Services для
+            облегчения кроссплея и создаст уникальный Crossplay ID
+            в Barony, что будет соответствовать вашему Steam ID.
+
+
+        Ваш Steam ID и никнейм будут предоставлены сервисам и другим
+                игрокам при использовании функций кроссплея.
+          Никаких других аккаунтов или их создания не потребуется.
+
+    Нажмите "О приватности" чтобы узнать, как обрабатываются ваши данные.#
+3981
+                     Услуги, используемые для кроссплея
+
+
+
+
+                         Предоставляемые вами данные#
+3982 Вернуться к настройке#
+3983 О кроссплее#
+3984 https://www.epicgames.com/store/en-US/product/barony/myths-and-outcasts#
+3985 https://www.epicgames.com/store/en-US/product/barony/legends-and-pariahs#
+3986
+         Уверены, что хотите отключиться
+          и вернуться в главное меню?
+
+     Поскольку остальная часть вашей группы
+       погибла, сохранение было удалено.
+
+ ЗАМЕТКА:
+     Это отключит всех членов группы.#
+3987 Выйти на рабочий стол#
+3988
+         Вы уверены что хотите
+        выйти на рабочий стол?
+
+        Поскольку вы погибли, ваш
+      файл сохранения будет удален.#
+3989
+              Вы уверены что хотите
+             выйти на рабочий стол?
+
+    Поскольку остальная часть вашей группы
+       погибла, сохранение было удалено.#
+3990
+         Вы уверены что хотите
+          закончить эту игру?
+
+   Сохранения на этом этаже отключены,
+  выход приведет к удалению прогресса.#
+3991
+          Вы уверены что хотите
+         выйти на рабочий стол?
+
+    Сохранения на этом этаже отключены,
+   выход приведет к удалению прогресса.#
+3992 https://store.steampowered.com/app/1010820/Barony_Myths__Outcasts/#
+3993 https://store.steampowered.com/app/1010821/Barony_Legends__Pariahs/#
+3994 Кроссплатформенный поиск выключен#
+3995 You have no items able to be uncursed!#
+3996 You have no items able to be identified!#
+3997 You have no room left in your pack to unequip a 
+ %s!#
+# World UI Tooltips
+3998 (Hold) #
+3999 Salvage item#
+4000 Pick up item#
+4001 Take gold#
+4002 Drink from fountain#
+4003 Drink from sink#
+4004 Close chest#
+4005 Open chest#
+4006 Salvage torch#
+4007 Take torch#
+4008 Salvage shard#
+4009 Take shard#
+4010 Inspect gravestone#
+4011 follower#
+4012 Command #
+4013 Trade with #
+4014 Interact with #
+4015 Close door#
+4016 Open door#
+4017 Inspect gate#
+4018 Deactivate switch#
+4019 Activate switch#
+4020 Turn crystal#
+4021 Push boulder#
+4022 Take orb#
+4023 Inspect#
+4024 Pull torch#
+4025 Read sign#
+4026 Disarm beartrap#
+4027 Inspect trapdoor#
+4028 Exit secret level#
+4029 Enter secret level#
+4030 Exit dungeon floor#
+4031 Exit Hamlet#
+4032 Step through portal#
+4033 Enter trial#
+4034 Exit trial#
+4035 Enter portal#
+4036 Enter trapdoor#
+4037 Descend ladder#
+4038 Climb ladder#
+4039 Disarm #
+4040 Interact#
+# Follower interact text
+4041 Interact with...#
+4042 Attack...#
+4043 Attack #
+4044 switch#
+4045 trap#
+4046 item#
+4047 No interactions available#
+4048 You don't feel like yourself.#
+4049 Quickcast#
+4050 Grab#
+4051 Level %d#
+4052 Floor %d#
+4053 Close#
+4054 Next Page#
+4055 Previous Page#
+4056 LEGEND BONUS#
+4057 None#
+4058 All items#
+4059 %d Metal#
+4060 %d Magic#
+4061 Tier#
+4062 Scroll up/down#
+4063 Scroll#
+4064 Instant#
+4065 Any#
+# Skillsheet - Casting MP Regen for insectoid
+4066 N/A
+(Insectoid)#
+# Skillsheet - Casting MP Regen for automaton
+4067 N/A
+(Automaton)#
+4068 Guised#
+4069 OPEN MAP#
+4070 OPEN LOG#
+4071 MAP#
+4072 LOG#
+4073 You see a signpost.#
+4074 Skills List#
+# Action Prompts
+4075 Attack#
+4076 Defend#
+4077 Sneak#
+4078 Cast#
+4079 Spellbook
+Cast#
+4080 Lockpick#
+4081 Tinker#
+4082 Throw#
+4083 Zap#
+4084 Dig#
+4085 You can not drop gold here.#
+4086 View item details#
+4087 Hide item details#
+4088 You found %d gold pieces in the chest!#
+4089 The crab's pinching claws are poisonous!#
+4090 gets pinched to pieces by the clawing crab.#
+
+# Nav Prompts
+4091 Take All#
+4092 Move Cursor#
+4093 View Spells#
+4094 View Items#
+4095 View Skills#
+4096 Take#
+4097 Store All#
+4098 There is no room left in the chest for a
+ %s!#
+4099 Took %d items from the chest.#
+4100 You have no room left in your pack!#
+4101 You reignite another %s.#
+4102 Appraise item#
+4103 View spell details#
+4104 Hide spell details#
+4105 Open Map#
+4106 Open Log#
+4107 Activate#
+4108 Drop Gold#
+4109 Pin Timer To HUD#
+4110 Unpin Timer From HUD#
+4111 Show Tooltip (Hold)#
+4112 Show Level Info (Hold)#
+4113 Buy#
+4114 Sell#
+4115 Spells#
+4116 Items#
+4117 Skills#
+4118 Status#
+
+# new shop GUI
+
+4119 Your gold:#
+4120 Buyback Items#
+4121 Stop Trading#
+4122 Store Markup:#
+4123 Resale Penalty:#
+4124 Shop Items#
+4125 My stores are too full to
+part with any more gold!#
+4126 Hand the orb to me directly.
+There is no need to involve
+formalities of gold, now!#
+4127 %s's#
+4128 Rare Goods#
+4129 ???'s#
+
+# new tinkering
+4130 Crafting Cost:#
+4131 Held Scrap:#
+4132 This should be unequipped first#
+4133 Salvage Gain:#
+4134 Repair Cost:#
+4135 Upgrade Cost:#
+4136 This is already fully repaired#
+4137 Nothing useful can be salvaged#
+4138 Unable to be repaired#
+4139 This is already fully upgraded#
+4140 Not enough materials to craft#
+4141 Not enough materials to repair#
+4142 Not enough materials to upgrade#
+4143 Irrepairable, best salvaged#
+4144 Skill too low to repair (%d/%d)#
+4145 Skill too low to upgrade (%d/%d)#
+4146 Cannot salvage this while using it!#
+4147 Skill too low to craft (%d/%d)#
+4148 Too impeccable to salvage#
+4149 Select an item to craft:#
+4150 Select an item to salvage:#
+4151 Select an item to repair: #
+4152 Your Tinkering Kit needs repairs#
+4153 This needs to be identified first#
+4154 Salvage All#
+4155 [Unknown use]#
+4156 [Base Potion]#
+4157 [Secondary Potion]#
+4158 [No unique use]#
+4159 You can't see what you're doing!#
+4160 [Needs identifying]#
+4161 Unknown potion#
+4162 [New combination]#
+4163 Duplication Chance:#
+4164 [Random result]#
+4165 [Unequip to use]#
+4166 [Copy of left potion]#
+4167 Caution!! Unstable
+Combination!#
+4168 [Missing ingredients]#
+4169 Deselect Recipe#
+4170 RECIPES#
+4171 RECIPES#
+4172 Select#
+4173 Remove#
+4174 Prepare#
+4175 Clear#
+4176 Brew#
+4177 Decant#
+4178 Brew#
+4179 New Recipe!#
+4180 Discovered Use!#
+4181 OBTAINED: %d/24#
+4182 You discovered a new alchemy recipe
+ for a %s.#
+
+# scribing
+4183 Charge Cost:#
+4184 Write#
+4185 Inscribe this scroll#
+4186 Not enough charge remaining#
+4187 Choose an inscription#
+4188 Write (May destroy feather)#
+4189 Write (Destroys feather)#
+4190 Missing blank scroll to inscribe#
+4191 Created Scroll: "%s"#
+4192 Feather Charge:#
+4193 Sort:#
+4194 Default#
+4195 Discovered#
+4196 Unknown#
+
+4197 You put %d %s into the chest.#
+4198 %3.0f%% Appraising...#
+
+4199 Blueprints#
+4200 Command %s to...#
+4201 (All) #
+4202 Repair#
+4203 Select#
+4204 Uncurse#
+4205 Select an item to uncurse:#
+4206 Charge#
+4207 Select an item to recharge:#
+4208 Identify#
+4209 Select an item to identify:#
+4210 Effect has no use#
+4211 This is already fully charged#
+4212 This is already identified#
+4213 This is already uncursed#
+4214 copy of#
+4215 labelled#
+4216 %s:#
+
+# NPC insults
+
+4217 damned#
+4218 dreadful#
+4219 lowborn#
+4220 foul#
+4221 ignoble#
+4222 wicked#
+4223 stinking#
+4224 awful#
+4225 beastly#
+4226 filthy#
+4227 monstrous#
+4228 evil#
+4229 vicious#
+4230 vile#
+4231 villainous#
+4232 unlawful#
+4233 nefarious#
+
+4234 Damned#
+4235 Dreadful#
+4236 Lowborn#
+4237 Foul#
+4238 Ignoble#
+4239 Wicked#
+4240 Stinking#
+4241 Awful#
+4242 Beastly#
+4243 Filthy#
+4244 Monstrous#
+4245 Evil#
+4246 Vicious#
+4247 Vile#
+4248 Villainous#
+4249 Unlawful#
+4250 Nefarious#
+
+4251 Requires %d Trading skill + CHR stat#
+
+# shop try to buy hidden item
+4252 Sorry, I do not sell that to 
+just anyone.#
+4253 That's reserved for another
+buyer, my apologies.#
+4254 That's only for my most
+esteemed clientele.#
+
+# shop buy added consumables
+4255 My personal stock, just for
+thee.#
+4256 I don't let just anyone buy
+that, you know.#
+4257 A little something from my
+limited stock.#
+4258 I see you like my special
+inventory.#
+4259 I keep that on hand for my
+favorite customers.#
+
+4260 %d gold#
+4261 ???#
+
+# NPC greetings
+
+4262 Nevermore.#
+4263 Hello, %s.#
+4264 Peep!#
+4265 Sankoxa.#
+4266 *slip slop*#
+4267 *grunt*#
+4268 *burble*#
+4269 *gurgle*#
+4270 *groan*#
+4271 *rattle*#
+4272 *skitter*#
+4273 Hehehe...#
+4274 *gurgle*#
+4275 Jib jab chip jub.#
+4276 *growl*#
+4277 Wanna dance?#
+4278 *creak*#
+4279 Greetings, mortal.#
+4280 You called?#
+4281 Welcome to hell, weakling.#
+4282 Is there anything you want to buy?#
+4283 Kleeaku.#
+4284 *chirp*#
+4285 *rumble*#
+4286 Wanna play?#
+4287 Bleh!#
+4288 ...#
+4289 *screech*#
+4290 *buzz*#
+4291 Ba-a-a-a-a.#
+4292 *choo choo*#
+4293 Hello, worm.#
+4294 Hello, cretin.#
+4295 *whirr*#
+4296 *whizz*#
+4297 *chime*#
+4298 *boing*#
+
+4299 Touch shrine#
+4300 Your touch falls on inert stone.#
+4301 The shrine responds to your touch!#
+4302 Your shapeshift fades and you return to your abnormal form.#
+4303 The polymorph wears out.#
+4304 You are no longer an enemy of the Merchant's Guild.#
+4305 You are now deemed an enemy of the Merchant's Guild
+for inciting violence!#
+4306 You are now deemed an enemy of the Merchant's Guild
+for accessory to violence!#
+4307 You see a shrine.#
+4308 You see a statue.#
+4309 shrine#
+4310 ladder#
+4311 portal#
+4312 The potion had no effect.#
+4313 Your allies feel cleansed!#
+4314 Skip to start/end#
+4315 Page Up/Down#
+4316 Scroll Up/Down#
+4317 Your %s failed to detect a suitable landing spot.#
+4318 Book Cast#
+4319 Unable to appraise#
+4320 The potion had no effect on the %s!#
+4321 The potion had no effect on %s!#
+4322 Your spell bounces off the %s!#
+4323 Your spell bounces off %s!#
+4324 You are suddenly burning!#
+4325 You reflected a spell!#
+4326 Next interaction...#
+4327 %s Increased!#
+4328 Spell Learned!#
+4329 Contains %d items belonging to %s.#
+4330 Contains %d items with no owner.#
+4331 Contains %d items belonging to you.#
+4332 You break the box open!#
+4333 Arachnophobia Filter has been enabled for the lobby.#
+4334 Arachnophobia Filter has been disabled for the lobby.#
+4335 object#
+4336 wall#
+4337 You destroy the %s!#
+4338 web#
+4339 foliage#
+4340 webbing#
+4341 barricade#
+4342 Colorblind assist has been enabled for the lobby.#
+4343 Colorblind assist has been disabled for the lobby.#
+4344 The %s shatters in your grasp!#
+4345 Status Effects#
+4346 No effects active#
+
+4399 end#
+
+
+
+# Wicked Rendition starts here
+
+# items 5950-5199
+
+5950 зеленый факел#
+5951 зеленый факел#
+5952 желтый капюшон#
+5953 желтый капюшон#
+5954 желтый плащ#
+5955 желтый плащ#
+
+5956 духовный облик#
+5957 шлем бездны#
+5958 Phantom Walker#
+5959 ботинки бездны#
+5960 призрачные когти#
+5961 кастет бездны#
+5962 Void Mail#
+5963 нагрудник бездны#
+5964 Эктоплазма#
+5965 плащ бездны#
+5966 Изувер#
+5967 меч бездны#
+5968 Морозный укус#
+5969 топор бездны#
+5970 Pyz#
+5971 булава бездны#
+5972 Клиронип#
+5973 abyssal spear#
+5974 Гадюка#
+5975 арбалет бездны#
+5976 Плач Бездны#
+5977 щит бездны#
+5978 Хи-Ма-На#
+5979 кольцо бездны#
+5980 Возмездие#
+5981 амулет бездны#
+
+5982 болотная шляпа волшебника#
+5983 шляпа волшебника#
+5984 болотный железый нагрудник#
+5985 железный нагрудник#
+5986 стихийный плащ#
+5987 стихийный плащ#
+
+5988 Круглый сыр чеддер#
+5989 cheese wheel#
+5990 банан#
+5991 банан#
+5992 кусок пиццы#
+5993 кусок пиццы#
+5994 лосось#
+5995 рыба#
+5996 кусок ветчины#
+5997 кусок ветчины#
+5998 заклинания катушки смерти#
+5999 заклинание#
+6000 костяное копье#
+6001 костяное копье#
+6002 Символ Ярости#
+6003 подозрительный символ#
+6004 Символ Безжалостности#
+6005 подозрительный символ#
+6006 Символ Ненависти#
+6007 подозрительный символ#
+
+6008 ледяные перчатки#
+6009 ледяные перчатки#
+6010 ботинки легкости#
+6011 ботинки легкости#
+6012 ботинки сверхлегкости#
+6013 ботинки легкости#
+6014 тающий плащ#
+6015 тающий плащ#
+6016 кольцо случайности#
+6017 кольцо#
+6018 морской черт#
+6019 рыба#
+6020 пирог с щупальцами#
+6021 пирог с щупальцами#
+6022 рог единорога#
+6023 рог единорога#
+6024 Маска Иллюзий#
+6025 маска бездны#
+
+6026 топор палача#
+6027 топор палача#
+6028 гранитная кувалда#
+6029 гранитная кувалда#
+6030 трезубец#
+6031 трезубец#
+6032 рапира#
+6033 рапира#
+6034 ручная пушка#
+6035 ручная пушка#
+6036 валуномет#
+6037 ручная пушка#
+6038 щит Некрополиса#
+6039 щит Некрополиса#
+6040 самодельный лук#
+6041 самодельный лук#
+6042 деревянный молот#
+6043 деревянный молот#
+6044 мачете#
+6045 мачете#
+6046 каменный топор#
+6047 каменный топор#
+6048 шляпа-цилиндр#
+6049 шляпа-цилиндр#
+
+6050 Кольцо всех Сделок#
+6051 кольцо инквизитора#
+6052 Проклятие Нежити#
+6053 маска инквизитора#
+6054 Последний кошмар Магусана#
+6055 амулет инквизитора#
+6056 Прядь Архангела#
+6057 лампа инквизитора#
+6058 Имперская Корона#
+6059 шлем инквизитора#
+6060 Шаги Природы#
+6061 ботинки инквизитора#
+6062 Божественное Озарение#
+6063 перчатки инквизитора#
+6064 Королевство#
+6065 нагрудник инквизитора#
+6066 Заточение Забытых#
+6067 рюкзак инквизитора#
+6068 Пронзатель#
+6069 копье инквизитора#
+6070 Пространственный Ятаган#
+6071 меч инквизитора#
+6072 Меч Нефариус#
+6073 топор инквизитора#
+6074 Молот тонны#
+6075 молот инквизитора#
+6076 Крыло Феи#
+6077 лук инквизитора#
+
+6078 изумленные глаза#
+6079 изумленные глаза#
+6080 ржавая решетка#
+6081 ржавая решетка#
+6082 злобная маска#
+6083 злобная маска#
+6084 глазная повязка#
+6085 глазная повязка#
+6086 щит от усыпления#
+6087 щит от усыпления#
+6088 щит от зачарования#
+6089 щит от зачарования#
+6090 щит от кровотечения#
+6091 щит от кровотечения#
+6092 ударный шлем#
+6093 ударный шлем#
+6094 стихийная шляпа#
+6095 стихийная шляпа#
+6096 стихийный дублет#
+6097 стихийный дублет#
+6098 нагрудник из кожи ящерицы#
+6099 нагрудник из кожи ящерицы#
+6100 перчатки кражи жизни#
+6101 перчатки кражи жизни#
+6102 перчатки маны#
+6103 перчатки маны#
+6104 ботинки полета#
+6105 ботинки полета#
+6106 помидор#
+6107 помидор#
+6108 капуста#
+6109 капуста#
+6110 груши#
+6111 груши#
+
+6112 кольчужная риза#
+6113 кольчужная риза#
+6114 водная кольчужная риза#
+6115 кольчужная риза#
+6116 мраморный нагрудник#
+6117 мраморный нагрудник#
+6118 оловянный шлем#
+6119 оловянный шлем#
+6120 оловянный нагрудник#
+6121 оловянный нагрудник#
+6122 оловянные перчатки#
+6123 оловянные перчатки#
+6124 оловянные ботинки#
+6125 оловянные ботинки#
+6126 свеча#
+6127 свеча#
+6128 вечная свеча#
+6129 свеча#
+
+6130 Погребальный костер#
+6131 утерянное кольцо#
+6132 Благой Амулет Регенерации#
+6133 утерянный амулет#
+6134 Метка Токсикомана#
+6135 утерянная маска#
+6136 Мар-Син#
+6137 утерянная алебарда#
+6138 Овен#
+6139 утерянный топор#
+6140 Дракула#
+6141 потерянная булава#
+6142 Сжигающий ману меч#
+6143 утерянный меч#
+6144 Тасдрен#
+6145 утерянный лук#
+6146 Защитник Лунного Камня#
+6147 утерянный щит#
+6148 Вуаль Огня Души#
+6149 утерянный шлем#
+6150 Метеоритная Броня#
+6151 утерянный нагрудник#
+6152 Духовный Фрагмент#
+6153 утерянные рукавицы#
+6154 Следы Следопыта#
+6155 утерянные ботинки#
+6156 Накидка Звездный Пыли#
+6157 утерянный плащ#
+
+6158 Золотой ключ#
+6159 ключ#
+6160 ритуальный клинок#
+6161 ритуальный клинок#
+6162 колчан морозных стрел#
+6163 колчан#
+6164 крест изгнания лича#
+6165 крест#
+6166 заклинание сверхлечения#
+6167 заклинание#
+6168 связанный магией амулет#
+6169 амулет#
+6170 свиток легенд#
+6171 свиток#
+
+6172 игла#
+6173 игла#
+
+# items interactions
+
+6200 Ты слышишь шепот: "Мои рефлексы ускорились!"#
+6201 Ты слышишь шепот: "Ничто меня не остановит!"#
+6202 Ты слышишь шепот: "Мой коготь един с кулаком!"#
+6203 Ты слышишь шепот: "Я лично покончу с бароном!"#
+6204 Ты слышишь шепот: "...Мы дураки, раз пришли сюда"#
+6205 Лезвие холодное, но кровь кажется теплой...#
+6206 Темная звезда застряла внутри булавы#
+6207 ...здесь на краю странный яд#
+6208 Лед на лезвии, похоже, не тает#
+6209 Свечи от памятника освещают#
+6210 Ты ощущаешь ловкость#
+6211 Твое тело и разум едины#
+6212 Амулет бьется с твоим сердцем#
+6213 Звезда произносит заклинание для тебя!#
+6214 Твой амулет светится темно-красным от гнева, отвергая смерть!#
+6215 Символ наталкивает тебя на мысли... мысли об огненных шарах и магическом разрушении#
+6216 Твой амулет светится подобно пламени дракона, разрываясь от злости!#
+6217 Сила мстительного амулета поджигает тебя!#
+
+6218 Пьедестал кажется тебе чужим.#
+6219 Похоже, пьедестал питается каким-то первозданным злом.#
+6220 Символ заблокирован и не может быть извлечен!#
+6221 Ты вставляешь символ...#
+6222 Это не дало эффекта.#
+6223 Символ начинает плавать!#
+6224 Ты вернул %s с пьедестала.#
+6225 Ты видишь пьедестал.#
+6226 Ты замечаешь подозрительный символ на вершине пьедестала.#
+
+6227 Ты видишь фонтан крови.#
+6228 Ты видишь причудливый пьедестал.#
+6229 Ты видишь табуретку.#
+
+# blood fountain interactions
+
+6230 Ты обливаешь себя кровью.#
+6231 Ты призвал демона!#
+6232 Ты призвал Импа!#
+6233 Кровь освежает тебя.#
+6234 Тело  не выдержало силы фонтана и разорвалось.#
+6235 Фонтан проклял твое снаряжение.#
+6236 Твое тело отторгает кровь от боли.#
+6237 Твое тело принимает кровь и излечивается.#
+6238 Чистая кровь становится единой с тобой.#
+
+#
+
+6239 Твое зрение больше не принадлежит тебе и ты не можешь видеть себя.#
+6240 Ты применяешь рог единорога.#
+6241 Лицезрей случайность.#
+6242 Твое касание причиняет боль огненному существу, крадя его ману.#
+6243 Твое присутствие вредит морозному существу, крадя его жизнь.#
+6244 Ядовитое копье заражает цель.#
+6245 Глазное яблоко пристально смотрит на тебя.#
+6246 сильная боль в глазах парализует тебя.#
+6247 сильная боль в глазах ослепляет тебя.#
+6248 Ты слишишь, как что-то большое движется вдали.#
+
+6249 Катушка смерти#
+6250 Сверхлечение#
+
+6251 %s говорит: Вау! Я где-то читал об этих символах, они из Некрополиса?#
+6252 %s говорит: Хм. Холодное на ощупь. Мне просто любопытно, где ты нашел это?#
+6253 %s говорит: Ох мой... Я ощущаю негатив, исходящий из этого символа, очень интересно.#
+
+6254 Все твои характеристики повышены.#
+6255 Ты испытываете непривычную ненависть к нежити.#
+6256 Ты привязан к этому миру, но твои мечты расстворились.#
+6257 Ты будешь лидером.#
+6258 что-то направляет твой шаг.#
+6259 Ты испытываете непривычную ненависть к демонам.#
+6260 Ты будешь править ими всеми.#
+6261 Клетка изнутри выглядит намного больше.#
+
+6262 Ты - оружие.#
+6263 Амулет подстраивается под твои нужды.#
+6264 Твой желудок зудит.#
+6265 Да прибудет с тобой магия.#
+6266 Где может быть выход?#
+6267 Хрустальный шип выглядит ненадежным.#
+6268 Ты чувствуешь себя упругим.#
+6269 Звезды сошлись в вашу пользу.#
+
+# special hits
+
+6270 Ты казнил цель.#
+6271 Топор отнимает часть вашего здоровья, чтобы нанести больший урон.#
+6272 Твоя мана растет...#
+6273 Ты со злостью атакуешь нежить.#
+6274 Ты со злостью атакуешь демона.#
+6275 Твой щит поглощает боль.#
+6276 Щит поглощает твою сонливость.#
+6277 Твой щит поглощает лень.#
+6278 Щит поглощает твое вожделение.#
+6279 Магия вырывается из твоего тела!#
+6280 Земля дарует тебе силы#
+6281  посылает тебе силы#
+
+6282 %s говорит: Ах, ключ от хранилища. Ну и где же теперь хранилище..?#
+6283 Ты пронзаешь себя и чувствуешь, как по тебе течет сила!#
+6284 Боги улыбаются тебе.#
+6285 Ключ открывает секретный проход!#
+6286 Тебя замораживают морозной стрелой!#
+6287 Твоя стрела замораживает %s!#
+6288 Твоя стрела замораживает %s!#
+6289 Твоя магия обращается в жизнь!#
+6290 Амулет светится темно-синим.#
+6291 Ты вставляешь ключ...#
+
+6300 end#	#define by NUMLANGENTRIES at main.
