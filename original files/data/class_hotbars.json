@@ -1,0 +1,2340 @@
+{
+    "version": 1,
+    "classes": {
+        "class_barbarian": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "bronze_tomahawk"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "iron_axe"
+                    ]
+                },
+                "2": {
+                    "items": []
+                },
+                "3": {
+                    "items": [
+                        "tool_torch"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "wooden_shield"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "potion_polymorph"					
+					]
+                },
+                "6": {
+                    "items": [
+                        "spell_flutter",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_dash",
+                        "spell_levitation",
+                        "spell_self_polymorph",
+                        "spell_salvage",						
+                        "spell_shadow_tag"						
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_acid_spray"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "iron_axe"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "wooden_shield"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "bronze_tomahawk"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "tool_torch"
+                    ]
+                },
+                "4": {
+                    "items": []
+                },
+                "5": {
+                    "items": []
+                },
+                "6": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"						
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                }
+            }
+        },
+        "class_warrior": {
+            "modern": {
+                "0": {
+                    "items": []
+                },
+                "1": {
+                    "items": [
+                        "iron_spear"
+                    ]
+                },
+                "2": {
+                    "items": []
+                },
+                "3": {
+                    "items": []
+                },
+                "4": {
+                    "items": [
+                        "bronze_shield"
+                    ]
+                },
+                "5": {
+                    "items": [
+						"potion_polymorph"
+					]
+                },
+                "6": {
+                    "items": [
+                        "spell_flutter",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_dash",
+                        "spell_levitation",
+                        "spell_self_polymorph",
+                        "spell_salvage",						
+                        "spell_shadow_tag"						
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_acid_spray"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "iron_spear"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "bronze_shield"
+                    ]
+                },
+                "2": {
+                    "items": []
+                },
+                "3": {
+                    "items": []
+                },
+                "4": {
+                    "items": []
+                },
+                "5": {
+                    "items": []
+                },
+                "6": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"						
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+					]
+                },
+                "9": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                }
+            }
+        },
+        "class_healer": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "magicstaff_slow"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "quarterstaff"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spellbook_cureailment"
+                    ]
+                },
+                "4": {
+                    "items": [
+						"spellbook_healing"
+					]
+                },
+                "5": {
+                    "items": [
+						"potion_extrahealing"
+					]
+                },
+                "6": {
+                    "items": [
+                        "spell_flutter",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_dash",
+                        "spell_levitation",
+                        "spell_self_polymorph",
+                        "spell_salvage",						
+                        "spell_shadow_tag"						
+                    ]
+                },
+                "8": {
+                    "items": [
+						"spell_acid_spray"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "quarterstaff"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "magicstaff_slow"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "spellbook_cureailment"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spellbook_healing"
+                    ]
+                },
+                "4": {
+                    "items": []
+                },
+                "5": {
+                    "items": []
+                },
+                "6": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_extrahealing"
+                    ]
+                }
+            }
+        },
+        "class_rogue": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "tool_lockpick"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "bronze_sword"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "tool_decoy"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "quiver_heavy"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "shortbow"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "potion_sickness"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_bleed",
+                        "spell_dash",
+                        "spell_teleportation"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "8": {
+                    "items": [
+						"potion_polymorph",
+                        "spell_acid_spray"
+					]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "bronze_sword"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "shortbow"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "quiver_heavy"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "tool_lockpick"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "tool_decoy"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "potion_sickness"
+                    ]
+                },
+                "6": {
+                    "items": []
+                },
+                "7": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                }
+            }
+        },
+        "class_wanderer": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "sling"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "quarterstaff"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "tool_towel"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spellbook_detect_food"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "tool_lantern"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "potion_cureailment"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_dash",
+						"spell_teleportation",
+						"spell_bleed"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"	
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "scroll_magicmapping"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "quarterstaff"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "sling"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "tool_lantern"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spellbook_detect_food"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "scroll_magicmapping"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "tool_towel"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_cureailment"
+                    ]
+                }
+            }
+        },
+        "class_cleric": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "scroll_summon"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "iron_mace"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "potion_healing"
+                    ]
+                },
+                "3": {
+                    "items": [
+						"potion_polymorph"
+					]
+                },
+                "4": {
+                    "items": [
+                        "wooden_shield"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spellbook_trolls_blood"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_dash",
+						"spell_bleed",
+						"spell_teleportation"						
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_acid_spray"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "iron_mace"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "wooden_shield"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "spellbook_trolls_blood"
+                    ]
+                },
+                "3": {
+                    "items": []
+                },
+                "4": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_dash",
+						"spell_bleed",
+						"spell_teleportation"						
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_acid_spray"
+                    ]
+                },
+                "7": {
+                    "items": [
+						"potion_polymorph"
+					]
+                },
+                "8": {
+                    "items": [
+                        "scroll_summon"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_healing"
+                    ]
+                }
+            }
+        },
+        "class_merchant": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "tool_pickaxe"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "bronze_axe"
+                    ]
+                },
+                "2": {
+                    "items": []
+                },
+                "3": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "6": {
+                    "items": []
+                },
+                "7": {
+                    "items": []
+                },
+                "8": {
+                    "items": [
+						"potion_polymorph"
+					]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "bronze_axe"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "tool_pickaxe"
+                    ]
+                },
+                "2": {
+                    "items": []
+                },
+                "3": {
+                    "items": []
+                },
+                "4": {
+                    "items": [
+						"potion_polymorph"
+					]
+                },
+                "5": {
+                    "items": []
+                },
+                "6": {
+                    "items": []
+                },
+                "7": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                }
+            }
+        },
+        "class_wizard": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "magicstaff_light"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "quarterstaff"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "potion_restoremagic"
+                    ]
+                },
+                "3": {
+					"items": [
+                        "spellbook_cold"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spellbook_fireball"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spellbook_light"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "7": {
+					"items": ["spell_dash"]
+                },
+                "8": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "quarterstaff"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "magicstaff_light"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "spellbook_fireball"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spellbook_cold"
+                    ]
+                },
+                "4": {
+                    "items": []
+                },
+                "5": {
+                    "items": []
+                },
+                "6": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_dash",
+                        "spellbook_light"						
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_restoremagic"
+                    ]
+                }
+            }
+        },
+        "class_arcanist": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "quiver_fire"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "crossbow"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "magicstaff_fire"
+                    ]
+                },
+                "3": {
+					"items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spellbook_forcebolt"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "potion_restoremagic"
+                    ]
+                },
+                "6": {
+					"items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "7": {
+					"items": [
+						"spell_dash",
+                        "spellbook_light"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "magicstaff_opening"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "crossbow"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "quiver_fire"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "magicstaff_fire"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "magicstaff_opening"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spellbook_forcebolt"
+                    ]
+                },
+                "5": {
+                    "items": []
+                },
+                "6": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "8": {
+                    "items": [
+						"spellbook_light",
+                        "spell_dash",
+						"potion_polymorph"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_restoremagic"
+                    ]
+                }
+            }
+        },
+        "class_joker": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "tool_lockpick"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "sling"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "food_creampie"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "scroll_teleportation"
+                    ]
+                },
+                "6": {
+                    "items": [
+						"spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "7": {
+					"items": [
+                        "spellbook_confuse"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "sling"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "tool_lockpick"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "food_creampie"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spellbook_confuse"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"					
+					]
+                },
+                "8": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "scroll_teleportation"
+                    ]
+                }
+            }
+        },
+        "class_sexton": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "steel_chakram"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "bronze_mace"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "tool_crystalshard"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "4": {
+					"items": [
+                        "spellbook_opening"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "6": {
+					"items": [
+						"spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+					]
+                },
+                "7": {
+                    "items": [
+                        "spellbook_sleep"
+                    ]
+                },
+                "8": {
+                    "items": [              
+					]	
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "bronze_mace"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "steel_chakram"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "tool_crystalshard"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spellbook_sleep"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spellbook_opening"
+                    ]
+                },
+                "5": {
+                    "items": []
+                },
+                "6": {
+                    "items": []
+                },
+                "7": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "9": {
+                    "items": [
+						"spellbook_locking",
+						"potion_polymorph",
+                        "spell_dash"						
+                    ]
+                }
+            }
+        },
+        "class_ninja": {
+            "modern": {
+                "0": {
+                    "items": [
+                        "scroll_teleportation"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "crystal_sword"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "potion_invisibility"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "tool_beartrap"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "iron_dagger"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "potion_paralysis"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_dash",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            },
+            "classic": {
+                "0": {
+                    "items": [
+                        "crystal_sword"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "iron_dagger"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "tool_beartrap"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "potion_paralysis"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_acid_spray"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_dash",
+						"spell_bleed",
+						"spell_teleportation"						
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "potion_invisibility"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "scroll_teleportation"
+                    ]
+                }
+            }
+        },
+        "class_monk": {
+            "classic": {
+                "0": {
+                    "items": [
+                        "tool_torch"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "spellbook_light"
+                    ]
+                },
+                "2": {
+                    "items": []
+                },
+                "3": {
+                    "items": []
+                },
+                "4": {
+                    "items": []
+                },
+                "5": {
+                    "items": []
+                },
+                "6": {
+                    "items": [
+                        "spell_flutter"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_dash",
+						"spell_bleed",
+						"spell_teleportation"						
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_acid_spray",
+                        "spell_levitation",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                }
+            },
+            "modern": {
+                "0": {
+                    "items": [
+                        "spellbook_light"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "tool_torch"
+                    ]
+                },
+                "2": {
+                    "items": []
+                },
+                "3": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_dash",
+                        "spell_levitation",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"						
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_flutter"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "7": {
+                    "items": []
+                },
+                "8": {
+                    "items": []
+                },
+                "9": {
+                    "items": []
+                }
+            }
+        },
+        "class_conjurer": {
+            "classic": {
+                "0": {
+                    "items": [
+                        "magicstaff_lightning"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "tool_lantern"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "spell_summon"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spellbook_slow"
+                    ]
+                },
+                "4": {
+                    "items": []
+                },
+                "5": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_restoremagic"
+                    ]
+                }
+            },
+            "modern": {
+                "0": {
+                    "items": [
+                        "spell_summon"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "magicstaff_lightning"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "tool_lantern"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "4": {
+                    "items": ["spellbook_slow"]
+                },
+                "5": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "potion_restoremagic"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            }
+        },
+        "class_accursed": {
+            "classic": {
+                "0": {
+                    "items": [
+                        "spellbook_invisibility"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation",
+                        "spell_salvage"						
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "spell_dash",
+                        "spell_levitation",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag"						
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spell_flutter"
+                    ]
+                },
+                "4": {
+                    "items": []
+                },
+                "5": {
+                    "items": []
+                },
+                "6": {
+                    "items": []
+                },
+                "7": {
+                    "items": []
+                },
+                "8": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_restoremagic"
+                    ]
+                }
+            },
+            "modern": {
+                "0": {
+                    "items": []
+                },
+                "1": {
+					"items": [
+                        "spellbook_invisibility"
+                    ]
+                },
+                "2": {
+                    "items": []
+                },
+                "3": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+						"spell_teleportation"						
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_salvage",
+                        "spell_acid_spray",
+						"spell_bleed",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "potion_restoremagic"
+                    ]
+                },
+                "8": {
+                    "items": []
+                },
+                "9": {
+                    "items": []
+                }
+            }
+        },
+        "class_mesmer": {
+            "classic": {
+                "0": {
+                    "items": [
+                        "iron_spear"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "magicstaff_charm"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "spellbook_cold"
+                    ]
+                },
+                "3": {
+                    "items": []
+                },
+                "4": {
+                    "items": [
+                        "spellbook_charm"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "potion_confusion"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_restoremagic"
+                    ]
+                }
+            },
+            "modern": {
+                "0": {
+                    "items": [
+                        "magicstaff_charm"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "iron_spear"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "spellbook_charm"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spell_dash",
+						"spell_teleportation",
+						"spell_bleed"
+                    ]
+                },
+                "4": {
+                    "items": ["spellbook_cold"]
+                },
+                "5": {
+                    "items": [
+                        "potion_confusion"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "potion_polymorph",
+						"spell_bleed"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "potion_restoremagic"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            }
+        },
+        "class_brewer": {
+            "classic": {
+                "0": {
+                    "items": [
+                        "iron_axe"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "potion_empty"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "potion_firestorm"
+                    ]
+                },
+                "3": {
+                    "items": []
+                },
+                "4": {
+                    "items": []
+                },
+                "5": {
+                    "items": []
+                },
+                "6": {
+                    "items": [
+                        "spell_acid_spray"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_dash",
+						"spell_bleed",
+						"spell_teleportation"						
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "tool_alembic"
+                    ]
+                }
+            },
+            "modern": {
+                "0": {
+                    "items": [
+                        "potion_empty"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "iron_axe"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "potion_firestorm"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "6": {
+                    "items": []
+                },
+                "7": {
+                    "items": [
+                        "tool_alembic"
+                    ]
+                },
+                "8": {
+                    "items": []
+                },
+                "9": {
+                    "items": []
+                }
+            }
+        },
+        "class_machinist": {
+            "classic": {
+                "0": {
+                    "items": [
+                        "crossbow"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "tool_tinkering_kit"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "tool_beartrap"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "tool_sentrybot"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "tool_dummybot"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "tool_sleep_bomb"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "tool_lockpick"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                }
+            },
+            "modern": {
+                "0": {
+                    "items": [
+                        "tool_beartrap"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "crossbow"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "tool_lockpick"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "tool_dummybot"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "tool_tinkering_kit"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "tool_sentrybot"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            }
+        },
+        "class_punisher": {
+            "classic": {
+                "0": {
+                    "items": [
+                        "tool_whip"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "crystal_battleaxe"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "spell_telepull"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spell_demon_illu"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_dash",
+                        "spell_levitation",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"						
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_flutter",
+						"spell_bleed",
+						"spell_teleportation"						
+
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_acid_spray"
+					]
+                },
+                "7": {
+                    "items": []
+                },
+                "8": {
+                    "items": []
+                },
+                "9": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                }
+            },
+            "modern": {
+                "0": {
+                    "items": [
+                        "crystal_battleaxe"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "tool_whip"
+                    ]
+                },
+                "2": {
+                    "items": []
+                },
+                "3": {
+                    "items": [
+                        "spell_telepull"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_demon_illu"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_acid_spray",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            }
+        },
+        "class_shaman": {
+            "classic": {
+                "0": {
+                    "items": [
+                        "bronze_sword"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "magicstaff_poison"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "gem_rock"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spell_rat_form"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_spider_form"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_troll_form"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_imp_form"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_dash",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "potion_polymorph"
+                    ]
+                }
+            },
+            "modern": {
+                "0": {
+                    "items": [
+                        "magicstaff_poison"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "bronze_sword"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "gem_rock"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "spell_spider_form"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "spell_rat_form"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_troll_form"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "spell_imp_form"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "potion_polymorph",
+						"spell_teleportation",
+						"spell_dash",
+						"spell_bleed"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            }
+        },
+        "class_hunter": {
+            "classic": {
+                "0": {
+                    "items": [
+                        "boomerang"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "longbow"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "quiver_lightweight"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "quiver_silver"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "quiver_hunting"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "spell_levitation",
+                        "spell_flutter",
+                        "spell_self_polymorph",
+                        "spell_shadow_tag",
+                        "spell_salvage"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_dash",
+						"spell_bleed",
+						"spell_teleportation"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "scroll_conjurearrow"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "potion_speed"
+                    ]
+                },
+                "9": {
+                    "items": [
+                        "tool_blindfold_telepathy"
+                    ]
+                }
+            },
+            "modern": {
+                "0": {
+                    "items": [
+                        "longbow"
+                    ]
+                },
+                "1": {
+                    "items": [
+                        "boomerang"
+                    ]
+                },
+                "2": {
+                    "items": [
+                        "scroll_conjurearrow"
+                    ]
+                },
+                "3": {
+                    "items": [
+                        "quiver_silver"
+                    ]
+                },
+                "4": {
+                    "items": [
+                        "quiver_lightweight"
+                    ]
+                },
+                "5": {
+                    "items": [
+                        "quiver_hunting"
+                    ]
+                },
+                "6": {
+                    "items": [
+                        "spell_dash"
+                    ]
+                },
+                "7": {
+                    "items": [
+                        "tool_blindfold_telepathy"
+                    ]
+                },
+                "8": {
+                    "items": [
+                        "potion_speed"
+                    ]
+                },
+                "9": {
+                    "items": []
+                }
+            }
+        }
+    }
+}

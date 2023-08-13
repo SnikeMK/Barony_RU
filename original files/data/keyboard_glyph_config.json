@@ -1,0 +1,916 @@
+{
+    "version": 1,
+    "rendered_glyph_folder": "Rendered",
+    "base_glyph_folder": "/images/ui/Glyphs/KeyboardGlyphs",
+    "small_key_unpressed_path": "ButtonBase_Standard_00.png",
+    "small_key_pressed_path": "ButtonPress_Standard_00.png",
+    "pressed_rendered_glyph_prefix": "Pressed_",
+    "unpressed_rendered_glyph_prefix": "Unpressed_",
+    "base_render_offset_y": 2,
+    "glyphs": [
+        {
+            "keyname": "0",
+            "folder": "Numbers",
+            "path": "Text_0_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "1",
+            "folder": "Numbers",
+            "path": "Text_1_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "2",
+            "folder": "Numbers",
+            "path": "Text_2_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "3",
+            "folder": "Numbers",
+            "path": "Text_3_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "4",
+            "folder": "Numbers",
+            "path": "Text_4_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "5",
+            "folder": "Numbers",
+            "path": "Text_5_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "6",
+            "folder": "Numbers",
+            "path": "Text_6_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "7",
+            "folder": "Numbers",
+            "path": "Text_7_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "8",
+            "folder": "Numbers",
+            "path": "Text_8_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "9",
+            "folder": "Numbers",
+            "path": "Text_9_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "A",
+            "folder": "Alphabet",
+            "path": "Text_A_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "B",
+            "folder": "Alphabet",
+            "path": "Text_B_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "C",
+            "folder": "Alphabet",
+            "path": "Text_C_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "D",
+            "folder": "Alphabet",
+            "path": "Text_D_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "E",
+            "folder": "Alphabet",
+            "path": "Text_E_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "F",
+            "folder": "Alphabet",
+            "path": "Text_F_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "G",
+            "folder": "Alphabet",
+            "path": "Text_G_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "H",
+            "folder": "Alphabet",
+            "path": "Text_H_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "I",
+            "folder": "Alphabet",
+            "path": "Text_I_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "J",
+            "folder": "Alphabet",
+            "path": "Text_J_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "K",
+            "folder": "Alphabet",
+            "path": "Text_K_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "L",
+            "folder": "Alphabet",
+            "path": "Text_L_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "M",
+            "folder": "Alphabet",
+            "path": "Text_M_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "N",
+            "folder": "Alphabet",
+            "path": "Text_N_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "O",
+            "folder": "Alphabet",
+            "path": "Text_O_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "P",
+            "folder": "Alphabet",
+            "path": "Text_P_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "Q",
+            "folder": "Alphabet",
+            "path": "Text_Q_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "R",
+            "folder": "Alphabet",
+            "path": "Text_R_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "S",
+            "folder": "Alphabet",
+            "path": "Text_S_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "T",
+            "folder": "Alphabet",
+            "path": "Text_T_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "U",
+            "folder": "Alphabet",
+            "path": "Text_U_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "V",
+            "folder": "Alphabet",
+            "path": "Text_V_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "W",
+            "folder": "Alphabet",
+            "path": "Text_W_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "Y",
+            "folder": "Alphabet",
+            "path": "Text_Y_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "X",
+            "folder": "Alphabet",
+            "path": "Text_X_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "Z",
+            "folder": "Alphabet",
+            "path": "Text_Z_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "F1",
+            "folder": "FunctionKeys",
+            "path": "Function_1_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function1_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function1_00.png"
+        },
+        {
+            "keyname": "F2",
+            "folder": "FunctionKeys",
+            "path": "Function_2_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function1_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function1_00.png"
+        },
+        {
+            "keyname": "F3",
+            "folder": "FunctionKeys",
+            "path": "Function_3_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function1_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function1_00.png"
+        },
+        {
+            "keyname": "F4",
+            "folder": "FunctionKeys",
+            "path": "Function_4_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function1_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function1_00.png"
+        },
+        {
+            "keyname": "F5",
+            "folder": "FunctionKeys",
+            "path": "Function_5_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function1_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function1_00.png"
+        },
+        {
+            "keyname": "F6",
+            "folder": "FunctionKeys",
+            "path": "Function_6_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function1_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function1_00.png"
+        },
+        {
+            "keyname": "F7",
+            "folder": "FunctionKeys",
+            "path": "Function_7_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function1_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function1_00.png"
+        },
+        {
+            "keyname": "F8",
+            "folder": "FunctionKeys",
+            "path": "Function_8_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function1_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function1_00.png"
+        },
+        {
+            "keyname": "F9",
+            "folder": "FunctionKeys",
+            "path": "Function_9_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function1_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function1_00.png"
+        },
+        {
+            "keyname": "F10",
+            "folder": "FunctionKeys",
+            "path": "Function_10_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F11",
+            "folder": "FunctionKeys",
+            "path": "Function_11_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F12",
+            "folder": "FunctionKeys",
+            "path": "Function_12_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F13",
+            "folder": "FunctionKeys",
+            "path": "Function_13_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F14",
+            "folder": "FunctionKeys",
+            "path": "Function_14_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F15",
+            "folder": "FunctionKeys",
+            "path": "Function_15_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F16",
+            "folder": "FunctionKeys",
+            "path": "Function_16_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F17",
+            "folder": "FunctionKeys",
+            "path": "Function_17_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F18",
+            "folder": "FunctionKeys",
+            "path": "Function_18_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F19",
+            "folder": "FunctionKeys",
+            "path": "Function_19_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F20",
+            "folder": "FunctionKeys",
+            "path": "Function_20_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F21",
+            "folder": "FunctionKeys",
+            "path": "Function_21_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F22",
+            "folder": "FunctionKeys",
+            "path": "Function_22_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F23",
+            "folder": "FunctionKeys",
+            "path": "Function_23_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "F24",
+            "folder": "FunctionKeys",
+            "path": "Function_24_00.png",
+            "custom_render_offset_y": 0,
+            "pressed_glyph_background_path": "FunctionKeys/ButtonPress_Function10_00.png",
+            "unpressed_glyph_background_path": "FunctionKeys/ButtonBase_Function10_00.png"
+        },
+        {
+            "keyname": "Left",
+            "folder": "Arrows",
+            "path": "Arrows_Left_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "Right",
+            "folder": "Arrows",
+            "path": "Arrows_Right_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "Up",
+            "folder": "Arrows",
+            "path": "Arrows_Up_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "Down",
+            "folder": "Arrows",
+            "path": "Arrows_Down_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "Left Alt",
+            "folder": "NamedKeys",
+            "path": "Text_Alt_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Alt_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Alt_00.png"
+        },
+        {
+            "keyname": "Right Alt",
+            "folder": "NamedKeys",
+            "path": "Text_Alt_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Alt_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Alt_00.png"
+        },
+        {
+            "keyname": "Backspace",
+            "folder": "NamedKeys",
+            "path": "Text_Back_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Back_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Back_00.png"
+        },
+        {
+            "keyname": "Backspace",
+            "folder": "NamedKeys",
+            "path": "Text_BackwArrow_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_BackwArrow_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_BackwArrow_00.png"
+        },
+        {
+            "keyname": "Pause",
+            "folder": "NamedKeys",
+            "path": "Text_Break_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Break_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Break_00.png"
+        },
+        {
+            "keyname": "CapsLock",
+            "folder": "NamedKeys",
+            "path": "Text_Caps_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Caps_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Caps_00.png"
+        },
+        {
+            "keyname": "Left Ctrl",
+            "folder": "NamedKeys",
+            "path": "Text_Ctrl_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Ctrl_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Ctrl_00.png"
+        },
+        {
+            "keyname": "Right Ctrl",
+            "folder": "NamedKeys",
+            "path": "Text_Ctrl_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Ctrl_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Ctrl_00.png"
+        },
+        {
+            "keyname": "Left Command",
+            "folder": "NamedKeys",
+            "path": "Text_LCmd_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_LCmd_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_LCmd_00.png"
+        },
+        {
+            "keyname": "Right Command",
+            "folder": "NamedKeys",
+            "path": "Text_RCmd_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_RCmd_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_RCmd_00.png"
+        },
+        {
+            "keyname": "Left Option",
+            "folder": "NamedKeys",
+            "path": "Text_LOpt_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_LOpt_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_LOpt_00.png"
+        },
+        {
+            "keyname": "Right Option",
+            "folder": "NamedKeys",
+            "path": "Text_ROpt_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_ROpt_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_ROpt_00.png"
+        },
+        {
+            "keyname": "Left Windows",
+            "folder": "NamedKeys",
+            "path": "Text_LWin_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_LWin_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_LWin_00.png"
+        },
+        {
+            "keyname": "Right Windows",
+            "folder": "NamedKeys",
+            "path": "Text_RWin_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_RWin_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_RWin_00.png"
+        },
+        {
+            "keyname": "Delete",
+            "folder": "NamedKeys",
+            "path": "Text_Delete_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Delete_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Delete_00.png"
+        },
+        {
+            "keyname": "End",
+            "folder": "NamedKeys",
+            "path": "Text_End_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_End_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_End_00.png"
+        },
+        {
+            "keyname": "Return",
+            "folder": "NamedKeys",
+            "path": "Text_Enter_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Enter_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Enter_00.png"
+        },
+        {
+            "keyname": "Keypad Enter",
+            "folder": "NamedKeys",
+            "path": "Text_Enter_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Enter_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Enter_00.png"
+        },
+        {
+            "keyname": "Keypad Clear",
+            "folder": "NamedKeys",
+            "path": "Text_Clear_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Enter_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Enter_00.png"
+        },
+        {
+            "keyname": "Escape",
+            "folder": "NamedKeys",
+            "path": "Text_Esc_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Esc_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Esc_00.png"
+        },
+        {
+            "keyname": "Home",
+            "folder": "NamedKeys",
+            "path": "Text_Home_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Home_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Home_00.png"
+        },
+        {
+            "keyname": "Insert",
+            "folder": "NamedKeys",
+            "path": "Text_Insert_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Insert_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Insert_00.png"
+        },
+        {
+            "keyname": "Numlock",
+            "folder": "NamedKeys",
+            "path": "Text_NumLock_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_NumLock_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_NumLock_00.png"
+        },
+        {
+            "keyname": "PageDown",
+            "folder": "NamedKeys",
+            "path": "Text_PageDown_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_PageDown_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_PageDown_00.png"
+        },
+        {
+            "keyname": "PageUp",
+            "folder": "NamedKeys",
+            "path": "Text_PageUp_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_PageUp_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_PageUp_00.png"
+        },
+        {
+            "keyname": "Pause",
+            "folder": "NamedKeys",
+            "path": "Text_Pause_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Pause_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Pause_00.png"
+        },
+        {
+            "keyname": "PrintScreen",
+            "folder": "NamedKeys",
+            "path": "Text_PrintScreen_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_PrintScreen_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_PrintScreen_00.png"
+        },
+        {
+            "keyname": "ScrollLock",
+            "folder": "NamedKeys",
+            "path": "Text_ScrollLock_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_ScrollLock_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_ScrollLock_00.png"
+        },
+        {
+            "keyname": "Left Shift",
+            "folder": "NamedKeys",
+            "path": "Text_Shift_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Shift_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Shift_00.png"
+        },
+        {
+            "keyname": "Right Shift",
+            "folder": "NamedKeys",
+            "path": "Text_Shift_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Shift_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Shift_00.png"
+        },
+        {
+            "keyname": "Space",
+            "folder": "NamedKeys",
+            "path": "Text_Space_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Space_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Space_00.png"
+        },
+        {
+            "keyname": "SysReq",
+            "folder": "NamedKeys",
+            "path": "Text_SysRq_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_SysRq_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_SysRq_00.png"
+        },
+        {
+            "keyname": "Tab",
+            "folder": "NamedKeys",
+            "path": "Text_Tab_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "NamedKeys/ButtonPress_Tab_00.png",
+            "unpressed_glyph_background_path": "NamedKeys/ButtonBase_Tab_00.png"
+        },
+        {
+            "keyname": ",",
+            "folder": "SpecialCharacters",
+            "path": "Special_Comma_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "-",
+            "folder": "SpecialCharacters",
+            "path": "Special_Minus_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": ".",
+            "folder": "SpecialCharacters",
+            "path": "Special_Period_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "=",
+            "folder": "SpecialCharacters",
+            "path": "Special_Equals_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "'",
+            "folder": "SpecialCharacters",
+            "path": "Special_Apostrophe_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "\\",
+            "folder": "SpecialCharacters",
+            "path": "Special_Backslash_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": ";",
+            "folder": "SpecialCharacters",
+            "path": "Special_SemiColon_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "Menu",
+            "folder": "SpecialCharacters",
+            "path": "Special_Menu_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "[",
+            "folder": "SpecialCharacters",
+            "path": "Special_LBracket_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "]",
+            "folder": "SpecialCharacters",
+            "path": "Special_RBracket_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "`",
+            "folder": "SpecialCharacters",
+            "path": "Special_Grave_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "/",
+            "folder": "SpecialCharacters",
+            "path": "Special_Slash_00.png",
+            "custom_render_offset_y": 0
+        },
+        {
+            "keyname": "Keypad =",
+            "folder": "Keypad",
+            "path": "Text_KPEquals_00.png",
+            "custom_render_offset_y": 4,
+            "pressed_glyph_background_path": "Keypad/ButtonPress_KPPlus_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KPPlus_00.png"
+        },
+        {
+            "keyname": "Keypad *",
+            "folder": "Keypad",
+            "path": "Text_KPStar_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KPPlus_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KPPlus_00.png"
+        },
+        {
+            "keyname": "Keypad +",
+            "folder": "Keypad",
+            "path": "Text_KPPlus_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KPPlus_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KPPlus_00.png"
+        },
+        {
+            "keyname": "Keypad -",
+            "folder": "Keypad",
+            "path": "Text_KPMinus_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KPPlus_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KPPlus_00.png"
+        },
+        {
+            "keyname": "Keypad /",
+            "folder": "Keypad",
+            "path": "Text_KPSlash_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KPPlus_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KPPlus_00.png"
+        },
+        {
+            "keyname": "Keypad .",
+            "folder": "Keypad",
+            "path": "Text_KPPeriod_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KPPlus_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KPPlus_00.png"
+        },
+		{
+            "keyname": "Keypad Enter",
+            "folder": "Keypad",
+            "path": "Text_KPENTER2_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KPEnter_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KPEnter_00.png"
+        },
+		{
+            "keyname": "Keypad 0",
+            "folder": "Keypad",
+            "path": "Text_KP0_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KP0_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KP0_00.png"
+        },
+		{
+            "keyname": "Keypad 1",
+            "folder": "Keypad",
+            "path": "Text_KP1_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KP0_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KP0_00.png"
+        },
+		{
+            "keyname": "Keypad 2",
+            "folder": "Keypad",
+            "path": "Text_KP2_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KP0_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KP0_00.png"
+        },
+		{
+            "keyname": "Keypad 3",
+            "folder": "Keypad",
+            "path": "Text_KP3_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KP0_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KP0_00.png"
+        },
+		{
+            "keyname": "Keypad 4",
+            "folder": "Keypad",
+            "path": "Text_KP4_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KP0_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KP0_00.png"
+        },
+		{
+            "keyname": "Keypad 5",
+            "folder": "Keypad",
+            "path": "Text_KP5_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KP0_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KP0_00.png"
+        },
+		{
+            "keyname": "Keypad 6",
+            "folder": "Keypad",
+            "path": "Text_KP6_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KP0_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KP0_00.png"
+        },
+		{
+            "keyname": "Keypad 7",
+            "folder": "Keypad",
+            "path": "Text_KP7_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KP0_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KP0_00.png"
+        },
+		{
+            "keyname": "Keypad 8",
+            "folder": "Keypad",
+            "path": "Text_KP8_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KP0_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KP0_00.png"
+        },
+		{
+            "keyname": "Keypad 9",
+            "folder": "Keypad",
+            "path": "Text_KP9_00.png",
+            "custom_render_offset_y": 4,
+			"pressed_glyph_background_path": "Keypad/ButtonPress_KP0_00.png",
+            "unpressed_glyph_background_path": "Keypad/ButtonBase_KP0_00.png"
+        }
+    ]
+}

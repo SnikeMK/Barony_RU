@@ -1,0 +1,133 @@
+{
+    "version": 1,
+    "stats": {
+        "name": "skeleton ranger",
+        "type": "skeleton",
+        "sex": 0,
+        "appearance": 5713,
+        "HP": 60,
+        "MAXHP": 60,
+        "MP": 30,
+        "MAXMP": 30,
+        "STR": 0,
+        "DEX": 2,
+        "CON": 1,
+        "INT": -1,
+        "PER": 2,
+        "CHR": -3,
+        "EXP": 0,
+        "LVL": 2,
+        "GOLD": 0
+    },
+    "misc_stats": {
+        "RANDOM_STR": 0,
+        "RANDOM_DEX": 0,
+        "RANDOM_CON": 0,
+        "RANDOM_INT": 0,
+        "RANDOM_PER": 0,
+        "RANDOM_CHR": 0,
+        "RANDOM_MAXHP": 0,
+        "RANDOM_HP": 0,
+        "RANDOM_MAXMP": 0,
+        "RANDOM_MP": 0,
+        "RANDOM_LVL": 0,
+        "RANDOM_GOLD": 0
+    },
+    "proficiencies": {
+        "Tinkering": 0,
+        "Stealth": 0,
+        "Trading": 0,
+        "Appraise": 0,
+        "Swimming": 0,
+        "Leader": 0,
+        "Casting": 0,
+        "Magic": 0,
+        "Ranged": 35,
+        "Sword": 35,
+        "Mace": 50,
+        "Axe": 45,
+        "Polearm": 25,
+        "Shield": 35,
+        "Unarmed": 0,
+        "Alchemy": 0
+    },
+    "equipped_items": {
+        "weapon": [
+			{
+				"type": ["sling", "shortbow"],
+				"status": ["decrepit", "worn"],
+				"beatitude": [-1, 0],
+				"count": 1,
+				"appearance": "random",
+				"identified": false,
+				"spawn_percent_chance": 100,
+				"drop_percent_chance": 100,
+				"slot_weighted_chance": 2
+			},
+			{
+				"type": ["sling", "shortbow"],
+				"status": ["worn"],
+				"beatitude": 0,
+				"count": 1,
+				"appearance": "random",
+				"identified": false,
+				"spawn_percent_chance": 100,
+				"drop_percent_chance": 100,
+				"slot_weighted_chance": 1
+			}
+		],
+        "shield": [
+			{
+				"type": ["quiver_heavy", "quiver_lightweight"],
+				"status": "serviceable",
+				"beatitude": -1,
+				"count": [3,4,5,6,7],
+				"appearance": "random",
+				"identified": false,
+				"spawn_percent_chance": 50,
+				"drop_percent_chance": 100,
+				"slot_weighted_chance": 4
+			},
+			{
+				"type": ["quiver_fire"],
+				"status": "serviceable",
+				"beatitude": -1,
+				"count": [3,4,5,6,7],
+				"appearance": "random",
+				"identified": false,
+				"spawn_percent_chance": 50,
+				"drop_percent_chance": 100,
+				"slot_weighted_chance": 1
+			}
+		],
+        "helmet": {
+            "type": "hat_hood",
+            "status": "decrepit",
+            "beatitude": -1,
+            "count": 1,
+            "appearance": [0,1],
+            "identified": false,
+            "spawn_percent_chance": 100,
+            "drop_percent_chance": 100,
+            "slot_weighted_chance": 1
+        }
+    },
+    "inventory_items": [],
+    "properties": {
+        "monster_name_always_display_as_generic_species": true,
+        "populate_empty_equipped_items_with_default": false,
+        "populate_default_inventory": false,
+        "disable_miniboss_chance": true,
+        "force_player_recruitable": false,
+        "force_player_friendly": false,
+        "force_player_enemy": false,
+        "disable_item_drops": false,
+        "xp_award_percent": 100,
+        "enable_casting_inventory_spellbooks": false,
+        "spellbook_cast_cooldown": 250
+    },
+    "followers": {
+        "num_followers": 0,
+        "follower_variants": {}
+    }
+}

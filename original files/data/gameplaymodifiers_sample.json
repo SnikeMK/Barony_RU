@@ -1,0 +1,88 @@
+{
+    "version": 1,
+    "xp_share_range": 256,
+    "global_xp_award_percent": 100,
+    "global_gold_drop_scale_percent": 100,
+    "player_share_minimap_progress": false,
+    "player_speed_weight_impact_percent": 100,
+    "player_speed_max": 18.0,
+    "minotaur_force_disable_on_floors": {
+        "normal_floors": [],
+        "secret_floors": []
+    },
+    "minotaur_force_enable_on_floors": {
+        "normal_floors": [],
+        "secret_floors": []
+    },
+    "disable_herx_messages_on_floors": {
+        "normal_floors": [],
+        "secret_floors": []
+    },
+    "disable_minimap_on_floors": {
+        "normal_floors": [],
+        "secret_floors": []
+    },
+    "map_generation": {
+        "The Mines": {
+            "trap_generation_types": [
+                "boulders"
+            ],
+            "minotaur_floors": [
+                2,
+                3
+            ],
+            "minotaur_floor_percent": 50,
+            "dark_floors": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "dark_floor_percent": 25,
+            "shop_floors": [
+                2,
+                3,
+                4
+            ],
+            "shop_floor_percent": 50,
+            "npc_floors": [
+                2,
+                3,
+                4
+            ],
+            "npc_spawn_chance": 10
+        },
+        "The Swamp": {
+            "trap_generation_types": [
+                "boulders",
+                "arrows"
+            ],
+            "minotaur_floors": [
+                7,
+                8
+            ],
+            "minotaur_floor_percent": 50,
+            "dark_floors": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "dark_floor_percent": 25,
+            "shop_floors": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "shop_floor_percent": 50,
+            "npc_floors": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "npc_spawn_chance": 10
+        }
+    }
+}

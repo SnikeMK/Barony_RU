@@ -1,0 +1,170 @@
+{
+	"version": 1,
+	"comment": "Misc entity data here.",
+	"entities": {
+		"collider_dmg_calcs": {
+			"default": {
+				"burnable": false,
+				"minotaur_path_and_break": true,
+				"melee": true,
+				"magic": true,
+				"bombs_attach": true,
+				"boulder_destroy": true,
+				"minimap_appear_as_wall": true,
+				"bonus_damage_skills": ["PRO_AXE", "PRO_MACE"]
+			},
+			"no_magic": {
+				"burnable": false,
+				"minotaur_path_and_break": false,
+				"melee": true,
+				"magic": false,								
+				"bombs_attach": true,
+				"boulder_destroy": true,
+				"minimap_appear_as_wall": true,
+				"bonus_damage_skills": ["PRO_AXE", "PRO_MACE"]
+			},
+			"stone_wall": {
+				"burnable": false,
+				"minotaur_path_and_break": false,
+				"melee": true,
+				"magic": true,
+				"bombs_attach": true,				
+				"boulder_destroy": true,
+				"minimap_appear_as_wall": true,
+				"bonus_damage_skills": ["PRO_MACE"]
+			},
+			"wood_wall": {
+				"burnable": true,
+				"minotaur_path_and_break": false,
+				"melee": true,
+				"magic": true,
+				"bombs_attach": true,				
+				"boulder_destroy": true,
+				"minimap_appear_as_wall": true,
+				"bonus_damage_skills": ["PRO_AXE", "PRO_UNARMED"]
+			},			
+			"cordage_wall": {
+				"burnable": true,
+				"minotaur_path_and_break": true,
+				"melee": true,
+				"magic": true,
+				"bombs_attach": false,				
+				"boulder_destroy": true,
+				"minimap_appear_as_wall": true,
+				"bonus_damage_skills": ["PRO_SWORD"]
+			}			
+		},
+		"collider_dmg_types": {
+			"0" : {
+				"name": "default",
+				"gib_model": 0,
+				"sfx_break": 67,
+				"sfx_hit": 0,
+				"damage_calc": "default",
+				"entity_lang_entry": 4335,
+				"hit_message": 2509,
+				"break_message": 2510,
+				"hp_bar_lookup_name": "object"
+			},
+			"1" : {
+				"name": "wood_barricade",
+				"gib_model": 1228,
+				"sfx_break": 177,
+				"sfx_hit": 0,
+				"damage_calc": "wood_wall",
+				"entity_lang_entry": 4336,
+				"hit_message": 2509,
+				"break_message": 2510,
+				"hp_bar_lookup_name": "breakable_wall"
+			},			
+			"2" : {
+				"name": "mines_weakwall",
+				"gib_model": 1224,
+				"sfx_break": 67,
+				"sfx_hit": 565,
+				"damage_calc": "stone_wall",
+				"entity_lang_entry": 4336,
+				"hit_message": 2509,
+				"break_message": 2510,
+				"hp_bar_lookup_name": "breakable_wall"
+			},
+			"3" : {
+				"name": "stone_wall",
+				"gib_model": 555,
+				"sfx_break": 67,
+				"sfx_hit": 0,
+				"damage_calc": "default",
+				"entity_lang_entry": 4336,
+				"hit_message": 2509,
+				"break_message": 2510,
+				"hp_bar_lookup_name": "breakable_wall"
+			},
+			"4" : {
+				"name": "spiderweb",
+				"gib_model": 1223,
+				"sfx_break": 67,
+				"sfx_hit": 595,
+				"damage_calc": "cordage_wall",
+				"entity_lang_entry": 4338,
+				"hit_message": 2509,
+				"break_message": 2510,
+				"hp_bar_lookup_name": "breakable_wall"
+			},
+			"5" : {
+				"name": "labyrinth_weakwall",
+				"gib_model": 1222,
+				"sfx_break": 67,
+				"sfx_hit": 565,
+				"damage_calc": "stone_wall",
+				"entity_lang_entry": 4336,
+				"hit_message": 2509,
+				"break_message": 2510,
+				"hp_bar_lookup_name": "breakable_wall"
+			},
+			"6" : {
+				"name": "ruins_weakwall",
+				"gib_model": 555,
+				"sfx_break": 67,
+				"sfx_hit": 565,
+				"damage_calc": "stone_wall",
+				"entity_lang_entry": 4336,
+				"hit_message": 2509,
+				"break_message": 2510,
+				"hp_bar_lookup_name": "breakable_wall"
+			},
+			"7" : {
+				"name": "hell_weakwall",
+				"gib_model": 555,
+				"sfx_break": 67,
+				"sfx_hit": 565,
+				"damage_calc": "stone_wall",
+				"entity_lang_entry": 4336,
+				"hit_message": 2509,
+				"break_message": 2510,
+				"hp_bar_lookup_name": "breakable_wall"
+			},
+			"8" : {
+				"name": "caves_weakwall",
+				"gib_model": 555,
+				"sfx_break": 67,
+				"sfx_hit": 565,
+				"damage_calc": "stone_wall",
+				"entity_lang_entry": 4336,
+				"hit_message": 2509,
+				"break_message": 2510,
+				"hp_bar_lookup_name": "breakable_wall"
+			},
+			"9" : {
+				"name": "citadel_weakwall",
+				"gib_model": 555,
+				"sfx_break": 451,
+				"sfx_hit": 565,
+				"damage_calc": "stone_wall",
+				"entity_lang_entry": 4336,
+				"hit_message": 2509,
+				"break_message": 2510,
+				"hp_bar_lookup_name": "breakable_wall"
+			}
+		}
+	}
+}

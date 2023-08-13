@@ -1,0 +1,590 @@
+ {
+	"version": 1,
+	"comment": "Light definitions",
+	"lights": {
+        "editor": {
+            "radius": 16,
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "falloff_exp": 0.5,
+            "shadows": false
+        },
+        "mainmenu": {
+            "radius": 8,
+            "r": 0.2,
+            "g": 0.2,
+            "b": 0.3,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+		"fire_arrow": {
+            "radius": 4,
+            "r": 0.4,
+            "g": 0.2,
+            "b": 0.01,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "fire_arrow_flicker": {
+            "radius": 4,
+            "r": 0.15,
+            "g": 0.10,
+            "b": 0.005,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "trap_teleport": {
+            "radius": 2,
+            "r": 0.6,
+            "g": 0.2,
+            "b": 1,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "campfire": {
+            "radius": 6,
+            "r": 0.7,
+            "g": 0.4,
+            "b": 0.2,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "campfire_flicker": {
+            "radius": 6,
+            "r": 0.5,
+            "g": 0.3,
+            "b": 0.1,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "orb_blue": {
+            "radius": 3,
+            "r": 0.2,
+            "g": 0.2,
+            "b": 1,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "orb_red": {
+            "radius": 3,
+            "r": 1,
+            "g": 0.2,
+            "b": 0.2,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "orb_purple": {
+            "radius": 3,
+            "r": 0.6,
+            "g": 0.2,
+            "b": 1,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "orb_green": {
+            "radius": 3,
+            "r": 0.2,
+            "g": 1,
+            "b": 0.2,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "lootbag_yellow": {
+            "radius": 3,
+            "r": 1,
+            "g": 0.65,
+            "b": 0.2,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "lootbag_green": {
+            "radius": 3,
+            "r": 0.2,
+            "g": 1,
+            "b": 0.2,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "lootbag_red": {
+            "radius": 3,
+            "r": 1,
+            "g": 0.25,
+            "b": 0.2,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "lootbag_pink": {
+            "radius": 3,
+            "r": 0.75,
+            "g": 0.4,
+            "b": 1,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "lootbag_white": {
+            "radius": 3,
+            "r": 0.75,
+            "g": 0.75,
+            "b": 0.75,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "portal_purple": {
+            "radius": 3,
+            "r": 0.9,
+            "g": 0.4,
+            "b": 1,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "portal_white": {
+            "radius": 3,
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "portal_blue": {
+            "radius": 3,
+            "r": 0.0,
+            "g": 0.75,
+            "b": 1.0,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "magictrap": {
+            "radius": 3,
+            "r": 0.3,
+            "g": 0.3,
+            "b": 0.3,
+            "falloff_exp": 0.5,
+            "shadows": false
+        },
+        "teleport_shrine": {
+            "radius": 2,
+            "r": 0.35,
+            "g": 0.15,
+            "b": 0.6,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "player_burning": {
+            "radius": 4,
+            "r": 0.6,
+            "g": 0.3,
+            "b": 0.0,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "player_torch": {
+            "radius": 6,
+            "r": 0.85,
+            "g": 0.65,
+            "b": 0.55,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "player_lantern": {
+            "radius": 9,
+            "r": 1,
+            "g": 0.8,
+            "b": 0.6,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "player_shard": {
+            "radius": 8,
+            "r": 0.2,
+            "g": 0.25,
+            "b": 0.4,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "player_sneaking": {
+            "radius": 6,
+            "r": 0.15,
+            "g": 0.15,
+            "b": 0.3,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "player_ambient": {
+            "radius": 4,
+            "r": 0.2,
+            "g": 0.2,
+            "b": 0.37,
+            "falloff_exp": 0.6,
+            "shadows": true
+        },
+        "player_ambient_rat": {
+            "radius": 6,
+            "r": 0.25,
+            "g": 0.25,
+            "b": 0.4,
+            "falloff_exp": 0.6,
+            "shadows": true
+		},
+			"player_ambient_rat_sneaking": {
+			"radius": 9,
+			"r": 0.25,
+			"g": 0.05,
+			"b": 0.05,
+			"falloff_exp": 0.5,
+			"shadows": true
+        },
+        "player_ambient_spider": {
+            "radius": 6,
+            "r": 0.25,
+            "g": 0.25,
+            "b": 0.4,
+            "falloff_exp": 0.6,
+            "shadows": true
+		},
+			"player_ambient_spider_sneaking": {
+			"radius": 9,
+			"r": 0.25,
+			"g": 0.05,
+			"b": 0.05,
+			"falloff_exp": 0.5,
+			"shadows": true
+		},
+		"player_ambient_troll": {
+            "radius": 4,
+            "r": 0.2,
+            "g": 0.15,
+            "b": 0.5,
+            "falloff_exp": 0.5,
+            "shadows": true
+		},
+			"player_ambient_troll_sneaking": {
+			"radius": 9,
+			"r": 0.15,
+			"g": 0.1,
+			"b": 0.4,
+			"falloff_exp": 0.6,
+			"shadows": true
+        },
+        "player_ambient_imp": {
+            "radius": 6,
+            "r": 0.35,
+            "g": 0.2,
+            "b": 0.45,
+            "falloff_exp": 0.6,
+            "shadows": true
+		},
+			"player_ambient_imp_sneaking": {
+			"radius": 9,
+			"r": 0.30,
+			"g": 0.10,
+			"b": 0.5,
+			"falloff_exp": 0.5,
+			"shadows": true
+		},
+        "npc_burning": {
+            "radius": 6,
+            "r": 0.6,
+            "g": 0.3,
+            "b": 0.0,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "npc_torch": {
+            "radius": 6,
+            "r": 0.75,
+            "g": 0.65,
+            "b": 0.55,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "npc_lantern": {
+            "radius": 9,
+            "r": 1,
+            "g": 0.85,
+            "b": 0.8,
+            "falloff_exp": 0.8,
+            "shadows": true
+        },
+        "npc_shard": {
+            "radius": 6,
+            "r": 0.2,
+            "g": 0.4,
+            "b": 0.5,
+            "falloff_exp": 0.6,
+            "shadows": true
+        },
+        "deathcam": {
+            "radius": 3,
+            "r": 0.5,
+            "g": 0.5,
+            "b": 0.5,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "explosion": {
+            "radius": 2,
+            "r": 4.5,
+            "g": 2.8,
+            "b": 1.75,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "torch_wall": {
+            "radius": 6,
+            "r": 0.75,
+            "g": 0.65,
+            "b": 0.55,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "torch_wall_flicker": {
+            "radius": 6,
+            "r": 0.65,
+            "g": 0.55,
+            "b": 0.45,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "crystal_shard_wall": {
+            "radius": 6,
+            "r": 0.2,
+            "g": 0.4,
+            "b": 0.5,
+            "falloff_exp": 0.6,
+            "shadows": true
+        },
+        "crystal_shard_wall_flicker": {
+            "radius": 6,
+            "r": 0.3,
+            "g": 0.5,
+            "b": 0.6,
+            "falloff_exp": 0.6,
+            "shadows": true
+        },
+        "scroll_light": {
+            "radius": 8,
+            "r": 0.6,
+            "g": 0.6,
+            "b": 0.6,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "magic_light": {
+            "radius": 9,
+            "r": 0.75,
+            "g": 0.75,
+            "b": 0.75,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "magic_light_flicker": {
+            "radius": 9,
+            "r": 0.7,
+            "g": 0.7,
+            "b": 0.7,
+            "falloff_exp": 0.7,
+            "shadows": true
+        },
+        "magic_red": {
+            "radius": 3,
+            "r": 2.7,
+            "g": 1.5,
+            "b": 0.8,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_red_flicker": {
+            "radius": 3,
+            "r": 2.2,
+            "g": 1.0,
+            "b": 0.55,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "magic_orange": {
+            "radius": 3,
+            "r": 0.7,
+            "g": 0.4,
+            "b": 0.2,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_orange_flicker": {
+            "radius": 3,
+            "r": 0.6,
+            "g": 0.3,
+            "b": 0.1,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_yellow": {
+            "radius": 3,
+            "r": 3.7,
+            "g": 2.5,
+            "b": 1.6,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_yellow_flicker": {
+            "radius": 6,
+            "r": 0.5,
+            "g": 0.5,
+            "b": 0,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "magic_green": {
+            "radius": 2,
+            "r": 0.0,
+            "g": 0.7,
+            "b": 0.0,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_green_flicker": {
+            "radius": 2,
+            "r": 0.0,
+            "g": 0.5,
+            "b": 0.0,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_blue": {
+            "radius": 3,
+            "r": 0.0,
+            "g": 0.35,
+            "b": 0.7,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_blue_flicker": {
+            "radius": 3,
+            "r": 0.0,
+            "g": 0.25,
+            "b": 0.5,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_purple": {
+            "radius": 3,
+            "r": 0.7,
+            "g": 0.0,
+            "b": 0.7,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_purple_flicker": {
+            "radius": 3,
+            "r": 0.5,
+            "g": 0.0,
+            "b": 0.5,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_white": {
+            "radius": 1,
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_white_flicker": {
+            "radius": 1,
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_black": {
+            "radius": 3,
+            "r": 0.05,
+            "g": 0.0,
+            "b": 0.1,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "magic_black_flicker": {
+            "radius": 3,
+            "r": 0.02,
+            "g": 0.00,
+            "b": 0.05,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_pink": {
+            "radius": 3,
+            "r": 0.7,
+            "g": 0.55,
+            "b": 0.55,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "magic_pink_flicker": {
+            "radius": 3,
+            "r": 0.5,
+            "g": 0.35,
+            "b": 0.35,
+            "falloff_exp": 1,
+            "shadows": true
+        },
+        "lava": {
+            "radius": 2,
+            "r": 0.5,
+            "g": 0.25,
+            "b": 0.12,
+            "falloff_exp": 0.8,
+            "shadows": true
+        },
+        "herx_glow": {
+            "radius": 4,
+            "r": 0.5,
+            "g": 0.25,
+            "b": 0.75,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "fire_lich_glow": {
+            "radius": 4,
+            "r": 0.75,
+            "g": 0.5,
+            "b": 0.0,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "ice_lich_glow": {
+            "radius": 4,
+            "r": 0.0,
+            "g": 0.35,
+            "b": 0.75,
+            "falloff_exp": 0.5,
+            "shadows": true
+        },
+        "gyrobot_faint": {
+            "radius": 8,
+            "r": 0.03,
+            "g": 0.5,
+            "b": 0.15,
+            "falloff_exp": 0.65,
+            "shadows": true
+        },
+        "gyrobot_bright": {
+            "radius": 9,
+            "r": 0.55,
+            "g": 1.75,
+            "b": 0.88,
+            "falloff_exp": 0.8,
+            "shadows": true
+        },
+        "summoned_skeleton_glow": {
+            "radius": 1,
+            "r": 0.03,
+            "g": 0.12,
+            "b": 0.12,
+            "falloff_exp": 0.5,
+            "shadows": true
+        }
+	}
+}
